@@ -1079,7 +1079,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-09T08:51:54Z",
+            "last_commit": "2026-08-14T06:30:10Z",
             "owner": "dds",
             "repo": "aoc2020",
             "stars": 11
@@ -1900,7 +1900,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-11T11:37:35Z",
+            "last_commit": "2026-08-14T07:49:14Z",
             "owner": "vuryss",
             "repo": "aoc-java",
             "stars": 8
@@ -2479,7 +2479,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T09:14:39Z",
+            "last_commit": "2026-08-13T20:48:51Z",
             "owner": "maneatingape",
             "repo": "advent-of-code-rust",
             "stars": 542
@@ -2759,7 +2759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T09:30:53.070Z",
+    "last_updated": "2026-08-14T09:18:33.464Z",
     "original_repository": "Bogdanp/awesome-advent-of-code",
     "original_repository_sha": "79ad7020e605c9517cb5fb31b4a21e5b73227bd4",
     "enhanced_repository": "enhansome/enhansome-advent-of-code",
