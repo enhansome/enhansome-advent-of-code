@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2025-12-14T14:48:32Z",
+            "last_commit": "2026-08-15T16:53:15Z",
             "owner": "derailed-dash",
             "repo": "advent-of-code",
             "stars": 95
@@ -1900,7 +1900,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T15:12:10Z",
+            "last_commit": "2026-08-15T11:43:55Z",
             "owner": "vuryss",
             "repo": "aoc-java",
             "stars": 8
@@ -2147,7 +2147,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2025-12-14T14:48:32Z",
+            "last_commit": "2026-08-15T16:53:15Z",
             "owner": "derailed-dash",
             "repo": "advent-of-code",
             "stars": 95
@@ -2479,7 +2479,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T18:55:39Z",
+            "last_commit": "2026-08-15T22:48:13Z",
             "owner": "maneatingape",
             "repo": "advent-of-code-rust",
             "stars": 542
@@ -2759,7 +2759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:42:56.124Z",
+    "last_updated": "2026-08-16T08:44:53.479Z",
     "original_repository": "Bogdanp/awesome-advent-of-code",
     "original_repository_sha": "79ad7020e605c9517cb5fb31b4a21e5b73227bd4",
     "enhanced_repository": "enhansome/enhansome-advent-of-code",
