@@ -196,7 +196,7 @@
             "last_commit": "2025-12-01T18:27:27Z",
             "owner": "encse",
             "repo": "adventofcode-template",
-            "stars": 25
+            "stars": 24
           }
         },
         {
@@ -1079,7 +1079,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T20:00:10Z",
+            "last_commit": "2026-08-17T07:05:59Z",
             "owner": "dds",
             "repo": "aoc2020",
             "stars": 11
@@ -1407,7 +1407,7 @@
             "last_commit": "2026-07-17T21:20:09Z",
             "owner": "encse",
             "repo": "adventofcode",
-            "stars": 400
+            "stars": 401
           }
         },
         {
@@ -1900,7 +1900,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T11:43:55Z",
+            "last_commit": "2026-08-16T13:05:43Z",
             "owner": "vuryss",
             "repo": "aoc-java",
             "stars": 8
@@ -2371,7 +2371,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T07:02:07Z",
+            "last_commit": "2026-08-17T03:24:04Z",
             "owner": "vil02",
             "repo": "adv_2025",
             "stars": 0
@@ -2479,7 +2479,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T22:48:13Z",
+            "last_commit": "2026-08-16T14:06:18Z",
             "owner": "maneatingape",
             "repo": "advent-of-code-rust",
             "stars": 542
@@ -2759,9 +2759,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T08:44:53.479Z",
+    "last_updated": "2026-08-17T08:58:22.364Z",
     "original_repository": "Bogdanp/awesome-advent-of-code",
-    "original_repository_sha": "79ad7020e605c9517cb5fb31b4a21e5b73227bd4",
+    "original_repository_sha": "df91fb3290eec8bcf8def1d3700bc7eaf2c9738e",
     "enhanced_repository": "enhansome/enhansome-advent-of-code",
     "enhanced_repository_description": null,
     "title": "Awesome Advent of Code with stars"
