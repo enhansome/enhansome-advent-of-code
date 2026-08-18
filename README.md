@@ -131,7 +131,7 @@ in your favourite language.*
 
 * [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) ⭐ 830 | 🐛 11 | 🌐 Rust | 📅 2025-11-26 *(Rust)*
 * [kotlin-hands-on/advent-of-code-kotlin-template](https://github.com/kotlin-hands-on/advent-of-code-kotlin-template) ⭐ 698 | 🐛 4 | 🌐 Kotlin | 📅 2025-11-29 *(Kotlin)*
-* [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) ⭐ 475 | 🐛 51 | 🌐 Rust | 📅 2025-05-09 *(Rust)*
+* [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) ⭐ 476 | 🐛 51 | 🌐 Rust | 📅 2025-05-09 *(Rust)*
 * [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) ⭐ 216 | 🐛 0 | 🌐 Elixir | 📅 2024-12-03 *(Elixir)*
 * [SpexGuy/Zig-AoC-Template](https://github.com/SpexGuy/Zig-AoC-Template) ⭐ 130 | 🐛 2 | 🌐 Zig | 📅 2024-11-10 *(Zig)*
 * [derailed-dash/Advent-of-Code](https://github.com/derailed-dash/Advent-of-Code) ⭐ 95 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-08-15 *(Python Jupyter Notebook)*
@@ -196,7 +196,7 @@ in your favourite language.*
   * [Firefox extension "Advent of Code Charts"](https://addons.mozilla.org/en-US/firefox/addon/advent-of-code-charts/)
 * [aoc-badges-action](https://github.com/J0B10/aoc-badges-action) ⭐ 129 | 🐛 1 | 🌐 Python | 📅 2024-02-10 -- A GitHub action for updating various aoc-related badges in your README *(GitHub Action, Python)*
 * [aocdl](https://github.com/GreenLightning/advent-of-code-downloader) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2025-12-04 -- Command-line utility that automatically downloads your personal input file while you read the puzzle description *(Go)*.
-* [AoCHelper](https://github.com/eduherminio/AoCHelper) ⭐ 64 | 🐛 8 | 🌐 C# | 📅 2026-08-14 -- NuGet library that simplifies puzzle solving and provides benchmarking *(.NET)*.
+* [AoCHelper](https://github.com/eduherminio/AoCHelper) ⭐ 64 | 🐛 9 | 🌐 C# | 📅 2026-08-17 -- NuGet library that simplifies puzzle solving and provides benchmarking *(.NET)*.
 * [advent-readme-stars](https://github.com/k2bd/advent-readme-stars) ⭐ 45 | 🐛 6 | 🌐 Python | 📅 2024-06-17 -- A GitHub action that adds and maintains a table of your AoC progress to your README *(GitHub Action, Python)*
 * [aoc-tiles](https://github.com/LiquidFun/aoc_tiles) ⭐ 42 | 🐛 3 | 🌐 Python | 📅 2025-12-12 -- A tool which automatically creates a fancy image with solve times for each solved day in your readme as a 5x5 grid. Works as a pre-commit hook or as a CLI *(Python)*.
 * [aocf](https://github.com/nuxeh/aocf) ⭐ 38 | 🐛 10 | 🌐 Rust | 📅 2024-12-02 -- A CLI tool (and also, optionally, crate) written in Rust, with a CLI inspired by git. Problem briefs may be displayed in a scrollable ANSI terminal (mostly) faithful to the AoC website.
@@ -209,9 +209,9 @@ in your favourite language.*
 * [erikw/advent-of-code-solutions](https://github.com/erikw/advent-of-code-solutions) ⭐ 16 | 🐛 0 | 🌐 Ruby | 📅 2026-05-08 Util scripts for creating year/day folder/files from language templates, input fetching, boiler plate file generation. See `bin/solve_day.sh` and `bin/stats.sh`.
 * [advent-of-code-client](https://github.com/toblu/advent-of-code-client) ⭐ 15 | 🐛 1 | 🌐 TypeScript | 📅 2022-12-10 -- A Node.js package for fetching inputs, running puzzle challenges and submitting answers to adventofcode.com directly from your JavaScript code. Also includes some commonly used & customizable input transformation functions. *(JavaScript)*
 * [aoc\_helper](https://github.com/Starwort/aoc_helper) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-12-08 -- `aoc_helper` is a library and command line tool which can generate templates, fetch puzzle inputs, submit solutions, and even automatically detect the tests! It also comes with a huge library of utility classes, such as fluent interfaces to iterators and lists, grids which can automatically read text, and more. *(Python)*
-* [advent-of-code-ocr](https://github.com/bsoyka/advent-of-code-ocr) ⭐ 13 | 🐛 4 | 🌐 Python | 📅 2026-08-10 -- Python module for parsing AoC ascii art words *(Python)*
+* [advent-of-code-ocr](https://github.com/bsoyka/advent-of-code-ocr) ⭐ 13 | 🐛 4 | 🌐 Python | 📅 2026-08-17 -- Python module for parsing AoC ascii art words *(Python)*
 * [esb](https://github.com/luxedo/esb) ⭐ 12 | 🐛 2 | 🌐 Python | 📅 2025-12-30 -- `esb` is a CLI tool to help us elves save Christmas for the yearly [Advent of Code](https://adventofcode.com/) events. (Thank you, [Eric! 😉](https://twitter.com/ericwastl)). This tool fetches puzzle statements and puzzle data, creates language agnostic boilerplate code, test run and submit solutions and builds dashboards. Check out an [example repo](https://github.com/luxedo/advent-of-code) ⭐ 2 | 🐛 1 | 🌐 Go | 📅 2026-02-13 created using `esb`! *(Python, Rust, Elixir, Go)*
-* [aocinput](https://github.com/dds/aoc2020/blob/main/cmd/aocinput/aocinput.go) ⭐ 11 | 🐛 6 | 🌐 Go | 📅 2026-08-17 -- CLI for getting inputs. Clipboard support. Polite to AoC. Nice help and options. *(Go)*
+* [aocinput](https://github.com/dds/aoc2020/blob/main/cmd/aocinput/aocinput.go) ⭐ 11 | 🐛 7 | 🌐 Go | 📅 2026-08-18 -- CLI for getting inputs. Clipboard support. Polite to AoC. Nice help and options. *(Go)*
 * [aoc-cli](https://github.com/keirua/aoc-cli) ⭐ 11 | 🐛 0 | 🌐 Ruby | 📅 2022-12-01 -- Command-line utility that helps solve problems in ruby: it downloads your personal input file, creates the sample source files and benchmarks your solutions *(Ruby)*.
 * [advent-of-code](https://github.com/jromero132/advent-of-code) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-12-17 -- Command-line interface to download challenge descriptions and inputs, manage, test and automatically submit solutions. *(Python)*
 * [aoctimer](https://github.com/caderek/aoctimer) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2022-12-01 -- A language-agnostic, multiplatform tool to measure your solution time in relative units, so you can share and compare your results with others.
@@ -575,7 +575,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [ephemient/aoc2025](https://github.com/ephemient/aoc2025) ⭐ 0 | 🐛 0 | 🌐 Kotlin | 📅 2025-12-11 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--11-brightgreen)
 * [MrRobb/advent-of-code-2025](https://github.com/MrRobb/advent-of-code-2025) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [NicoDeGiacomo/advent-of-code](https://github.com/NicoDeGiacomo/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-01-26 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--01--26-brightgreen)
-* [vil02/adv\_2025](https://github.com/vil02/adv_2025) ⭐ 0 | 🐛 4 | 🌐 Python | 📅 2026-08-17 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--08--13-brightgreen)
+* [vil02/adv\_2025](https://github.com/vil02/adv_2025) ⭐ 0 | 🐛 4 | 🌐 Python | 📅 2026-08-18 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--08--13-brightgreen)
 
 #### R
 
@@ -627,7 +627,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Rust.*
 
-* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 542 | 🐛 4 | 🌐 Rust | 📅 2026-08-16 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--08--16-brightgreen)
+* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 542 | 🐛 4 | 🌐 Rust | 📅 2026-08-17 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--08--16-brightgreen)
 * [connorslade/advent-of-code](https://github.com/connorslade/advent-of-code) ⭐ 38 | 🐛 0 | 🌐 Rust | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [rene-d/advent-of-rust](https://github.com/rene-d/advent-of-rust) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2026-07-10 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--07--10-brightgreen)
 * [happycoder74/adventofcode](https://github.com/happycoder74/adventofcode) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2026-02-09 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--02--09-brightgreen)
@@ -733,4 +733,4 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
