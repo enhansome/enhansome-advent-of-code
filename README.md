@@ -143,7 +143,7 @@ in your favourite language.*
 * [xavdid/advent-of-code-python-template](https://github.com/xavdid/advent-of-code-python-template) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2024-11-30 *(Python)*
 * [pacso/aoc\_rb](https://github.com/pacso/aoc_rb) ⭐ 26 | 🐛 1 | 🌐 Ruby | 📅 2024-12-10 *(Ruby)*
 * [encse/adventofcode-template](https://github.com/encse/adventofcode-template) ⭐ 24 | 🐛 0 | 🌐 C# | 📅 2025-12-01 *(C#)*
-* [hughjdavey/aoc-kotlin-starter](https://github.com/hughjdavey/aoc-kotlin-starter) ⭐ 22 | 🐛 0 | 🌐 Kotlin | 📅 2025-12-01 *(Kotlin)*
+* [hughjdavey/aoc-kotlin-starter](https://github.com/hughjdavey/aoc-kotlin-starter) ⭐ 22 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-19 *(Kotlin)*
 * [jjcomer/aoc-helper](https://github.com/jjcomer/aoc-helper) ⭐ 20 | 🐛 0 | 🌐 Clojure | 📅 2024-12-03 *(Clojure)*
 * [tomfran/advent-of-code-setup](https://github.com/tomfran/advent-of-code-setup) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2022-12-01 *(Python)*
 * [caderek/aoc-starter-ts](https://github.com/caderek/aoc-starter-ts) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2021-12-01 *(TypeScript)*
@@ -575,7 +575,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [ephemient/aoc2025](https://github.com/ephemient/aoc2025) ⭐ 0 | 🐛 0 | 🌐 Kotlin | 📅 2025-12-11 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--11-brightgreen)
 * [MrRobb/advent-of-code-2025](https://github.com/MrRobb/advent-of-code-2025) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [NicoDeGiacomo/advent-of-code](https://github.com/NicoDeGiacomo/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-01-26 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--01--26-brightgreen)
-* [vil02/adv\_2025](https://github.com/vil02/adv_2025) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-08-18 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--08--13-brightgreen)
+* [vil02/adv\_2025](https://github.com/vil02/adv_2025) ⭐ 0 | 🐛 2 | 🌐 Python | 📅 2026-08-19 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--08--13-brightgreen)
 
 #### R
 

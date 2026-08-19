@@ -222,7 +222,7 @@
             "archived": false,
             "id": 160060570,
             "language": "Kotlin",
-            "last_commit": "2025-12-01T20:36:23Z",
+            "last_commit": "2026-08-19T09:50:14Z",
             "owner": "hughjdavey",
             "repo": "aoc-kotlin-starter",
             "stars": 22
@@ -2325,7 +2325,7 @@
                     "archived": false,
                     "id": 1105534608,
                     "language": "Python",
-                    "last_commit": "2026-08-18T13:36:16Z",
+                    "last_commit": "2026-08-19T10:00:56Z",
                     "owner": "vil02",
                     "repo": "adv_2025",
                     "stars": 0
@@ -2629,8 +2629,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:52:18.080Z",
+    "last_updated": "2026-08-19T12:15:03.633Z",
     "original_repository": "Bogdanp/awesome-advent-of-code",
+    "original_repository_id": 159918462,
     "original_repository_sha": "df91fb3290eec8bcf8def1d3700bc7eaf2c9738e",
     "enhanced_repository": "enhansome/enhansome-advent-of-code",
     "enhanced_repository_description": null,
