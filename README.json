@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 442791031,
             "language": "Rust",
             "last_commit": "2025-11-26T13:20:00Z",
             "owner": "fspoettel",
             "repo": "advent-of-code-rust",
-            "stars": 830
+            "stars": 831
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 429197393,
             "language": "Kotlin",
             "last_commit": "2025-11-29T07:12:40Z",
             "owner": "kotlin-hands-on",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159042902,
             "language": "Rust",
             "last_commit": "2025-05-09T20:25:28Z",
             "owner": "gobanos",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159585229,
             "language": "Elixir",
             "last_commit": "2024-12-03T17:53:49Z",
             "owner": "mhanberg",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316343134,
             "language": "Zig",
             "last_commit": "2024-11-10T18:54:09Z",
             "owner": "SpexGuy",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 443418686,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-15T16:53:15Z",
             "owner": "derailed-dash",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 395435429,
             "language": "Gleam",
             "last_commit": "2025-10-27T16:49:03Z",
             "owner": "TanklesXL",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316803811,
             "language": "C#",
             "last_commit": "2025-11-17T11:51:40Z",
             "owner": "eduherminio",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220677648,
             "language": "C#",
             "last_commit": "2025-11-28T14:29:26Z",
             "owner": "sindrekjr",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 437108166,
             "language": "Dart",
             "last_commit": "2024-11-29T23:17:11Z",
             "owner": "S-ecki",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160645866,
             "language": "HTML",
             "last_commit": "2018-12-08T22:17:15Z",
             "owner": "AlexeSimon",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 698750065,
             "language": "Python",
             "last_commit": "2024-11-30T19:27:51Z",
             "owner": "xavdid",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 315462308,
             "language": "Ruby",
             "last_commit": "2024-12-10T23:39:15Z",
             "owner": "pacso",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 877208091,
             "language": "C#",
             "last_commit": "2025-12-01T18:27:27Z",
             "owner": "encse",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160060570,
             "language": "Kotlin",
             "last_commit": "2025-12-01T20:36:23Z",
             "owner": "hughjdavey",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 535719666,
             "language": "Clojure",
             "last_commit": "2024-12-03T21:17:37Z",
             "owner": "jjcomer",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 572948095,
             "language": "Python",
             "last_commit": "2022-12-01T18:14:10Z",
             "owner": "tomfran",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225442835,
             "language": "TypeScript",
             "last_commit": "2021-12-01T09:22:21Z",
             "owner": "caderek",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159884865,
             "language": "Elixir",
             "last_commit": "2022-12-01T14:04:58Z",
             "owner": "staylorwr",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 425368816,
             "language": "Jinja",
             "last_commit": "2024-12-28T13:25:24Z",
             "owner": "gahjelle",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316574503,
             "language": "C++",
             "last_commit": "2024-11-28T13:28:52Z",
             "owner": "arkadye",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159816018,
             "language": "Java",
             "last_commit": "2024-11-26T22:12:14Z",
             "owner": "dave-burke",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112780781,
             "language": "Go",
             "last_commit": "2024-12-19T10:32:16Z",
             "owner": "kindermoumoute",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 575083779,
             "language": "Python",
             "last_commit": "2025-12-17T09:30:04Z",
             "owner": "jromero132",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317428397,
             "language": "JavaScript",
             "last_commit": "2021-02-06T10:05:36Z",
             "owner": "ManasJayanth",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225280389,
             "language": "JavaScript",
             "last_commit": "2023-03-05T18:02:31Z",
             "owner": "amorriscode",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 224775632,
             "language": "Clojure",
             "last_commit": "2019-12-01T16:36:00Z",
             "owner": "mhanberg",
@@ -388,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318324198,
             "language": "Jupyter Notebook",
             "last_commit": "2026-01-24T21:34:48Z",
             "owner": "UncleCJ",
@@ -402,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 578216330,
             "language": "OCaml",
             "last_commit": "2024-12-01T19:44:46Z",
             "owner": "fangyi-zhou",
@@ -416,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317399194,
             "language": "TypeScript",
             "last_commit": "2020-12-01T14:57:10Z",
             "owner": "izexi",
@@ -430,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 901009172,
             "language": "C++",
             "last_commit": "2025-01-04T23:36:00Z",
             "owner": "stfufane",
@@ -444,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 624108579,
             "language": "Kotlin",
             "last_commit": "2026-04-02T22:05:19Z",
             "owner": "Jadarma",
@@ -458,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225456964,
             "language": "JavaScript",
             "last_commit": "2021-12-01T09:21:45Z",
             "owner": "caderek",
@@ -472,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316582329,
             "language": "Python",
             "last_commit": "2024-12-09T10:59:30Z",
             "owner": "alvesvaren",
@@ -486,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 598839372,
             "language": "Go",
             "last_commit": "2023-12-17T15:54:44Z",
             "owner": "devries",
@@ -500,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 433740429,
             "language": "TypeScript",
             "last_commit": "2023-12-02T16:40:13Z",
             "owner": "ismtabo",
@@ -514,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316111212,
             "language": "Shell",
             "last_commit": "2021-11-24T23:32:40Z",
             "owner": "mariotacke",
@@ -528,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317614487,
             "language": "Rust",
             "last_commit": "2020-12-01T19:38:06Z",
             "owner": "nickyvanurk",
@@ -542,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 328504273,
             "language": "TypeScript",
             "last_commit": "2021-11-30T21:24:05Z",
             "owner": "tatupesonen",
@@ -556,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 725789637,
             "language": "C#",
             "last_commit": "2025-12-01T01:54:04Z",
             "owner": "viceroypenguin",
@@ -570,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 708458533,
             "language": "Gleam",
             "last_commit": "2024-11-08T07:39:35Z",
             "owner": "JohnBjrk",
@@ -584,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 570668214,
             "language": "Swift",
             "last_commit": "2022-12-01T02:06:32Z",
             "owner": "Kaitachi",
@@ -598,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318929513,
             "language": "PHP",
             "last_commit": "2025-09-15T13:52:26Z",
             "owner": "ridaamirini",
@@ -612,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 725777382,
             "language": "TypeScript",
             "last_commit": "2023-12-16T11:09:11Z",
             "owner": "matijaoe",
@@ -626,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 721771424,
             "language": "Go",
             "last_commit": "2024-10-04T21:52:16Z",
             "owner": "wlachs",
@@ -640,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 898473316,
             "language": "TypeScript",
             "last_commit": "2024-12-21T10:25:31Z",
             "owner": "2wndrhs",
@@ -654,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 577971433,
             "language": "C#",
             "last_commit": "2023-12-02T19:47:42Z",
             "owner": "KaNaDaAT",
@@ -668,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 899245210,
             "language": "Java",
             "last_commit": "2025-12-09T21:51:05Z",
             "owner": "Viinyard",
@@ -682,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 770305138,
             "language": "Java",
             "last_commit": "2024-12-13T16:59:56Z",
             "owner": "thermoweb",
@@ -696,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 896754425,
             "language": "Lua",
             "last_commit": "2024-12-01T08:34:42Z",
             "owner": "lcpichette",
@@ -710,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 724652168,
             "language": "C#",
             "last_commit": "2025-11-17T11:51:04Z",
             "owner": "eduherminio",
@@ -724,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445209432,
             "language": "C#",
             "last_commit": "2025-05-16T11:38:50Z",
             "owner": "mMosiur",
@@ -738,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 725625994,
             "language": "Kotlin",
             "last_commit": "2023-12-09T21:57:06Z",
             "owner": "pgebert",
@@ -752,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 722344596,
             "language": "Shell",
             "last_commit": "2023-11-23T01:35:19Z",
             "owner": "rvanasa",
@@ -766,30 +820,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 430225235,
             "language": "REXX",
             "last_commit": "2021-12-16T23:13:06Z",
             "owner": "wizardofzos",
             "repo": "aoc2021",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "dvoiejanovic/advent-of-ruby",
-          "description": "(Ruby)",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "goosewin/aoc2024",
-          "description": "(TypeScript)",
-          "children": []
         }
       ],
       "title": "Project Templates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -798,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318010853,
             "language": "Rust",
             "last_commit": "2023-12-22T04:14:43Z",
             "owner": "scarvalhojr",
@@ -812,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 423667636,
             "language": "TypeScript",
             "last_commit": "2024-12-01T18:03:16Z",
             "owner": "caderek",
@@ -826,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113780864,
             "language": "JavaScript",
             "last_commit": "2026-06-10T02:06:55Z",
             "owner": "jeroenheijmans",
@@ -840,6 +886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318809886,
             "language": "Python",
             "last_commit": "2024-02-10T12:37:00Z",
             "owner": "J0B10",
@@ -854,6 +901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113819766,
             "language": "Go",
             "last_commit": "2025-12-04T23:12:08Z",
             "owner": "GreenLightning",
@@ -868,6 +916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217520517,
             "language": "C#",
             "last_commit": "2026-08-17T10:18:37Z",
             "owner": "eduherminio",
@@ -882,6 +931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 433998401,
             "language": "Python",
             "last_commit": "2024-06-17T22:38:46Z",
             "owner": "k2bd",
@@ -896,6 +946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 718821887,
             "language": "Python",
             "last_commit": "2025-12-12T23:18:57Z",
             "owner": "LiquidFun",
@@ -910,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225088328,
             "language": "Rust",
             "last_commit": "2024-12-02T15:32:43Z",
             "owner": "nuxeh",
@@ -924,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 315462308,
             "language": "Ruby",
             "last_commit": "2024-12-10T23:39:15Z",
             "owner": "pacso",
@@ -938,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 420979386,
             "language": "JavaScript",
             "last_commit": "2025-08-14T11:38:56Z",
             "owner": "stackcats",
@@ -952,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 354920813,
             "language": "C",
             "last_commit": "2021-12-10T13:44:05Z",
             "owner": "breakthatbass",
@@ -966,6 +1021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317542413,
             "language": "Elixir",
             "last_commit": "2026-02-02T16:51:55Z",
             "owner": "mathsaey",
@@ -980,6 +1036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1090411960,
             "language": "Kotlin",
             "last_commit": "2026-07-17T20:57:51Z",
             "owner": "DmitryNekrasov",
@@ -994,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 324646170,
             "language": "Kotlin",
             "last_commit": "2026-04-02T21:35:13Z",
             "owner": "Jadarma",
@@ -1008,6 +1066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 433747676,
             "language": "Ruby",
             "last_commit": "2026-05-08T08:45:07Z",
             "owner": "erikw",
@@ -1022,6 +1081,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318752965,
             "language": "TypeScript",
             "last_commit": "2022-12-10T09:17:27Z",
             "owner": "toblu",
@@ -1036,6 +1096,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318981347,
             "language": "Python",
             "last_commit": "2025-12-08T05:27:10Z",
             "owner": "Starwort",
@@ -1050,6 +1111,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 321119939,
             "language": "Python",
             "last_commit": "2026-08-17T17:05:36Z",
             "owner": "bsoyka",
@@ -1064,6 +1126,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 750108936,
             "language": "Python",
             "last_commit": "2025-12-30T03:04:21Z",
             "owner": "luxedo",
@@ -1078,8 +1141,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 315078489,
             "language": "Go",
-            "last_commit": "2026-08-18T00:44:48Z",
+            "last_commit": "2026-08-18T17:50:21Z",
             "owner": "dds",
             "repo": "aoc2020",
             "stars": 11
@@ -1092,6 +1156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223748114,
             "language": "Ruby",
             "last_commit": "2022-12-01T08:54:33Z",
             "owner": "Keirua",
@@ -1106,6 +1171,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 575083779,
             "language": "Python",
             "last_commit": "2025-12-17T09:30:04Z",
             "owner": "jromero132",
@@ -1120,6 +1186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 324868991,
             "language": "TypeScript",
             "last_commit": "2022-12-01T17:45:44Z",
             "owner": "caderek",
@@ -1134,6 +1201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 573559382,
             "language": "JavaScript",
             "last_commit": "2025-11-30T18:13:06Z",
             "owner": "beakerandjake",
@@ -1148,6 +1216,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318540758,
             "language": "HTML",
             "last_commit": "2023-12-25T06:15:45Z",
             "owner": "freedomofkeima",
@@ -1162,6 +1231,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 723467826,
             "language": "C#",
             "last_commit": "2026-07-01T04:23:56Z",
             "owner": "mazharenko",
@@ -1176,6 +1246,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 412225980,
             "language": "TypeScript",
             "last_commit": "2021-12-01T09:08:23Z",
             "owner": "aocjs",
@@ -1190,6 +1261,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 315754814,
             "language": "Haskell",
             "last_commit": "2022-12-14T05:31:25Z",
             "owner": "mstksg",
@@ -1204,6 +1276,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 500032070,
             "language": "TypeScript",
             "last_commit": "2026-05-23T09:32:02Z",
             "owner": "Macil",
@@ -1218,6 +1291,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 573937206,
             "language": "Python",
             "last_commit": "2025-12-20T15:34:19Z",
             "owner": "yspreen",
@@ -1232,6 +1306,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 434729164,
             "language": "C#",
             "last_commit": "2022-12-04T16:39:10Z",
             "owner": "vladsm",
@@ -1246,6 +1321,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 309070749,
             "language": "Rust",
             "last_commit": "2022-12-01T20:53:36Z",
             "owner": "scarvalhojr",
@@ -1260,6 +1336,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 434683922,
             "language": "C#",
             "last_commit": "2024-11-24T18:13:12Z",
             "owner": "mMosiur",
@@ -1274,6 +1351,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 575171299,
             "language": "Go",
             "last_commit": "2025-12-02T13:52:57Z",
             "owner": "NamelessGroup",
@@ -1288,6 +1366,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 727544878,
             "language": "Python",
             "last_commit": "2025-12-02T19:53:04Z",
             "owner": "VitamintK",
@@ -1302,1464 +1381,1255 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 448614857,
             "language": "C++",
             "last_commit": "2022-01-16T19:22:37Z",
             "owner": "coralkashri",
             "repo": "AoC-execution_time_table_generator",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "pysleigh",
-          "description": "- is a lightweight python runner , collector, templater, submitter and benchmarker for the advent of code. (Python)",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "rusty-sleigh",
-          "description": "- is a lightweight rust runner , collector , template, submitter and benchmarker for the advent of code. It is a rust port for (Rust)",
-          "children": []
         }
       ],
       "title": "Tools and Utilities"
     },
     {
       "description": "WARNING: All of these likely contain spoilers.\nRead CONTRIBUTING.md to learn how to add your own repos.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ArjArav98/AdventOfCode",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 574269038,
+                    "language": "C",
+                    "last_commit": "2025-12-09T14:53:09Z",
+                    "owner": "ArjArav98",
+                    "repo": "AdventOfCode",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PaulGoldschmidt/advent-of-code-2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1108058298,
+                    "language": "C",
+                    "last_commit": "2025-12-27T00:02:31Z",
+                    "owner": "PaulGoldschmidt",
+                    "repo": "advent-of-code-2025",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in C.",
+              "node_type": "group",
+              "title": "C"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "encse/adventofcode",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 112706767,
+                    "language": "C#",
+                    "last_commit": "2026-07-17T21:20:09Z",
+                    "owner": "encse",
+                    "repo": "adventofcode",
+                    "stars": 401
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CameronAavik/AdventOfCode",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 113024486,
+                    "language": "C#",
+                    "last_commit": "2025-12-17T05:12:23Z",
+                    "owner": "CameronAavik",
+                    "repo": "AdventOfCode",
+                    "stars": 80
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "viceroypenguin/adventofcode",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 48049567,
+                    "language": "C#",
+                    "last_commit": "2025-12-12T05:44:58Z",
+                    "owner": "viceroypenguin",
+                    "repo": "adventofcode",
+                    "stars": 43
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "andrei-ned/advent-of-code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 735949250,
+                    "language": "C++",
+                    "last_commit": "2026-01-03T13:27:40Z",
+                    "owner": "andrei-ned",
+                    "repo": "advent-of-code",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ClxS/Advent-of-Code-2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107583702,
+                    "language": "C#",
+                    "last_commit": "2025-12-04T10:04:58Z",
+                    "owner": "ClxS",
+                    "repo": "Advent-of-Code-2025",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MarkusG/AoC-2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107418794,
+                    "language": "C#",
+                    "last_commit": "2025-12-14T03:09:25Z",
+                    "owner": "MarkusG",
+                    "repo": "AoC-2025",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "sebastianlay/AdventOfCode2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1108808854,
+                    "language": "C#",
+                    "last_commit": "2025-12-19T21:37:06Z",
+                    "owner": "sebastianlay",
+                    "repo": "AdventOfCode2025",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "sehra/advent-of-code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 225597258,
+                    "language": "C#",
+                    "last_commit": "2026-08-12T10:25:48Z",
+                    "owner": "sehra",
+                    "repo": "advent-of-code",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Tholdrim/Competitions",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 871655447,
+                    "language": "C#",
+                    "last_commit": "2025-12-16T22:31:35Z",
+                    "owner": "Tholdrim",
+                    "repo": "Competitions",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "udvlp/Advent-of-Code-2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1108247414,
+                    "language": "C#",
+                    "last_commit": "2025-12-08T10:59:25Z",
+                    "owner": "udvlp",
+                    "repo": "Advent-of-Code-2025",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in C#.",
+              "node_type": "group",
+              "title": "C#"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "jromero132/advent-of-code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 575083779,
+                    "language": "Python",
+                    "last_commit": "2025-12-17T09:30:04Z",
+                    "owner": "jromero132",
+                    "repo": "advent-of-code",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Aadv1k/AdventOfCpp2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107402514,
+                    "language": "C++",
+                    "last_commit": "2025-12-07T11:40:27Z",
+                    "owner": "Aadv1k",
+                    "repo": "AdventOfCpp2025",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "arcogelderblom/AdventOfCode",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 726065463,
+                    "language": "C++",
+                    "last_commit": "2025-12-16T21:47:36Z",
+                    "owner": "arcogelderblom",
+                    "repo": "AdventOfCode",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AndriiSonsiadlo/advent-of-code-cpp",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1108664571,
+                    "language": "C++",
+                    "last_commit": "2026-02-11T23:36:19Z",
+                    "owner": "AndriiSonsiadlo",
+                    "repo": "advent-of-code-cpp",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "bg2b/aoc25",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107096563,
+                    "language": "C++",
+                    "last_commit": "2025-12-29T22:35:05Z",
+                    "owner": "bg2b",
+                    "repo": "aoc25",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "marcelweikum/advent-of-code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1099000222,
+                    "language": "C++",
+                    "last_commit": "2025-12-05T09:41:26Z",
+                    "owner": "marcelweikum",
+                    "repo": "advent-of-code",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in C++.",
+              "node_type": "group",
+              "title": "C++"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ynadji/advent",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 434244218,
+                    "language": "Common Lisp",
+                    "last_commit": "2026-05-17T16:25:55Z",
+                    "owner": "ynadji",
+                    "repo": "advent",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "deril/advent-of-code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 729006113,
+                    "language": "Common Lisp",
+                    "last_commit": "2025-12-07T17:14:15Z",
+                    "owner": "deril",
+                    "repo": "advent-of-code",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in Common Lisp.",
+              "node_type": "group",
+              "title": "Common Lisp"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "lboshuizen/aoc25",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107616886,
+                    "language": "F#",
+                    "last_commit": "2025-12-12T10:00:19Z",
+                    "owner": "lboshuizen",
+                    "repo": "aoc25",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "kriogenia/advent_of_code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 898057012,
+                    "language": "Rust",
+                    "last_commit": "2026-03-01T14:15:05Z",
+                    "owner": "kriogenia",
+                    "repo": "advent_of_code",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in Gleam.",
+              "node_type": "group",
+              "title": "Gleam"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "believer/advent-of-code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 159979733,
+                    "language": "Rust",
+                    "last_commit": "2025-12-13T07:36:58Z",
+                    "owner": "believer",
+                    "repo": "advent-of-code",
+                    "stars": 54
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pin2t/aoc2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107396281,
+                    "language": "Java",
+                    "last_commit": "2025-12-28T15:01:03Z",
+                    "owner": "pin2t",
+                    "repo": "aoc2025",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "tiennm99/adventofcode",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 1107695773,
+                    "language": "Go",
+                    "last_commit": "2025-12-10T11:47:12Z",
+                    "owner": "tiennm99",
+                    "repo": "adventofcode",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in Go.",
+              "node_type": "group",
+              "title": "Go"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "glguy/advent",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 442066532,
+                    "language": "Haskell",
+                    "last_commit": "2025-12-12T07:03:01Z",
+                    "owner": "glguy",
+                    "repo": "advent",
+                    "stars": 48
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Lorin-Lange/advent-of-code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 573033436,
+                    "language": "Haskell",
+                    "last_commit": "2026-08-05T20:19:41Z",
+                    "owner": "Lorin-Lange",
+                    "repo": "advent-of-code",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ephemient/aoc2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107504021,
+                    "language": "Kotlin",
+                    "last_commit": "2025-12-11T07:23:48Z",
+                    "owner": "ephemient",
+                    "repo": "aoc2025",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in Haskell.",
+              "node_type": "group",
+              "title": "Haskell"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vuryss/aoc-java",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 574182339,
+                    "language": "Java",
+                    "last_commit": "2026-08-16T13:05:43Z",
+                    "owner": "vuryss",
+                    "repo": "aoc-java",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Viinyard/adventofcode",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 890634105,
+                    "language": "Java",
+                    "last_commit": "2025-12-12T15:09:21Z",
+                    "owner": "Viinyard",
+                    "repo": "adventofcode",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pin2t/aoc2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107396281,
+                    "language": "Java",
+                    "last_commit": "2025-12-28T15:01:03Z",
+                    "owner": "pin2t",
+                    "repo": "aoc2025",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nicomyerr/advent-of-code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107993008,
+                    "language": "Java",
+                    "last_commit": "2025-12-09T19:38:39Z",
+                    "owner": "nicomyerr",
+                    "repo": "advent-of-code",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in Java.",
+              "node_type": "group",
+              "title": "Java"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "rkeytacked/adventofcode-2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1106581428,
+                    "language": "JavaScript",
+                    "last_commit": "2025-12-20T18:43:11Z",
+                    "owner": "rkeytacked",
+                    "repo": "adventofcode-2025",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EduardaSRBastos/advent-of-code-2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107947708,
+                    "language": "JavaScript",
+                    "last_commit": "2025-12-21T17:15:47Z",
+                    "owner": "EduardaSRBastos",
+                    "repo": "advent-of-code-2025",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in JavaScript.",
+              "node_type": "group",
+              "title": "JavaScript"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "DmitryNekrasov/AoC-2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107451808,
+                    "language": "Kotlin",
+                    "last_commit": "2026-02-10T15:05:24Z",
+                    "owner": "DmitryNekrasov",
+                    "repo": "AoC-2025",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "7rebux/advent-of-code-2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107733201,
+                    "language": "Kotlin",
+                    "last_commit": "2026-05-14T18:02:33Z",
+                    "owner": "7rebux",
+                    "repo": "advent-of-code-2025",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AbundantSalmon/advent-of-code-2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1096579747,
+                    "language": "Kotlin",
+                    "last_commit": "2025-12-12T15:14:11Z",
+                    "owner": "AbundantSalmon",
+                    "repo": "advent-of-code-2025",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ephemient/aoc2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107504021,
+                    "language": "Kotlin",
+                    "last_commit": "2025-12-11T07:23:48Z",
+                    "owner": "ephemient",
+                    "repo": "aoc2025",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in Kotlin.",
+              "node_type": "group",
+              "title": "Kotlin"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "tbali0524/advent-of-code-solutions",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 556838117,
+                    "language": "PHP",
+                    "last_commit": "2026-05-28T16:14:35Z",
+                    "owner": "tbali0524",
+                    "repo": "advent-of-code-solutions",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ancarofl/advent-of-code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1109319691,
+                    "language": "PHP",
+                    "last_commit": "2025-12-15T06:59:57Z",
+                    "owner": "ancarofl",
+                    "repo": "advent-of-code",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in PHP.",
+              "node_type": "group",
+              "title": "PHP"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "derailed-dash/advent-of-code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 443418686,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-08-15T16:53:15Z",
+                    "owner": "derailed-dash",
+                    "repo": "advent-of-code",
+                    "stars": 95
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RussellDash332/advent-of-code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 502578654,
+                    "language": "Python",
+                    "last_commit": "2026-07-13T09:21:34Z",
+                    "owner": "RussellDash332",
+                    "repo": "advent-of-code",
+                    "stars": 29
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DarthGandalf/advent-of-code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 160752617,
+                    "language": "C++",
+                    "last_commit": "2025-12-15T00:01:41Z",
+                    "owner": "DarthGandalf",
+                    "repo": "advent-of-code",
+                    "stars": 26
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "jromero132/advent-of-code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 575083779,
+                    "language": "Python",
+                    "last_commit": "2025-12-17T09:30:04Z",
+                    "owner": "jromero132",
+                    "repo": "advent-of-code",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TurtleSmoke/Advent-of-Code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 437560963,
+                    "language": "Python",
+                    "last_commit": "2025-12-12T10:55:54Z",
+                    "owner": "TurtleSmoke",
+                    "repo": "Advent-of-Code",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Grecil/ElegantAoC",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 897184849,
+                    "language": "Python",
+                    "last_commit": "2025-12-12T05:53:35Z",
+                    "owner": "Grecil",
+                    "repo": "ElegantAoC",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nitekat1124/advent-of-code-2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107100440,
+                    "language": "Python",
+                    "last_commit": "2025-12-12T08:09:14Z",
+                    "owner": "nitekat1124",
+                    "repo": "advent-of-code-2025",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "0x8b/advent.of.code.each",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 432789406,
+                    "language": "Python",
+                    "last_commit": "2025-12-09T20:35:24Z",
+                    "owner": "0x8b",
+                    "repo": "advent.of.code.each",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AbdeI1/AdventOfCode",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 581972055,
+                    "language": "Python",
+                    "last_commit": "2025-12-12T22:24:19Z",
+                    "owner": "AbdeI1",
+                    "repo": "AdventOfCode",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "maread99/aoc",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 573461507,
+                    "language": "Python",
+                    "last_commit": "2026-01-13T12:40:38Z",
+                    "owner": "maread99",
+                    "repo": "aoc",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "prabhuomkar9/adventofcode",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 896884962,
+                    "language": "Python",
+                    "last_commit": "2025-12-11T18:01:03Z",
+                    "owner": "prabhuomkar9",
+                    "repo": "adventofcode",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Samarth-Pai/advent-of-code-2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107320399,
+                    "language": "Python",
+                    "last_commit": "2025-12-11T05:18:59Z",
+                    "owner": "Samarth-Pai",
+                    "repo": "advent-of-code-2025",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AmericanSpirit38/Advent_of_code_2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107785713,
+                    "language": "Python",
+                    "last_commit": "2025-12-11T08:31:38Z",
+                    "owner": "AmericanSpirit38",
+                    "repo": "Advent_of_code_2025",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ephemient/aoc2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107504021,
+                    "language": "Kotlin",
+                    "last_commit": "2025-12-11T07:23:48Z",
+                    "owner": "ephemient",
+                    "repo": "aoc2025",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MrRobb/advent-of-code-2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107488803,
+                    "language": "Rust",
+                    "last_commit": "2025-12-12T06:06:40Z",
+                    "owner": "MrRobb",
+                    "repo": "advent-of-code-2025",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NicoDeGiacomo/advent-of-code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 899797929,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-01-26T17:30:24Z",
+                    "owner": "NicoDeGiacomo",
+                    "repo": "advent-of-code",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "vil02/adv_2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1105534608,
+                    "language": "Python",
+                    "last_commit": "2026-08-18T13:36:16Z",
+                    "owner": "vil02",
+                    "repo": "adv_2025",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in Python.",
+              "node_type": "group",
+              "title": "Python"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "plannapus/Advent_of_Code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 226849989,
+                    "language": "R",
+                    "last_commit": "2025-12-05T10:41:32Z",
+                    "owner": "plannapus",
+                    "repo": "Advent_of_Code",
+                    "stars": 14
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "JeanDupin/AOC",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 725967767,
+                    "language": "R",
+                    "last_commit": "2025-12-12T07:11:01Z",
+                    "owner": "JeanDupin",
+                    "repo": "AOC",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TractorTom/Advent-of-Code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 322669600,
+                    "language": "R",
+                    "last_commit": "2026-01-01T14:38:41Z",
+                    "owner": "TractorTom",
+                    "repo": "Advent-of-Code",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in R.",
+              "node_type": "group",
+              "title": "R"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "maneatingape/advent-of-code-rust",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 584487892,
+                    "language": "Rust",
+                    "last_commit": "2026-08-18T21:14:54Z",
+                    "owner": "maneatingape",
+                    "repo": "advent-of-code-rust",
+                    "stars": 542
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "connorslade/advent-of-code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 433693476,
+                    "language": "Rust",
+                    "last_commit": "2025-12-12T05:55:28Z",
+                    "owner": "connorslade",
+                    "repo": "advent-of-code",
+                    "stars": 38
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "rene-d/advent-of-rust",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 438264890,
+                    "language": "Rust",
+                    "last_commit": "2026-07-10T09:36:23Z",
+                    "owner": "rene-d",
+                    "repo": "advent-of-rust",
+                    "stars": 12
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "happycoder74/adventofcode",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 450852900,
+                    "language": "C",
+                    "last_commit": "2026-02-09T14:04:33Z",
+                    "owner": "happycoder74",
+                    "repo": "adventofcode",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "akaritakai/AdventOfCode2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107831666,
+                    "language": "Rust",
+                    "last_commit": "2025-12-19T01:44:27Z",
+                    "owner": "akaritakai",
+                    "repo": "AdventOfCode2025",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ephemient/aoc2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107504021,
+                    "language": "Kotlin",
+                    "last_commit": "2025-12-11T07:23:48Z",
+                    "owner": "ephemient",
+                    "repo": "aoc2025",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MrRobb/advent-of-code-2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107488803,
+                    "language": "Rust",
+                    "last_commit": "2025-12-12T06:06:40Z",
+                    "owner": "MrRobb",
+                    "repo": "advent-of-code-2025",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ndunnett/aoc",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 762295364,
+                    "language": "Rust",
+                    "last_commit": "2025-12-14T23:03:28Z",
+                    "owner": "ndunnett",
+                    "repo": "aoc",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "tbali0524/advent-of-code-rust",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 826850050,
+                    "language": "Rust",
+                    "last_commit": "2026-05-22T16:21:34Z",
+                    "owner": "tbali0524",
+                    "repo": "advent-of-code-rust",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "zsacul/AdventOfCode2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107204595,
+                    "language": "Rust",
+                    "last_commit": "2025-12-15T03:05:41Z",
+                    "owner": "zsacul",
+                    "repo": "AdventOfCode2025",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in Rust.",
+              "node_type": "group",
+              "title": "Rust"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "uhKieran/advent-of-code-25",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107535403,
+                    "language": "TypeScript",
+                    "last_commit": "2025-12-12T15:26:18Z",
+                    "owner": "uhKieran",
+                    "repo": "advent-of-code-25",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "smichniak/adventOfCode",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 317678418,
+                    "language": "Rust",
+                    "last_commit": "2025-12-12T11:10:23Z",
+                    "owner": "smichniak",
+                    "repo": "adventOfCode",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in TypeScript.",
+              "node_type": "group",
+              "title": "TypeScript"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "JacobBanta/advent-of-code-2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1109367595,
+                    "language": "Zig",
+                    "last_commit": "2025-12-07T23:40:24Z",
+                    "owner": "JacobBanta",
+                    "repo": "advent-of-code-2025",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Totto16/AOC-2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1108843052,
+                    "language": "Zig",
+                    "last_commit": "2026-04-23T15:08:59Z",
+                    "owner": "Totto16",
+                    "repo": "AOC-2025",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in Zig.",
+              "node_type": "group",
+              "title": "Zig"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Solutions"
+        }
+      ],
       "title": "2025"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Solutions"
-    },
-    {
-      "description": "Solutions to AoC in APL.",
-      "items": [],
-      "title": "APL"
-    },
-    {
-      "description": "Solutions to AoC in Arturo.",
-      "items": [],
-      "title": "Arturo"
-    },
-    {
-      "description": "Solutions to AoC in Assembly.",
-      "items": [],
-      "title": "Assembly"
-    },
-    {
-      "description": "Solutions to AoC in Bash.",
-      "items": [],
-      "title": "Bash"
-    },
-    {
-      "description": "Solutions to AoC in BQN.",
-      "items": [],
-      "title": "BQN"
-    },
-    {
-      "description": "Solutions to AoC in C.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ArjArav98/AdventOfCode",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-12-09T14:53:09Z",
-            "owner": "ArjArav98",
-            "repo": "AdventOfCode",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PaulGoldschmidt/advent-of-code-2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-12-27T00:02:31Z",
-            "owner": "PaulGoldschmidt",
-            "repo": "advent-of-code-2025",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "C"
-    },
-    {
-      "description": "Solutions to AoC in C#.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "encse/adventofcode",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-17T21:20:09Z",
-            "owner": "encse",
-            "repo": "adventofcode",
-            "stars": 401
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CameronAavik/AdventOfCode",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-12-17T05:12:23Z",
-            "owner": "CameronAavik",
-            "repo": "AdventOfCode",
-            "stars": 80
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "viceroypenguin/adventofcode",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-12-12T05:44:58Z",
-            "owner": "viceroypenguin",
-            "repo": "adventofcode",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "andrei-ned/advent-of-code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-01-03T13:27:40Z",
-            "owner": "andrei-ned",
-            "repo": "advent-of-code",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ClxS/Advent-of-Code-2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-12-04T10:04:58Z",
-            "owner": "ClxS",
-            "repo": "Advent-of-Code-2025",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MarkusG/AoC-2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-12-14T03:09:25Z",
-            "owner": "MarkusG",
-            "repo": "AoC-2025",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sebastianlay/AdventOfCode2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-12-19T21:37:06Z",
-            "owner": "sebastianlay",
-            "repo": "AdventOfCode2025",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sehra/advent-of-code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-12T10:25:48Z",
-            "owner": "sehra",
-            "repo": "advent-of-code",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tholdrim/Competitions",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-12-16T22:31:35Z",
-            "owner": "Tholdrim",
-            "repo": "Competitions",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "udvlp/Advent-of-Code-2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-12-08T10:59:25Z",
-            "owner": "udvlp",
-            "repo": "Advent-of-Code-2025",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "C#"
-    },
-    {
-      "description": "Solutions to AoC in C++.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "jromero132/advent-of-code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-17T09:30:04Z",
-            "owner": "jromero132",
-            "repo": "advent-of-code",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Aadv1k/AdventOfCpp2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-12-07T11:40:27Z",
-            "owner": "Aadv1k",
-            "repo": "AdventOfCpp2025",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "arcogelderblom/AdventOfCode",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-12-16T21:47:36Z",
-            "owner": "arcogelderblom",
-            "repo": "AdventOfCode",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AndriiSonsiadlo/advent-of-code-cpp",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-02-11T23:36:19Z",
-            "owner": "AndriiSonsiadlo",
-            "repo": "advent-of-code-cpp",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bg2b/aoc25",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-12-29T22:35:05Z",
-            "owner": "bg2b",
-            "repo": "aoc25",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "marcelweikum/advent-of-code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-12-05T09:41:26Z",
-            "owner": "marcelweikum",
-            "repo": "advent-of-code",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "C++"
-    },
-    {
-      "description": "Solutions to AoC in C3.",
-      "items": [],
-      "title": "C3"
-    },
-    {
-      "description": "Solutions to AoC in Clojure.",
-      "items": [],
-      "title": "Clojure"
-    },
-    {
-      "description": "Solutions to AoC in Common Lisp.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ynadji/advent",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Common Lisp",
-            "last_commit": "2026-05-17T16:25:55Z",
-            "owner": "ynadji",
-            "repo": "advent",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "deril/advent-of-code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Common Lisp",
-            "last_commit": "2025-12-07T17:14:15Z",
-            "owner": "deril",
-            "repo": "advent-of-code",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Common Lisp"
-    },
-    {
-      "description": "Solutions to AoC in Crystal.",
-      "items": [],
-      "title": "Crystal"
-    },
-    {
-      "description": "Solutions to AoC in D.",
-      "items": [],
-      "title": "D"
-    },
-    {
-      "description": "Solutions to AoC in Delphi.",
-      "items": [],
-      "title": "Delphi"
-    },
-    {
-      "description": "Solutions to AoC in Deno.",
-      "items": [],
-      "title": "Deno"
-    },
-    {
-      "description": "Solutions to AoC in Elm and Literate Elm.",
-      "items": [],
-      "title": "Elm"
-    },
-    {
-      "description": "Solutions to AoC in Emacs Lisp (elisp).",
-      "items": [],
-      "title": "Emacs Lisp"
-    },
-    {
-      "description": "Solutions to AoC in Erlang.",
-      "items": [],
-      "title": "Erlang"
-    },
-    {
-      "description": "Solutions to AoC in Excel.",
-      "items": [],
-      "title": "Excel"
-    },
-    {
-      "description": "Solutions to AoC in Factor.",
-      "items": [],
-      "title": "Factor"
-    },
-    {
-      "description": "Solutions to AoC in Gleam.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lboshuizen/aoc25",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "F#",
-            "last_commit": "2025-12-12T10:00:19Z",
-            "owner": "lboshuizen",
-            "repo": "aoc25",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kriogenia/advent_of_code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-03-01T14:15:05Z",
-            "owner": "kriogenia",
-            "repo": "advent_of_code",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hunkyjimpjorps/AdventOfCode",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": "Gleam"
-    },
-    {
-      "description": "Solutions to AoC in Go.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "believer/advent-of-code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-12-13T07:36:58Z",
-            "owner": "believer",
-            "repo": "advent-of-code",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pin2t/aoc2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-12-28T15:01:03Z",
-            "owner": "pin2t",
-            "repo": "aoc2025",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tiennm99/adventofcode",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2025-12-10T11:47:12Z",
-            "owner": "tiennm99",
-            "repo": "adventofcode",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Go"
-    },
-    {
-      "description": "Solutions to AoC in Groovy.",
-      "items": [],
-      "title": "Groovy"
-    },
-    {
-      "description": "Solutions to AoC in Hamler.",
-      "items": [],
-      "title": "Hamler"
-    },
-    {
-      "description": "Solutions to AoC in Haskell.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "glguy/advent",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2025-12-12T07:03:01Z",
-            "owner": "glguy",
-            "repo": "advent",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lorin-Lange/advent-of-code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2026-08-05T20:19:41Z",
-            "owner": "Lorin-Lange",
-            "repo": "advent-of-code",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ephemient/aoc2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-12-11T07:23:48Z",
-            "owner": "ephemient",
-            "repo": "aoc2025",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Haskell"
-    },
-    {
-      "description": "Solutions to AoC in Haxe.",
-      "items": [],
-      "title": "Haxe"
-    },
-    {
-      "description": "Solutions to AoC in HolyC (TempleOS).",
-      "items": [],
-      "title": "HolyC"
-    },
-    {
-      "description": "Solutions to AoC in Hoon (Urbit).",
-      "items": [],
-      "title": "Hoon"
-    },
-    {
-      "description": "Solutions to AoC in Idris.",
-      "items": [],
-      "title": "Idris"
-    },
-    {
-      "description": "Solutions to AoC in J.",
-      "items": [],
-      "title": "J"
-    },
-    {
-      "description": "Solutions to AoC in Java.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "vuryss/aoc-java",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-16T13:05:43Z",
-            "owner": "vuryss",
-            "repo": "aoc-java",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Viinyard/adventofcode",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-12-12T15:09:21Z",
-            "owner": "Viinyard",
-            "repo": "adventofcode",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pin2t/aoc2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-12-28T15:01:03Z",
-            "owner": "pin2t",
-            "repo": "aoc2025",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nicomyerr/advent-of-code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-12-09T19:38:39Z",
-            "owner": "nicomyerr",
-            "repo": "advent-of-code",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Java"
-    },
-    {
-      "description": "Solutions to AoC in JavaScript.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "rkeytacked/adventofcode-2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-12-20T18:43:11Z",
-            "owner": "rkeytacked",
-            "repo": "adventofcode-2025",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EduardaSRBastos/advent-of-code-2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-12-21T17:15:47Z",
-            "owner": "EduardaSRBastos",
-            "repo": "advent-of-code-2025",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "JavaScript"
-    },
-    {
-      "description": "Solutions to AoC in jq.",
-      "items": [],
-      "title": "jq"
-    },
-    {
-      "description": "Solutions to AoC in Kotlin.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DmitryNekrasov/AoC-2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-02-10T15:05:24Z",
-            "owner": "DmitryNekrasov",
-            "repo": "AoC-2025",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "7rebux/advent-of-code-2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-05-14T18:02:33Z",
-            "owner": "7rebux",
-            "repo": "advent-of-code-2025",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AbundantSalmon/advent-of-code-2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-12-12T15:14:11Z",
-            "owner": "AbundantSalmon",
-            "repo": "advent-of-code-2025",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ephemient/aoc2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-12-11T07:23:48Z",
-            "owner": "ephemient",
-            "repo": "aoc2025",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Kotlin"
-    },
-    {
-      "description": "Solutions to AoC in LDPL.",
-      "items": [],
-      "title": "LDPL"
-    },
-    {
-      "description": "Solutions to AoC in Lua.",
-      "items": [],
-      "title": "Lua"
-    },
-    {
-      "description": "Solutions to AoC in M4.",
-      "items": [],
-      "title": "M4"
-    },
-    {
-      "description": "Solutions to AoC in MATLAB (Octave).",
-      "items": [],
-      "title": "MATLAB"
-    },
-    {
-      "description": "Solutions to AoC in Objective-C.",
-      "items": [],
-      "title": "Objective-C"
-    },
-    {
-      "description": "Solutions to AoC in PHP.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "tbali0524/advent-of-code-solutions",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-05-28T16:14:35Z",
-            "owner": "tbali0524",
-            "repo": "advent-of-code-solutions",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ancarofl/advent-of-code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-12-15T06:59:57Z",
-            "owner": "ancarofl",
-            "repo": "advent-of-code",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "PHP"
-    },
-    {
-      "description": "Solutions to AoC in Pascal.",
-      "items": [],
-      "title": "Pascal"
-    },
-    {
-      "description": "Solutions to AoC in Perl.",
-      "items": [],
-      "title": "Perl"
-    },
-    {
-      "description": "Solutions to AoC in Pony.",
-      "items": [],
-      "title": "Pony"
-    },
-    {
-      "description": "Solutions to AoC in Prolog.",
-      "items": [],
-      "title": "Prolog"
-    },
-    {
-      "description": "Solutions to AoC in PowerShell.",
-      "items": [],
-      "title": "PowerShell"
-    },
-    {
-      "description": "Solutions to AoC in Python.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "derailed-dash/advent-of-code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-15T16:53:15Z",
-            "owner": "derailed-dash",
-            "repo": "advent-of-code",
-            "stars": 95
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RussellDash332/advent-of-code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-13T09:21:34Z",
-            "owner": "RussellDash332",
-            "repo": "advent-of-code",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DarthGandalf/advent-of-code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-12-15T00:01:41Z",
-            "owner": "DarthGandalf",
-            "repo": "advent-of-code",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jromero132/advent-of-code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-17T09:30:04Z",
-            "owner": "jromero132",
-            "repo": "advent-of-code",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TurtleSmoke/Advent-of-Code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-12T10:55:54Z",
-            "owner": "TurtleSmoke",
-            "repo": "Advent-of-Code",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Grecil/ElegantAoC",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-12T05:53:35Z",
-            "owner": "Grecil",
-            "repo": "ElegantAoC",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nitekat1124/advent-of-code-2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-12T08:09:14Z",
-            "owner": "nitekat1124",
-            "repo": "advent-of-code-2025",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "0x8b/advent.of.code.each",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-09T20:35:24Z",
-            "owner": "0x8b",
-            "repo": "advent.of.code.each",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AbdeI1/AdventOfCode",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-12T22:24:19Z",
-            "owner": "AbdeI1",
-            "repo": "AdventOfCode",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "maread99/aoc",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-13T12:40:38Z",
-            "owner": "maread99",
-            "repo": "aoc",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "prabhuomkar9/adventofcode",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-11T18:01:03Z",
-            "owner": "prabhuomkar9",
-            "repo": "adventofcode",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Samarth-Pai/advent-of-code-2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-11T05:18:59Z",
-            "owner": "Samarth-Pai",
-            "repo": "advent-of-code-2025",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AmericanSpirit38/Advent_of_code_2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-11T08:31:38Z",
-            "owner": "AmericanSpirit38",
-            "repo": "Advent_of_code_2025",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ephemient/aoc2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-12-11T07:23:48Z",
-            "owner": "ephemient",
-            "repo": "aoc2025",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MrRobb/advent-of-code-2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-12-12T06:06:40Z",
-            "owner": "MrRobb",
-            "repo": "advent-of-code-2025",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NicoDeGiacomo/advent-of-code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-01-26T17:30:24Z",
-            "owner": "NicoDeGiacomo",
-            "repo": "advent-of-code",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vil02/adv_2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T03:23:25Z",
-            "owner": "vil02",
-            "repo": "adv_2025",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "Solutions to AoC in R.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "plannapus/Advent_of_Code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2025-12-05T10:41:32Z",
-            "owner": "plannapus",
-            "repo": "Advent_of_Code",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JeanDupin/AOC",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2025-12-12T07:11:01Z",
-            "owner": "JeanDupin",
-            "repo": "AOC",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TractorTom/Advent-of-Code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-01-01T14:38:41Z",
-            "owner": "TractorTom",
-            "repo": "Advent-of-Code",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "R"
-    },
-    {
-      "description": "Solutions to AoC in Raku.",
-      "items": [],
-      "title": "Raku"
-    },
-    {
-      "description": "Solutions to AoC in ReasonML.",
-      "items": [],
-      "title": "ReasonML"
-    },
-    {
-      "description": "Solutions to AoC in Red.",
-      "items": [],
-      "title": "Red"
-    },
-    {
-      "description": "Solutions to AoC in REXX.",
-      "items": [],
-      "title": "REXX"
-    },
-    {
-      "description": "Solutions to AoC in Rhombus.",
-      "items": [],
-      "title": "Rhombus"
-    },
-    {
-      "description": "Solutions to AoC in ROBO1.",
-      "items": [],
-      "title": "ROBO1"
-    },
-    {
-      "description": "Solutions to AoC in Roc.",
-      "items": [],
-      "title": "Roc"
-    },
-    {
-      "description": "Solutions to AoC in Ruby.",
-      "items": [],
-      "title": "Ruby"
-    },
-    {
-      "description": "Solutions to AoC in Rust.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "maneatingape/advent-of-code-rust",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T21:44:32Z",
-            "owner": "maneatingape",
-            "repo": "advent-of-code-rust",
-            "stars": 542
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "connorslade/advent-of-code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-12-12T05:55:28Z",
-            "owner": "connorslade",
-            "repo": "advent-of-code",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rene-d/advent-of-rust",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-10T09:36:23Z",
-            "owner": "rene-d",
-            "repo": "advent-of-rust",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "happycoder74/adventofcode",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-02-09T14:04:33Z",
-            "owner": "happycoder74",
-            "repo": "adventofcode",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "akaritakai/AdventOfCode2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-12-19T01:44:27Z",
-            "owner": "akaritakai",
-            "repo": "AdventOfCode2025",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ephemient/aoc2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-12-11T07:23:48Z",
-            "owner": "ephemient",
-            "repo": "aoc2025",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MrRobb/advent-of-code-2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-12-12T06:06:40Z",
-            "owner": "MrRobb",
-            "repo": "advent-of-code-2025",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ndunnett/aoc",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-12-14T23:03:28Z",
-            "owner": "ndunnett",
-            "repo": "aoc",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tbali0524/advent-of-code-rust",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-05-22T16:21:34Z",
-            "owner": "tbali0524",
-            "repo": "advent-of-code-rust",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zsacul/AdventOfCode2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-12-15T03:05:41Z",
-            "owner": "zsacul",
-            "repo": "AdventOfCode2025",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Rust"
-    },
-    {
-      "description": "Solutions to AoC in Smalltalk.",
-      "items": [],
-      "title": "Smalltalk"
-    },
-    {
-      "description": "Solutions to AoC in Scala.",
-      "items": [],
-      "title": "Scala"
-    },
-    {
-      "description": "Solutions to AoC in Solidity.",
-      "items": [],
-      "title": "Solidity"
-    },
-    {
-      "description": "Solutions to AoC in SpectX.",
-      "items": [],
-      "title": "SpectX"
-    },
-    {
-      "description": "Solutions to AoC in SQL.",
-      "items": [],
-      "title": "SQL"
-    },
-    {
-      "description": "Solutions to AoC in Standard ML.",
-      "items": [],
-      "title": "Standard ML"
-    },
-    {
-      "description": "Solutions to AoC in TypeScript.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "uhKieran/advent-of-code-25",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-12-12T15:26:18Z",
-            "owner": "uhKieran",
-            "repo": "advent-of-code-25",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "smichniak/adventOfCode",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-12-12T11:10:23Z",
-            "owner": "smichniak",
-            "repo": "adventOfCode",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "TypeScript"
-    },
-    {
-      "description": "Solutions to AoC in the TypeScript type system.",
-      "items": [],
-      "title": "TypeScript Types"
-    },
-    {
-      "description": "Solutions to AoC in Unison.",
-      "items": [],
-      "title": "Unison"
-    },
-    {
-      "description": "Solutions to AoC in V.",
-      "items": [],
-      "title": "V"
-    },
-    {
-      "description": "Solutions to AoC in VB.NET.",
-      "items": [],
-      "title": "VB.NET"
-    },
-    {
-      "description": "Solutions to AoC in Vyxal.",
-      "items": [],
-      "title": "Vyxal"
-    },
-    {
-      "description": "Solutions to AoC in WebAssembly.",
-      "items": [],
-      "title": "WebAssembly"
-    },
-    {
-      "description": "Solutions to AoC in Whitespace.",
-      "items": [],
-      "title": "Whitespace"
-    },
-    {
-      "description": "Solutions to AoC in Zig.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "JacobBanta/advent-of-code-2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Zig",
-            "last_commit": "2025-12-07T23:40:24Z",
-            "owner": "JacobBanta",
-            "repo": "advent-of-code-2025",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Totto16/AOC-2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Zig",
-            "last_commit": "2026-04-23T15:08:59Z",
-            "owner": "Totto16",
-            "repo": "AOC-2025",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Zig"
-    },
-    {
-      "description": "Solutions to AoC in Zsh.",
-      "items": [],
-      "title": "Zsh"
-    },
-    {
-      "description": "Folks who are live streaming their process.",
-      "items": [],
-      "title": "Live Streams"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:51:18.518Z",
+    "last_updated": "2026-08-19T08:52:18.080Z",
     "original_repository": "Bogdanp/awesome-advent-of-code",
     "original_repository_sha": "df91fb3290eec8bcf8def1d3700bc7eaf2c9738e",
     "enhanced_repository": "enhansome/enhansome-advent-of-code",
