@@ -131,7 +131,7 @@ in your favourite language.*
 
 * [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) ⭐ 831 | 🐛 11 | 🌐 Rust | 📅 2025-11-26 *(Rust)*
 * [kotlin-hands-on/advent-of-code-kotlin-template](https://github.com/kotlin-hands-on/advent-of-code-kotlin-template) ⭐ 698 | 🐛 4 | 🌐 Kotlin | 📅 2025-11-29 *(Kotlin)*
-* [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) ⭐ 476 | 🐛 51 | 🌐 Rust | 📅 2025-05-09 *(Rust)*
+* [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) ⭐ 475 | 🐛 51 | 🌐 Rust | 📅 2025-05-09 *(Rust)*
 * [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) ⭐ 216 | 🐛 0 | 🌐 Elixir | 📅 2024-12-03 *(Elixir)*
 * [SpexGuy/Zig-AoC-Template](https://github.com/SpexGuy/Zig-AoC-Template) ⭐ 130 | 🐛 2 | 🌐 Zig | 📅 2024-11-10 *(Zig)*
 * [derailed-dash/Advent-of-Code](https://github.com/derailed-dash/Advent-of-Code) ⭐ 95 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-08-19 *(Python Jupyter Notebook)*
@@ -627,9 +627,9 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Rust.*
 
-* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 541 | 🐛 2 | 🌐 Rust | 📅 2026-08-19 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--08--16-brightgreen)
+* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 541 | 🐛 2 | 🌐 Rust | 📅 2026-08-20 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--08--16-brightgreen)
 * [connorslade/advent-of-code](https://github.com/connorslade/advent-of-code) ⭐ 38 | 🐛 0 | 🌐 Rust | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
-* [rene-d/advent-of-rust](https://github.com/rene-d/advent-of-rust) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2026-07-10 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--07--10-brightgreen)
+* [rene-d/advent-of-rust](https://github.com/rene-d/advent-of-rust) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2026-08-20 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--07--10-brightgreen)
 * [happycoder74/adventofcode](https://github.com/happycoder74/adventofcode) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2026-02-09 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--02--09-brightgreen)
 * [akaritakai/AdventOfCode2025](https://github.com/akaritakai/AdventOfCode2025) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2025-12-19 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--19-brightgreen)
 * [ephemient/aoc2025](https://github.com/ephemient/aoc2025) ⭐ 0 | 🐛 0 | 🌐 Kotlin | 📅 2025-12-11 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--11-brightgreen)
@@ -733,4 +733,4 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

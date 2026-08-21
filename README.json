@@ -45,7 +45,7 @@
             "last_commit": "2025-05-09T20:25:28Z",
             "owner": "gobanos",
             "repo": "cargo-aoc",
-            "stars": 476
+            "stars": 475
           }
         },
         {
@@ -1143,7 +1143,7 @@
             "archived": false,
             "id": 315078489,
             "language": "Go",
-            "last_commit": "2026-08-20T05:48:14Z",
+            "last_commit": "2026-08-20T21:48:59Z",
             "owner": "dds",
             "repo": "aoc2020",
             "stars": 11
@@ -2399,7 +2399,7 @@
                     "archived": false,
                     "id": 584487892,
                     "language": "Rust",
-                    "last_commit": "2026-08-19T15:22:42Z",
+                    "last_commit": "2026-08-20T18:34:44Z",
                     "owner": "maneatingape",
                     "repo": "advent-of-code-rust",
                     "stars": 541
@@ -2429,7 +2429,7 @@
                     "archived": false,
                     "id": 438264890,
                     "language": "Rust",
-                    "last_commit": "2026-07-10T09:36:23Z",
+                    "last_commit": "2026-08-20T21:50:25Z",
                     "owner": "rene-d",
                     "repo": "advent-of-rust",
                     "stars": 12
@@ -2557,7 +2557,7 @@
                     "id": 1107535403,
                     "language": "TypeScript",
                     "last_commit": "2025-12-12T15:26:18Z",
-                    "owner": "uhKieran",
+                    "owner": "yuhckies",
                     "repo": "advent-of-code-25",
                     "stars": 2
                   }
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:53:40.383Z",
+    "last_updated": "2026-08-21T08:55:25.343Z",
     "original_repository": "Bogdanp/awesome-advent-of-code",
     "original_repository_id": 159918462,
     "original_repository_sha": "df91fb3290eec8bcf8def1d3700bc7eaf2c9738e",
