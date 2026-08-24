@@ -1729,6 +1729,72 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "julemand101/AdventOfCode2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107248692,
+                    "language": "Dart",
+                    "last_commit": "2025-12-12T13:00:27Z",
+                    "owner": "julemand101",
+                    "repo": "AdventOfCode2025",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in Dart.",
+              "node_type": "group",
+              "title": "Dart"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "pivoshenko/adventofcode",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 899913614,
+                    "language": "Python",
+                    "last_commit": "2026-08-15T14:17:42Z",
+                    "owner": "pivoshenko",
+                    "repo": "adventofcode",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in Elixir.",
+              "node_type": "group",
+              "title": "Elixir"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "lboshuizen/aoc25",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107616886,
+                    "language": "F#",
+                    "last_commit": "2025-12-12T10:00:19Z",
+                    "owner": "lboshuizen",
+                    "repo": "aoc25",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in F#.",
+              "node_type": "group",
+              "title": "F#"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "lboshuizen/aoc25",
                   "description": null,
                   "children": [],
@@ -1974,6 +2040,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Titas22/AdventOfCode.jl",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 578798770,
+                    "language": "Julia",
+                    "last_commit": "2025-12-15T02:34:30Z",
+                    "owner": "Titas22",
+                    "repo": "AdventOfCode.jl",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in Julia.",
+              "node_type": "group",
+              "title": "Julia"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "DmitryNekrasov/AoC-2025",
                   "description": null,
                   "children": [],
@@ -2036,6 +2124,28 @@
               "description": "Solutions to AoC in Kotlin.",
               "node_type": "group",
               "title": "Kotlin"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "tkr-sh/advent-of-code-2025-nushell",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107889071,
+                    "language": "Nushell",
+                    "last_commit": "2025-12-09T09:14:56Z",
+                    "owner": "tkr-sh",
+                    "repo": "advent-of-code-2025-nushell",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in Nushell.",
+              "node_type": "group",
+              "title": "Nushell"
             },
             {
               "children": [
@@ -2549,6 +2659,72 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "a12n/advent_of_code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 729442234,
+                    "language": "Ada",
+                    "last_commit": "2026-06-02T10:10:07Z",
+                    "owner": "a12n",
+                    "repo": "advent_of_code",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in Scheme.",
+              "node_type": "group",
+              "title": "Scheme"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Abizern/aoc-swift-2025",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1103542512,
+                    "language": "Swift",
+                    "last_commit": "2026-08-08T13:59:32Z",
+                    "owner": "Abizern",
+                    "repo": "aoc-swift-2025",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in Swift.",
+              "node_type": "group",
+              "title": "Swift"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "harkaitz/advent-of-code-2025-tcl",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1107694625,
+                    "language": "Tcl",
+                    "last_commit": "2025-12-09T09:43:58Z",
+                    "owner": "harkaitz",
+                    "repo": "advent-of-code-2025-tcl",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": "Solutions to AoC in Tcl/Tk",
+              "node_type": "group",
+              "title": "Tcl/Tk"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "yuhckies/advent-of-code-25",
                   "description": null,
                   "children": [],
@@ -2629,7 +2805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:01:53.069Z",
+    "last_updated": "2026-08-24T14:00:52.566Z",
     "original_repository": "Bogdanp/awesome-advent-of-code",
     "original_repository_id": 159918462,
     "original_repository_sha": "fed73bf1896053cef2ead380f8e2db0a8e4beddc",
