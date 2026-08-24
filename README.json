@@ -1877,7 +1877,7 @@
                     "archived": false,
                     "id": 574182339,
                     "language": "Java",
-                    "last_commit": "2026-08-22T13:53:35Z",
+                    "last_commit": "2026-08-23T19:04:42Z",
                     "owner": "vuryss",
                     "repo": "aoc-java",
                     "stars": 8
@@ -2325,7 +2325,7 @@
                     "archived": false,
                     "id": 1105534608,
                     "language": "Python",
-                    "last_commit": "2026-08-20T06:44:10Z",
+                    "last_commit": "2026-08-24T03:24:12Z",
                     "owner": "vil02",
                     "repo": "adv_2025",
                     "stars": 0
@@ -2549,7 +2549,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "uhKieran/advent-of-code-25",
+                  "title": "yuhckies/advent-of-code-25",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -2629,10 +2629,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T08:45:54.918Z",
+    "last_updated": "2026-08-24T09:01:53.069Z",
     "original_repository": "Bogdanp/awesome-advent-of-code",
     "original_repository_id": 159918462,
-    "original_repository_sha": "df91fb3290eec8bcf8def1d3700bc7eaf2c9738e",
+    "original_repository_sha": "fed73bf1896053cef2ead380f8e2db0a8e4beddc",
     "enhanced_repository": "enhansome/enhansome-advent-of-code",
     "enhanced_repository_description": null,
     "title": "Awesome Advent of Code with stars"
