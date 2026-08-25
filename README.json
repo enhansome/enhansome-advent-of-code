@@ -1113,7 +1113,7 @@
             "archived": false,
             "id": 321119939,
             "language": "Python",
-            "last_commit": "2026-08-17T17:05:36Z",
+            "last_commit": "2026-08-24T17:05:09Z",
             "owner": "bsoyka",
             "repo": "advent-of-code-ocr",
             "stars": 13
@@ -2435,7 +2435,7 @@
                     "archived": false,
                     "id": 1105534608,
                     "language": "Python",
-                    "last_commit": "2026-08-24T03:24:12Z",
+                    "last_commit": "2026-08-25T03:23:32Z",
                     "owner": "vil02",
                     "repo": "adv_2025",
                     "stars": 0
@@ -2509,7 +2509,7 @@
                     "archived": false,
                     "id": 584487892,
                     "language": "Rust",
-                    "last_commit": "2026-08-20T18:34:44Z",
+                    "last_commit": "2026-08-24T17:20:56Z",
                     "owner": "maneatingape",
                     "repo": "advent-of-code-rust",
                     "stars": 541
@@ -2805,7 +2805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:00:52.566Z",
+    "last_updated": "2026-08-25T05:52:29.282Z",
     "original_repository": "Bogdanp/awesome-advent-of-code",
     "original_repository_id": 159918462,
     "original_repository_sha": "fed73bf1896053cef2ead380f8e2db0a8e4beddc",
