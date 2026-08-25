@@ -2435,7 +2435,7 @@
                     "archived": false,
                     "id": 1105534608,
                     "language": "Python",
-                    "last_commit": "2026-08-25T03:23:32Z",
+                    "last_commit": "2026-08-25T07:20:34Z",
                     "owner": "vil02",
                     "repo": "adv_2025",
                     "stars": 0
@@ -2805,7 +2805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:52:29.282Z",
+    "last_updated": "2026-08-25T08:57:08.965Z",
     "original_repository": "Bogdanp/awesome-advent-of-code",
     "original_repository_id": 159918462,
     "original_repository_sha": "fed73bf1896053cef2ead380f8e2db0a8e4beddc",
