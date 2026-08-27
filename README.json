@@ -1143,7 +1143,7 @@
             "archived": false,
             "id": 315078489,
             "language": "Go",
-            "last_commit": "2026-08-21T20:08:13Z",
+            "last_commit": "2026-08-26T21:30:36Z",
             "owner": "dds",
             "repo": "aoc2020",
             "stars": 11
@@ -2435,7 +2435,7 @@
                     "archived": false,
                     "id": 1105534608,
                     "language": "Python",
-                    "last_commit": "2026-08-26T03:24:13Z",
+                    "last_commit": "2026-08-26T09:51:23Z",
                     "owner": "vil02",
                     "repo": "adv_2025",
                     "stars": 0
@@ -2805,9 +2805,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:59:35.246Z",
-    "original_repository": "Bogdanp/awesome-advent-of-code",
-    "original_repository_id": 159918462,
+    "last_updated": "2026-08-27T11:18:03.215Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 159918462,
+      "language": "Markdown",
+      "last_commit": "2026-08-24T00:22:33Z",
+      "owner": "Bogdanp",
+      "repo": "awesome-advent-of-code",
+      "stars": 3223
+    },
     "original_repository_sha": "fed73bf1896053cef2ead380f8e2db0a8e4beddc",
     "enhanced_repository": "enhansome/enhansome-advent-of-code",
     "enhanced_repository_description": null,
