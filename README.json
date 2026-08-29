@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎄Starter template for solving Advent of Code in Rust.",
+            "homepage": null,
             "id": 442791031,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-11-26T13:20:00Z",
+            "open_issues": 11,
             "owner": "fspoettel",
             "repo": "advent-of-code-rust",
-            "stars": 831
+            "stars": 831,
+            "topics": [
+              "advent-of-code",
+              "boilerplate",
+              "rust",
+              "starter",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -26,12 +37,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Advent of Code template project for Kotlin",
+            "homepage": "https://blog.jetbrains.com/kotlin/2024/11/advent-of-code-2024-in-kotlin/",
             "id": 429197393,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-29T07:12:40Z",
+            "open_issues": 4,
             "owner": "kotlin-hands-on",
             "repo": "advent-of-code-kotlin-template",
-            "stars": 697
+            "stars": 697,
+            "topics": [
+              "advent-of-code",
+              "adventofcode",
+              "aoc-2024-in-kotlin",
+              "kotlin"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -42,12 +63,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 159042902,
             "language": "Rust",
+            "license": null,
             "last_commit": "2025-05-09T20:25:28Z",
+            "open_issues": 51,
             "owner": "gobanos",
             "repo": "cargo-aoc",
-            "stars": 475
+            "stars": 475,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -58,12 +84,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template project for Advent of Code in Elixir.",
+            "homepage": null,
             "id": 159585229,
             "language": "Elixir",
+            "license": null,
             "last_commit": "2024-12-03T17:53:49Z",
+            "open_issues": 0,
             "owner": "mhanberg",
             "repo": "advent-of-code-elixir-starter",
-            "stars": 216
+            "stars": 216,
+            "topics": [
+              "advent-of-code",
+              "adventofcode",
+              "elixir"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -74,12 +109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template for Advent of Code participants using Zig",
+            "homepage": null,
             "id": 316343134,
             "language": "Zig",
+            "license": "MIT",
             "last_commit": "2024-11-10T18:54:09Z",
+            "open_issues": 2,
             "owner": "SpexGuy",
             "repo": "Zig-AoC-Template",
-            "stars": 130
+            "stars": 130,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -90,12 +130,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advent of Code problems solved in Python.",
+            "homepage": null,
             "id": 443418686,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-19T22:22:26Z",
+            "open_issues": 1,
             "owner": "derailed-dash",
             "repo": "advent-of-code",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-2015",
+              "advent-of-code-2016",
+              "advent-of-code-2020",
+              "advent-of-code-2021",
+              "advent-of-code-2022",
+              "advent-of-code-2023",
+              "advent-of-code-2025",
+              "aoc",
+              "aoc-python",
+              "colab-notebook",
+              "jupyter-notebook",
+              "python",
+              "solutions",
+              "walkthroughs"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -106,12 +167,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Gleam framework for running Advent of Code solutions",
+            "homepage": "https://hex.pm/packages/gladvent",
             "id": 395435429,
             "language": "Gleam",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-27T16:49:03Z",
+            "open_issues": 10,
             "owner": "TanklesXL",
             "repo": "gladvent",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -122,12 +188,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advent of Code C# (.NET 9) template. Based on AoCHelper (https://github.com/eduherminio/AoCHelper)",
+            "homepage": "https://adventofcode.com",
             "id": 316803811,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-11-17T11:51:40Z",
+            "open_issues": 0,
             "owner": "eduherminio",
             "repo": "AdventOfCode.Template",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-2021",
+              "advent-of-code-2022",
+              "advent-of-code-2023",
+              "adventocode",
+              "adventofcode2021",
+              "adventofcode2022",
+              "adventofcode2023",
+              "adventofcode2024",
+              "adventofcode2025",
+              "aoc",
+              "aoc-2024",
+              "aoc-2025",
+              "aoc2021",
+              "aoc2022",
+              "aoc2023",
+              "aoc2024",
+              "aoc2025",
+              "competitive-programming"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -138,12 +229,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template repository for solving Advent of Code puzzles, which automatically handles input retrieval and output.",
+            "homepage": null,
             "id": 220677648,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-11-28T14:29:26Z",
+            "open_issues": 0,
             "owner": "sindrekjr",
             "repo": "AdventOfCodeBase",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "advent-of-code",
+              "csharp",
+              "netcore",
+              "puzzles",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -154,12 +256,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A starter project for Advent of Code in the language Dart. Includes automatic input download, parsing, creation of boilerplate and tests.",
+            "homepage": null,
             "id": 437108166,
             "language": "Dart",
+            "license": null,
             "last_commit": "2024-11-29T23:17:11Z",
+            "open_issues": 10,
             "owner": "S-ecki",
             "repo": "AdventOfCode-Starter-Dart",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -170,12 +277,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alexe Simon's personnal take on the advent of code.",
+            "homepage": null,
             "id": 160645866,
             "language": "HTML",
+            "license": null,
             "last_commit": "2018-12-08T22:17:15Z",
+            "open_issues": 1,
             "owner": "AlexeSimon",
             "repo": "adventofcode",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -186,12 +298,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is my tried-and-true Python helper for solving Advent of Code puzzles",
+            "homepage": "https://advent-of-code.xavd.id",
             "id": 698750065,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-11-30T19:27:51Z",
+            "open_issues": 0,
             "owner": "xavdid",
             "repo": "advent-of-code-python-template",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-starter",
+              "adventofcode",
+              "python",
+              "python3",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -202,12 +326,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby toolkit for Advent of Code",
+            "homepage": null,
             "id": 315462308,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-12-10T23:39:15Z",
+            "open_issues": 1,
             "owner": "pacso",
             "repo": "aoc_rb",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "advent-of-code",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -218,12 +350,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C#/.Net template for adventofcode",
+            "homepage": null,
             "id": 877208091,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-12-01T18:27:27Z",
+            "open_issues": 0,
             "owner": "encse",
             "repo": "adventofcode-template",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -234,12 +371,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starter template for solving Advent of Code in Kotlin",
+            "homepage": null,
             "id": 160060570,
             "language": "Kotlin",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-19T09:50:14Z",
+            "open_issues": 0,
             "owner": "hughjdavey",
             "repo": "aoc-kotlin-starter",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "advent-of-code",
+              "kotlin",
+              "starter-project",
+              "starter-template"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -250,12 +397,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clojure based AOC helper",
+            "homepage": null,
             "id": 535719666,
             "language": "Clojure",
+            "license": "Unlicense",
             "last_commit": "2024-12-03T21:17:37Z",
+            "open_issues": 0,
             "owner": "jjcomer",
             "repo": "aoc-helper",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -266,12 +418,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automate input downloads and solution creation for Advent of Code",
+            "homepage": null,
             "id": 572948095,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-12-01T18:14:10Z",
+            "open_issues": 0,
             "owner": "tomfran",
             "repo": "advent-of-code-setup",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "advent-of-code"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -282,12 +441,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 225442835,
             "language": "TypeScript",
+            "license": "ISC",
             "last_commit": "2021-12-01T09:22:21Z",
+            "open_issues": 0,
             "owner": "caderek",
             "repo": "aoc-starter-ts",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -298,12 +462,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple skeleton for solving the Advent of Code with Elixir",
+            "homepage": null,
             "id": 159884865,
             "language": "Elixir",
+            "license": null,
             "last_commit": "2022-12-01T14:04:58Z",
+            "open_issues": 0,
             "owner": "staylorwr",
             "repo": "elixir_aoc",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-2018",
+              "advent-of-code-elixir",
+              "advent-of-code-template"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -314,12 +488,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Copier template for solving Advent of Code puzzles with Python",
+            "homepage": null,
             "id": 425368816,
             "language": "Jinja",
+            "license": "MIT",
             "last_commit": "2024-12-28T13:25:24Z",
+            "open_issues": 0,
             "owner": "gahjelle",
             "repo": "template-aoc-python",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "advent-of-code",
+              "copier-template"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -330,12 +512,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework to build solutions to the Advent of Code competition on. It includes some basic utilities, and a test suite to verify your solutions. Example cases can also be tested.",
+            "homepage": null,
             "id": 316574503,
             "language": "C++",
+            "license": "CC0-1.0",
             "last_commit": "2024-11-28T13:28:52Z",
+            "open_issues": 0,
             "owner": "arkadye",
             "repo": "advent_of_code_framework",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -346,12 +533,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A project to get you started solving Advent of Code puzzles in Java",
+            "homepage": null,
             "id": 159816018,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-11-26T22:12:14Z",
+            "open_issues": 3,
             "owner": "dave-burke",
             "repo": "advent-of-code-java-starter",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -362,12 +554,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "http://adventofcode.com",
+            "homepage": null,
             "id": 112780781,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-12-19T10:32:16Z",
+            "open_issues": 0,
             "owner": "kindermoumoute",
             "repo": "adventofcode",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-2018",
+              "aoc",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -378,12 +580,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All my Advent of Code solutions. Also a CLI tool for managing and testing Advent of Code challenges.",
+            "homepage": null,
             "id": 575083779,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-17T09:30:04Z",
+            "open_issues": 0,
             "owner": "jromero132",
             "repo": "advent-of-code",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-2015",
+              "advent-of-code-2016",
+              "advent-of-code-2017",
+              "advent-of-code-2018",
+              "advent-of-code-2019",
+              "advent-of-code-2020",
+              "advent-of-code-2021",
+              "advent-of-code-2022",
+              "advent-of-code-2023",
+              "advent-of-code-2024",
+              "advent-of-code-2025",
+              "adventofcode",
+              "algorithms",
+              "algorithms-and-data-structures",
+              "aoc",
+              "awesome",
+              "awesome-python",
+              "problem-solving",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -394,12 +622,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reason Starter kit for Advent of Code ",
+            "homepage": null,
             "id": 317428397,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-02-06T10:05:36Z",
+            "open_issues": 0,
             "owner": "ManasJayanth",
             "repo": "reason-aoc-starter",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "advent-of-code",
+              "esy",
+              "ocaml",
+              "pesy",
+              "reason"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -410,12 +649,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎅 Advent of Code template and generator",
+            "homepage": null,
             "id": 225280389,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-03-05T18:02:31Z",
+            "open_issues": 8,
             "owner": "amorriscode",
             "repo": "advent-of-code",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "advent-of-code",
+              "christmas",
+              "generator",
+              "santa",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -426,12 +676,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template project for Advent of Code in Clojure.",
+            "homepage": null,
             "id": 224775632,
             "language": "Clojure",
+            "license": null,
             "last_commit": "2019-12-01T16:36:00Z",
+            "open_issues": 1,
             "owner": "mhanberg",
             "repo": "advent-of-code-clojure-starter",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -442,12 +697,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 318324198,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-01-24T21:34:48Z",
+            "open_issues": 0,
             "owner": "UncleCJ",
             "repo": "advent-of-code",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-2020",
+              "jupyter-notebook",
+              "notebook",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -458,12 +724,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starter code for doing Advent of Code in OCaml",
+            "homepage": null,
             "id": 578216330,
             "language": "OCaml",
+            "license": null,
             "last_commit": "2024-12-01T19:44:46Z",
+            "open_issues": 0,
             "owner": "fangyi-zhou",
             "repo": "advent-of-code-ocaml-starter",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "advent-of-code",
+              "ocaml"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -474,12 +748,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple TypeScript template for Advent of Code with a  utility function to handle inputs.",
+            "homepage": "https://adventofcode.com/",
             "id": 317399194,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2020-12-01T14:57:10Z",
+            "open_issues": 1,
             "owner": "izexi",
             "repo": "aoc-ts-template",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-template",
+              "advent-of-code-typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -490,12 +773,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ template for Advent of Code using CMake and google test",
+            "homepage": null,
             "id": 901009172,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-01-04T23:36:00Z",
+            "open_issues": 0,
             "owner": "stfufane",
             "repo": "aoc-cpp-template",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -506,12 +794,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Feature-rich starter project for Advent of Code using Kotlin. ",
+            "homepage": null,
             "id": 624108579,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2026-04-02T22:05:19Z",
+            "open_issues": 0,
             "owner": "Jadarma",
             "repo": "advent-of-code-kotlin-template",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "advent-of-code",
+              "kotlin",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -522,12 +819,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 225456964,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2021-12-01T09:21:45Z",
+            "open_issues": 0,
             "owner": "caderek",
             "repo": "aoc-starter-js",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -538,12 +840,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advent Of Code template with a simple python script to fetch input data",
+            "homepage": null,
             "id": 316582329,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-09T10:59:30Z",
+            "open_issues": 0,
             "owner": "alvesvaren",
             "repo": "AoC-template",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-2020",
+              "aoc",
+              "aoc-2020"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -554,12 +866,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advent of Code Template in Go",
+            "homepage": null,
             "id": 598839372,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-12-17T15:54:44Z",
+            "open_issues": 0,
             "owner": "devries",
             "repo": "aoc_template",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "advent-of-code"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -570,12 +889,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 433740429,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-12-02T16:40:13Z",
+            "open_issues": 1,
             "owner": "ismtabo",
             "repo": "advent-of-code-deno-template",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -586,12 +910,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advent of Code TEMPLATE Repository",
+            "homepage": null,
             "id": 316111212,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-11-24T23:32:40Z",
+            "open_issues": 1,
             "owner": "mariotacke",
             "repo": "template-advent-of-code",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-template",
+              "aoc",
+              "challenge",
+              "javascript",
+              "js",
+              "node",
+              "puzzle"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -602,12 +940,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template for managing Advent of Code solutions.",
+            "homepage": null,
             "id": 317614487,
             "language": "Rust",
+            "license": null,
             "last_commit": "2020-12-01T19:38:06Z",
+            "open_issues": 0,
             "owner": "nickyvanurk",
             "repo": "advent-of-code-rust-template",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -618,12 +961,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starter for TypeScript projects. Provides automatic input fetching & creating from a template.",
+            "homepage": null,
             "id": 328504273,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2021-11-30T21:24:05Z",
+            "open_issues": 0,
             "owner": "tatupesonen",
             "repo": "aoc-typescript-starter",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -634,12 +982,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 725789637,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-12-01T01:54:04Z",
+            "open_issues": 1,
             "owner": "viceroypenguin",
             "repo": "adventofcode.template",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -650,12 +1003,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advent of code helper - automating setup of tests, solution template and problem input",
+            "homepage": null,
             "id": 708458533,
             "language": "Gleam",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-08T07:39:35Z",
+            "open_issues": 1,
             "owner": "JohnBjrk",
             "repo": "adglent",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "advent-of-code",
+              "gleam"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -666,12 +1027,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template project that can be used to write in your own challenge algorithms and solutions",
+            "homepage": null,
             "id": 570668214,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-12-01T02:06:32Z",
+            "open_issues": 0,
             "owner": "Kaitachi",
             "repo": "ChallengeStarter",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-swift",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -682,12 +1052,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple php template for Advent of Code with a utility function to handle inputs. It can be used for every language.",
+            "homepage": "https://adventofcode.com/",
             "id": 318929513,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-09-15T13:52:26Z",
+            "open_issues": 0,
             "owner": "ridaamirini",
             "repo": "advent-of-code-template",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-2015",
+              "advent-of-code-2016",
+              "advent-of-code-2017",
+              "advent-of-code-2018",
+              "advent-of-code-2019",
+              "advent-of-code-2020",
+              "advent-of-code-2021",
+              "advent-of-code-php",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -698,12 +1084,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎄Advent of code Bun template",
+            "homepage": "https://adventofcode.com",
             "id": 725777382,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-12-16T11:09:11Z",
+            "open_issues": 0,
             "owner": "matijaoe",
             "repo": "advent-of-code",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-2023",
+              "bun",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -714,12 +1110,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advent of Code challenge template written in Go",
+            "homepage": null,
             "id": 721771424,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-10-04T21:52:16Z",
+            "open_issues": 0,
             "owner": "wlachs",
             "repo": "advent_of_code_go_template",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "advent-of-code"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -730,12 +1133,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advent of Code 2024 TypeScirpt Template",
+            "homepage": null,
             "id": 898473316,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-21T10:25:31Z",
+            "open_issues": 0,
             "owner": "2wndrhs",
             "repo": "aoc-2024-typescript-template",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -746,12 +1154,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A default build which automatically creates the AOC C# Proj with all libs, dependencys, changes, ... needed for the choosen year",
+            "homepage": null,
             "id": 577971433,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-12-02T19:47:42Z",
+            "open_issues": 0,
             "owner": "KaNaDaAT",
             "repo": "AOCSetup",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -762,12 +1175,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java template project to get started with Advent of Code with automatic generation of code skeleton for each solution",
+            "homepage": null,
             "id": 899245210,
             "language": "Java",
+            "license": null,
             "last_commit": "2025-12-09T21:51:05Z",
+            "open_issues": 0,
             "owner": "Viinyard",
             "repo": "adventofcode-template",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -778,12 +1196,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎄Starter template for solving Advent of Code in Java. ",
+            "homepage": null,
             "id": 770305138,
             "language": "Java",
+            "license": "AGPL-3.0",
             "last_commit": "2024-12-13T16:59:56Z",
+            "open_issues": 0,
             "owner": "thermoweb",
             "repo": "aoc-java-template",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "advent-of-code",
+              "java",
+              "starter",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -794,12 +1222,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 896754425,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-01T08:34:42Z",
+            "open_issues": 0,
             "owner": "lcpichette",
             "repo": "aoc-lua-template",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -810,12 +1243,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advent of Code C# (.NET 9) template. Based on AoCHelper (https://github.com/eduherminio/AoCHelper)",
+            "homepage": "https://adventofcode.com",
             "id": 724652168,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-11-17T11:51:04Z",
+            "open_issues": 0,
             "owner": "eduherminio",
             "repo": "AdventOfCode.MultiYearTemplate",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "advent-of-code",
+              "adventofcode",
+              "adventofcode2023",
+              "adventofcode2024",
+              "aoc",
+              "aoc-2023",
+              "aoc-2024",
+              "aoc2023",
+              "aoc2024"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -826,12 +1274,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The template for dotnet CLI for AdventOfCode day solution.",
+            "homepage": null,
             "id": 445209432,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-05-16T11:38:50Z",
+            "open_issues": 0,
             "owner": "mMosiur",
             "repo": "AdventOfCodeDayTemplate",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-csharp",
+              "dotnet"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -842,12 +1299,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advent of code template for kotlin.",
+            "homepage": "https://adventofcode.com",
             "id": 725625994,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2023-12-09T21:57:06Z",
+            "open_issues": 0,
             "owner": "pgebert",
             "repo": "advent-of-code-kotlin-template",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-in-kotlin",
+              "aoc",
+              "boilerplate",
+              "kotlin",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -858,12 +1327,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advent of Code · Motoko starter project",
+            "homepage": "https://gitpod.io/#https://github.com/rvanasa/aoc-motoko-starter",
             "id": 722344596,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-11-23T01:35:19Z",
+            "open_issues": 0,
             "owner": "rvanasa",
             "repo": "aoc-motoko-starter",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "advent-of-code",
+              "aoc-2023",
+              "challenge",
+              "competition",
+              "dfinity",
+              "icp",
+              "internet-computer",
+              "motoko",
+              "puzzle",
+              "starter",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -874,12 +1360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advent of Code 2021 - z/OS Flask REST Solutions (runnning python and REXX lol)",
+            "homepage": null,
             "id": 430225235,
             "language": "REXX",
+            "license": null,
             "last_commit": "2021-12-16T23:13:06Z",
+            "open_issues": 0,
             "owner": "wizardofzos",
             "repo": "aoc2021",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         }
@@ -896,12 +1387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advent of Code command-line tool",
+            "homepage": null,
             "id": 318010853,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-12-22T04:14:43Z",
+            "open_issues": 16,
             "owner": "scarvalhojr",
             "repo": "aoc-cli",
-            "stars": 321
+            "stars": 321,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -912,12 +1408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advent of Code runner",
+            "homepage": null,
             "id": 423667636,
             "language": "TypeScript",
+            "license": "ISC",
             "last_commit": "2024-12-01T18:03:16Z",
+            "open_issues": 17,
             "owner": "caderek",
             "repo": "aocrunner",
-            "stars": 199
+            "stars": 199,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -928,12 +1429,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inject charts in your private leaderboard page for Advent of Code",
+            "homepage": null,
             "id": 113780864,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-10T02:06:55Z",
+            "open_issues": 20,
             "owner": "jeroenheijmans",
             "repo": "advent-of-code-charts",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "advent-of-code",
+              "aoc",
+              "chrome",
+              "extension",
+              "firefox",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -944,12 +1457,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Github Action to update the badges of your Readme to show your current Advent of Code stats",
+            "homepage": null,
             "id": 318809886,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-10T12:37:00Z",
+            "open_issues": 1,
             "owner": "J0B10",
             "repo": "aoc-badges-action",
-            "stars": 129
+            "stars": 129,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-2021",
+              "badge-generator",
+              "badges"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -960,12 +1483,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⭐️ Command line utility that automatically downloads your Advent of Code puzzle inputs.",
+            "homepage": null,
             "id": 113819766,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-12-04T23:12:08Z",
+            "open_issues": 0,
             "owner": "GreenLightning",
             "repo": "advent-of-code-downloader",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "advent-of-code",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -976,12 +1508,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helper .NET library for solving Advent of Code puzzles",
+            "homepage": "https://adventofcode.com",
             "id": 217520517,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-25T10:14:16Z",
+            "open_issues": 10,
             "owner": "eduherminio",
             "repo": "AoCHelper",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "advent",
+              "advent-of-code",
+              "advent-of-code-2022",
+              "advent-of-code-2023",
+              "advent-of-code-2025",
+              "adventofcode",
+              "adventofcode2022",
+              "adventofcode2023",
+              "adventofcode2024",
+              "adventofcode2025",
+              "aoc",
+              "aoc-2024",
+              "aoc-2025",
+              "aoc2022",
+              "aoc2023",
+              "aoc2024",
+              "aoc2025",
+              "puzzles"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -992,12 +1548,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GitHub Action that automatically reports your Advent of Code progress in a table in your README",
+            "homepage": null,
             "id": 433998401,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-17T22:38:46Z",
+            "open_issues": 6,
             "owner": "k2bd",
             "repo": "advent-readme-stars",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-2021"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1008,12 +1572,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fancy Advent of Code README tiles showing the completion status of the challenges per day",
+            "homepage": null,
             "id": 718821887,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-12T23:18:57Z",
+            "open_issues": 3,
             "owner": "LiquidFun",
             "repo": "aoc_tiles",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1024,12 +1593,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool (and also crate) for Advent of Code (https://adventofcode.com/)",
+            "homepage": null,
             "id": 225088328,
             "language": "Rust",
+            "license": "ISC",
             "last_commit": "2024-12-02T15:32:43Z",
+            "open_issues": 10,
             "owner": "nuxeh",
             "repo": "aocf",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1040,12 +1614,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby toolkit for Advent of Code",
+            "homepage": null,
             "id": 315462308,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-12-10T23:39:15Z",
+            "open_issues": 1,
             "owner": "pacso",
             "repo": "aoc_rb",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "advent-of-code",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1056,12 +1638,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate advent of code badge",
+            "homepage": "adventofcode-badge.vercel.app",
             "id": 420979386,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-08-14T11:38:56Z",
+            "open_issues": 0,
             "owner": "stackcats",
             "repo": "adventofcode-badge",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1072,12 +1659,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎅🏻 Download inputs, puzzle directions, & submit answers to Advent of Code puzzles in your terminal",
+            "homepage": null,
             "id": 354920813,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2021-12-10T13:44:05Z",
+            "open_issues": 5,
             "owner": "breakthatbass",
             "repo": "eggnog",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "advent-of-code",
+              "christmas",
+              "cli",
+              "game",
+              "libcurl"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1088,12 +1686,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elixir utilities for Advent of Code",
+            "homepage": null,
             "id": 317542413,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2026-02-02T16:51:55Z",
+            "open_issues": 1,
             "owner": "mathsaey",
             "repo": "advent_of_code_utils",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "advent-of-code",
+              "elixir",
+              "elixir-lang",
+              "mix"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1104,12 +1712,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kotlin Multiplatform utility library with battle-tested, zero-dependency implementations of algorithms and data structures for competitive programming and Advent of Code 🎄🧑‍💻",
+            "homepage": "https://dmitrynekrasov.github.io/kodvent/",
             "id": 1090411960,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-17T20:57:51Z",
+            "open_issues": 4,
             "owner": "DmitryNekrasov",
             "repo": "kodvent",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-2025",
+              "advent-of-code-lib",
+              "advent-of-code-library",
+              "adventofcode",
+              "aoc",
+              "aoc-2025",
+              "aoc-2025-in-kotlin",
+              "aoc-2026-in-kotlin",
+              "codeforces",
+              "competitive-programming",
+              "disjoint-set-union",
+              "icpc",
+              "kotlin",
+              "kotlin-libraries",
+              "kotlin-library",
+              "leetcode",
+              "library",
+              "range-minimum-queries",
+              "segment-tree"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1120,12 +1754,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple library that makes running and testing your Kotlin solutions to Advent of Code puzzles a breeze.",
+            "homepage": "https://jadarma.github.io/advent-of-code-kotlin/",
             "id": 324646170,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-04-02T21:35:13Z",
+            "open_issues": 0,
             "owner": "Jadarma",
             "repo": "advent-of-code-kotlin",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "advent-of-code",
+              "kotlin"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1136,12 +1778,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎄 My solutions to puzzles at AdventOfCode.com",
+            "homepage": "https://adventofcode.com",
             "id": 433747676,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2026-05-08T08:45:07Z",
+            "open_issues": 0,
             "owner": "erikw",
             "repo": "advent-of-code-solutions",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "advent-of-code",
+              "adventofcode",
+              "aoc",
+              "programming-challenges",
+              "solutions"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1152,12 +1805,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A NodeJS client for fetching inputs and submitting answers to Advent Of Code directly from your JavaScript code",
+            "homepage": null,
             "id": 318752965,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-12-10T09:17:27Z",
+            "open_issues": 1,
             "owner": "toblu",
             "repo": "advent-of-code-client",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "advent-of-code",
+              "aoc",
+              "javascript",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1168,12 +1831,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "@salt-die's aoc_helper package, rewritten from the ground up",
+            "homepage": null,
             "id": 318981347,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-08T05:27:10Z",
+            "open_issues": 0,
             "owner": "Starwort",
             "repo": "aoc_helper",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1184,12 +1852,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python library to parse Advent of Code ASCII art",
+            "homepage": "https://aoc-ocr.bsoyka.me",
             "id": 321119939,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T17:05:09Z",
+            "open_issues": 4,
             "owner": "bsoyka",
             "repo": "advent-of-code-ocr",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-2016",
+              "advent-of-code-2019",
+              "advent-of-code-2021",
+              "ocr"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1200,12 +1879,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ESB - Script your way to rescue Christmas as part of the ElfScript Brigade team.",
+            "homepage": null,
             "id": 750108936,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-30T03:04:21Z",
+            "open_issues": 2,
             "owner": "luxedo",
             "repo": "esb",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1216,12 +1900,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advent of Code 2020 Solutions (Golang)",
+            "homepage": null,
             "id": 315078489,
             "language": "Go",
-            "last_commit": "2026-08-28T13:17:18Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T21:40:39Z",
+            "open_issues": 7,
             "owner": "dds",
             "repo": "aoc2020",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "aoc2020",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1232,12 +1924,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a ruby tool for playing with Advent of Code",
+            "homepage": null,
             "id": 223748114,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2022-12-01T08:54:33Z",
+            "open_issues": 0,
             "owner": "Keirua",
             "repo": "aoc-cli",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1248,12 +1945,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All my Advent of Code solutions. Also a CLI tool for managing and testing Advent of Code challenges.",
+            "homepage": null,
             "id": 575083779,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-17T09:30:04Z",
+            "open_issues": 0,
             "owner": "jromero132",
             "repo": "advent-of-code",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-2015",
+              "advent-of-code-2016",
+              "advent-of-code-2017",
+              "advent-of-code-2018",
+              "advent-of-code-2019",
+              "advent-of-code-2020",
+              "advent-of-code-2021",
+              "advent-of-code-2022",
+              "advent-of-code-2023",
+              "advent-of-code-2024",
+              "advent-of-code-2025",
+              "adventofcode",
+              "algorithms",
+              "algorithms-and-data-structures",
+              "aoc",
+              "awesome",
+              "awesome-python",
+              "problem-solving",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1264,12 +1987,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AoC relative timer",
+            "homepage": null,
             "id": 324868991,
             "language": "TypeScript",
+            "license": "ISC",
             "last_commit": "2022-12-01T17:45:44Z",
+            "open_issues": 0,
             "owner": "caderek",
             "repo": "aoctimer",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1280,12 +2008,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.JS CLI solution generator and runner for advent of code.",
+            "homepage": null,
             "id": 573559382,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-11-30T18:13:06Z",
+            "open_issues": 8,
             "owner": "beakerandjake",
             "repo": "advent-of-code-runner",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "advent",
+              "advent-of-code",
+              "advent-of-code-2023",
+              "adventofcode",
+              "adventofcode2023",
+              "aoc",
+              "cli",
+              "javascript",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1296,12 +2039,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Show all non-zero score AoC participants in one, global scoreboard",
+            "homepage": "https://freedomofkeima.github.io/aoc-ranking/",
             "id": 318540758,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-12-25T06:15:45Z",
+            "open_issues": 0,
             "owner": "freedomofkeima",
             "repo": "aoc-ranking",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "advent-of-code"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1312,12 +2062,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of C# source generators to build an agent for your Advent of Code solutions - an application that downloads inputs and submits answers",
+            "homepage": null,
             "id": 723467826,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-07-01T04:23:56Z",
+            "open_issues": 4,
             "owner": "mazharenko",
             "repo": "aoc-agent",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "advent-of-code",
+              "adventofcode"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1328,12 +2086,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎄 Advent of Code command line tool. Supports JavaScript and TypeScript.",
+            "homepage": "http://aocjs.github.io",
             "id": 412225980,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-12-01T09:08:23Z",
+            "open_issues": 0,
             "owner": "aocjs",
             "repo": "cli",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "advent-of-code-2021",
+              "aoc",
+              "javascript",
+              "npm",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1344,12 +2113,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parsing ASCII art word solutions for advent of code",
+            "homepage": "https://hackage.haskell.org/package/advent-of-code-ocr",
             "id": 315754814,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-12-14T05:31:25Z",
+            "open_issues": 2,
             "owner": "mstksg",
             "repo": "advent-of-code-ocr",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1360,12 +2134,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool and library for Advent of Code projects",
+            "homepage": null,
             "id": 500032070,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-23T09:32:02Z",
+            "open_issues": 0,
             "owner": "Macil",
             "repo": "aocd",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1376,12 +2155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 573937206,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-20T15:34:19Z",
+            "open_issues": 0,
             "owner": "yspreen",
             "repo": "aoc",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1392,12 +2176,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".NET solvers runner for the Advent of Code puzzles (https://adventofcode.com)",
+            "homepage": null,
             "id": 434729164,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-12-04T16:39:10Z",
+            "open_issues": 0,
             "owner": "vladsm",
             "repo": "adventofcode-runner",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "advent-of-code"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1408,12 +2199,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Merge multiple Advent of Code leaderboards",
+            "homepage": null,
             "id": 309070749,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2022-12-01T20:53:36Z",
+            "open_issues": 2,
             "owner": "scarvalhojr",
             "repo": "aocleaderboard",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1424,12 +2220,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Advent of Code abstractions for dotnet projects.",
+            "homepage": null,
             "id": 434683922,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-11-24T18:13:12Z",
+            "open_issues": 0,
             "owner": "mMosiur",
             "repo": "AdventOfCodeAbstractions",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "advent-of-code",
+              "advent-of-code-csharp"
+            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1440,12 +2244,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A commandline interface to work with the Advent of Code",
+            "homepage": null,
             "id": 575171299,
             "language": "Go",
+            "license": null,
             "last_commit": "2025-12-02T13:52:57Z",
+            "open_issues": 1,
             "owner": "NamelessGroup",
             "repo": "AdventOfCode-CLI",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1456,12 +2265,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kevin Wang's CLI tool for advent of code",
+            "homepage": null,
             "id": 727544878,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-02T19:53:04Z",
+            "open_issues": 0,
             "owner": "VitamintK",
             "repo": "wang-aoc-cli",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -1472,12 +2286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This tool produces an execution time table for days part of Advent of Code puzzles.",
+            "homepage": null,
             "id": 448614857,
             "language": "C++",
+            "license": null,
             "last_commit": "2022-01-16T19:22:37Z",
+            "open_issues": 0,
             "owner": "coralkashri",
             "repo": "AoC-execution_time_table_generator",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         }
@@ -1498,12 +2317,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of answers to all the programming questions for Advent of Code.",
+                    "homepage": null,
                     "id": 574269038,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-12-09T14:53:09Z",
+                    "open_issues": 0,
                     "owner": "ArjArav98",
                     "repo": "AdventOfCode",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -1514,12 +2338,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fun with the advent of code 2025",
+                    "homepage": null,
                     "id": 1108058298,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2025-12-27T00:02:31Z",
+                    "open_issues": 0,
                     "owner": "PaulGoldschmidt",
                     "repo": "advent-of-code-2025",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -1537,12 +2366,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":christmas_tree: Advent of Code (2015-2025) in C#",
+                    "homepage": "https://aoc.csokavar.hu/",
                     "id": 112706767,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-07-17T21:20:09Z",
+                    "open_issues": 1,
                     "owner": "encse",
                     "repo": "adventofcode",
-                    "stars": 401
+                    "stars": 401,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2015",
+                      "advent-of-code-2016",
+                      "advent-of-code-2017",
+                      "advent-of-code-2018",
+                      "advent-of-code-2019",
+                      "advent-of-code-2020",
+                      "advent-of-code-2021",
+                      "advent-of-code-2022",
+                      "advent-of-code-2023",
+                      "advent-of-code-2024",
+                      "advent-of-code-2025",
+                      "csharp"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -1553,12 +2401,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "My C# and F# Advent Of Code solutions",
+                    "homepage": null,
                     "id": 113024486,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2025-12-17T05:12:23Z",
+                    "open_issues": 0,
                     "owner": "CameronAavik",
                     "repo": "AdventOfCode",
-                    "stars": 80
+                    "stars": 80,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2015",
+                      "advent-of-code-2016",
+                      "advent-of-code-2017",
+                      "advent-of-code-2018",
+                      "advent-of-code-2019",
+                      "advent-of-code-2020",
+                      "advent-of-code-2021",
+                      "advent-of-code-2022",
+                      "advent-of-code-2023",
+                      "advent-of-code-2024",
+                      "csharp",
+                      "fsharp"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -1569,12 +2436,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Answers to Advent of Code",
+                    "homepage": null,
                     "id": 48049567,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2025-12-12T05:44:58Z",
+                    "open_issues": 0,
                     "owner": "viceroypenguin",
                     "repo": "adventofcode",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2015",
+                      "advent-of-code-2016",
+                      "advent-of-code-2017",
+                      "advent-of-code-2018",
+                      "advent-of-code-2019",
+                      "advent-of-code-2020",
+                      "advent-of-code-2021",
+                      "advent-of-code-2022",
+                      "advent-of-code-2023",
+                      "advent-of-code-2024",
+                      "advent-of-code-2025",
+                      "advent-of-code-csharp"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -1585,12 +2471,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "My solutions for Advent of Code puzzles, all in one repo",
+                    "homepage": null,
                     "id": 735949250,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2026-01-03T13:27:40Z",
+                    "open_issues": 0,
                     "owner": "andrei-ned",
                     "repo": "advent-of-code",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -1601,12 +2492,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1107583702,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2025-12-04T10:04:58Z",
+                    "open_issues": 0,
                     "owner": "ClxS",
                     "repo": "Advent-of-Code-2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -1617,12 +2513,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "My 2025 Advent of Code solutions in C#",
+                    "homepage": null,
                     "id": 1107418794,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2025-12-14T03:09:25Z",
+                    "open_issues": 0,
                     "owner": "MarkusG",
                     "repo": "AoC-2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "csharp"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -1633,12 +2538,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "My solutions for the Advent of Code 2025, using .NET 10 and C# 14.",
+                    "homepage": "https://adventofcode.com/2025",
                     "id": 1108808854,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2025-12-19T21:37:06Z",
+                    "open_issues": 0,
                     "owner": "sebastianlay",
                     "repo": "AdventOfCode2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "aoc",
+                      "aoc-2025-in-csharp",
+                      "aoc-in-csharp"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -1649,12 +2565,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 225597258,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-12T10:25:48Z",
+                    "open_issues": 0,
                     "owner": "sehra",
                     "repo": "advent-of-code",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "advent-of-code"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -1665,12 +2588,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tasks and solutions from competitions I have participated in.",
+                    "homepage": null,
                     "id": 871655447,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2025-12-16T22:31:35Z",
+                    "open_issues": 0,
                     "owner": "Tholdrim",
                     "repo": "Competitions",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2024",
+                      "advent-of-code-2024-csharp",
+                      "algorithms",
+                      "competitive-programming",
+                      "csharp",
+                      "dotnet",
+                      "programming-competitions"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -1681,12 +2618,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1108247414,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2025-12-08T10:59:25Z",
+                    "open_issues": 0,
                     "owner": "udvlp",
                     "repo": "Advent-of-Code-2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -1704,12 +2646,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "All my Advent of Code solutions. Also a CLI tool for managing and testing Advent of Code challenges.",
+                    "homepage": null,
                     "id": 575083779,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-12-17T09:30:04Z",
+                    "open_issues": 0,
                     "owner": "jromero132",
                     "repo": "advent-of-code",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2015",
+                      "advent-of-code-2016",
+                      "advent-of-code-2017",
+                      "advent-of-code-2018",
+                      "advent-of-code-2019",
+                      "advent-of-code-2020",
+                      "advent-of-code-2021",
+                      "advent-of-code-2022",
+                      "advent-of-code-2023",
+                      "advent-of-code-2024",
+                      "advent-of-code-2025",
+                      "adventofcode",
+                      "algorithms",
+                      "algorithms-and-data-structures",
+                      "aoc",
+                      "awesome",
+                      "awesome-python",
+                      "problem-solving",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -1720,12 +2688,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "It's that time of the year again!! Time to sip some hot coffee, and help some elves solve cool puzzles...",
+                    "homepage": null,
                     "id": 1107402514,
                     "language": "C++",
+                    "license": "Unlicense",
                     "last_commit": "2025-12-07T11:40:27Z",
+                    "open_issues": 0,
                     "owner": "Aadv1k",
                     "repo": "AdventOfCpp2025",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "advent-of-code-2025-cpp",
+                      "adventofcode"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -1736,12 +2714,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code",
+                    "homepage": null,
                     "id": 726065463,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2025-12-16T21:47:36Z",
+                    "open_issues": 0,
                     "owner": "arcogelderblom",
                     "repo": "AdventOfCode",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2020",
+                      "advent-of-code-2021",
+                      "advent-of-code-2023",
+                      "advent-of-code-2024",
+                      "advent-of-code-cpp",
+                      "aoc",
+                      "aoc-2020",
+                      "aoc-2021",
+                      "aoc-2023",
+                      "aoc-2024",
+                      "aoc-cpp"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -1752,12 +2748,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository contains my daily solutions for Advent of Code programming challenges.",
+                    "homepage": null,
                     "id": 1108664571,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-02-11T23:36:19Z",
+                    "open_issues": 0,
                     "owner": "AndriiSonsiadlo",
                     "repo": "advent-of-code-cpp",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -1768,12 +2769,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1107096563,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2025-12-29T22:35:05Z",
+                    "open_issues": 0,
                     "owner": "bg2b",
                     "repo": "aoc25",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -1784,12 +2790,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1099000222,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2025-12-05T09:41:26Z",
+                    "open_issues": 0,
                     "owner": "marcelweikum",
                     "repo": "advent-of-code",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -1807,12 +2818,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code solutions",
+                    "homepage": null,
                     "id": 434244218,
                     "language": "Common Lisp",
+                    "license": null,
                     "last_commit": "2026-05-17T16:25:55Z",
+                    "open_issues": 0,
                     "owner": "ynadji",
                     "repo": "advent",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -1823,12 +2839,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Yet Another AoC solution repository",
+                    "homepage": null,
                     "id": 729006113,
                     "language": "Common Lisp",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-12-07T17:14:15Z",
+                    "open_issues": 0,
                     "owner": "deril",
                     "repo": "advent-of-code",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "advent-of-code"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -1846,12 +2869,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Solutions for Advent of Code 2025 in Dart",
+                    "homepage": null,
                     "id": 1107248692,
                     "language": "Dart",
+                    "license": null,
                     "last_commit": "2025-12-12T13:00:27Z",
+                    "open_issues": 0,
                     "owner": "julemand101",
                     "repo": "AdventOfCode2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -1869,12 +2897,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🎄 My Advent of Code solutions",
+                    "homepage": "http://adventofcode.com",
                     "id": 899913614,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-15T14:17:42Z",
+                    "open_issues": 0,
                     "owner": "pivoshenko",
                     "repo": "adventofcode",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2024",
+                      "advent-of-code-2025",
+                      "advent-of-code-elixir",
+                      "advent-of-code-python",
+                      "adventofcode",
+                      "coding-challenges"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -1892,12 +2933,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code 2025 solutions in F#",
+                    "homepage": null,
                     "id": 1107616886,
                     "language": "F#",
+                    "license": null,
                     "last_commit": "2025-12-12T10:00:19Z",
+                    "open_issues": 0,
                     "owner": "lboshuizen",
                     "repo": "aoc25",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "aoc",
+                      "aoc2025",
+                      "fsharp",
+                      "functional-programming"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -1915,12 +2968,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code 2025 solutions in F#",
+                    "homepage": null,
                     "id": 1107616886,
                     "language": "F#",
+                    "license": null,
                     "last_commit": "2025-12-12T10:00:19Z",
+                    "open_issues": 0,
                     "owner": "lboshuizen",
                     "repo": "aoc25",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "aoc",
+                      "aoc2025",
+                      "fsharp",
+                      "functional-programming"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -1931,12 +2996,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Solutions for the Advent of Code in different languages",
+                    "homepage": null,
                     "id": 898057012,
                     "language": "Rust",
+                    "license": null,
                     "last_commit": "2026-03-01T14:15:05Z",
+                    "open_issues": 0,
                     "owner": "kriogenia",
                     "repo": "advent_of_code",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -1954,12 +3024,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code in Rust, ReScript, ReasonML, Go, TypeScript, and Python",
+                    "homepage": null,
                     "id": 159979733,
                     "language": "Rust",
+                    "license": "Unlicense",
                     "last_commit": "2025-12-13T07:36:58Z",
+                    "open_issues": 0,
                     "owner": "believer",
                     "repo": "advent-of-code",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2015",
+                      "advent-of-code-2016",
+                      "advent-of-code-2017",
+                      "advent-of-code-2018",
+                      "advent-of-code-2019",
+                      "advent-of-code-2020",
+                      "advent-of-code-2021",
+                      "advent-of-code-2022",
+                      "advent-of-code-2023",
+                      "advent-of-code-2024",
+                      "bucklescript",
+                      "go",
+                      "javascript",
+                      "lua",
+                      "python",
+                      "reasonml",
+                      "rescript",
+                      "rust",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -1970,12 +3066,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code 2025",
+                    "homepage": "https://adventofcode.com/2025",
                     "id": 1107396281,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2025-12-28T15:01:03Z",
+                    "open_issues": 0,
                     "owner": "pin2t",
                     "repo": "aoc2025",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "advent-of-code-go",
+                      "advent-of-code-java",
+                      "go",
+                      "golang",
+                      "java"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -1986,12 +3095,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "My Advent of Code 2025 solutions",
+                    "homepage": null,
                     "id": 1107695773,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-12-10T11:47:12Z",
+                    "open_issues": 0,
                     "owner": "tiennm99",
                     "repo": "adventofcode",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "2025",
+                      "advent-of-code",
+                      "algorithms",
+                      "learning",
+                      "puzzles"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -2009,12 +3129,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code complete solution archive and common library",
+                    "homepage": null,
                     "id": 442066532,
                     "language": "Haskell",
+                    "license": null,
                     "last_commit": "2025-12-12T07:03:01Z",
+                    "open_issues": 1,
                     "owner": "glguy",
                     "repo": "advent",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2025,12 +3150,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🦌🎅🏻⛄🎁 Advent of Code (AoC) ☃️❄️🤶🎄 solutions by Lorin Lange.",
+                    "homepage": "https://adventofcode.com",
                     "id": 573033436,
                     "language": "Haskell",
+                    "license": null,
                     "last_commit": "2026-08-05T20:19:41Z",
+                    "open_issues": 0,
                     "owner": "Lorin-Lange",
                     "repo": "advent-of-code",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2015-haskell",
+                      "advent-of-code-2021",
+                      "advent-of-code-2022",
+                      "advent-of-code-2022-haskell",
+                      "advent-of-code-2023",
+                      "advent-of-code-2023-haskell",
+                      "advent-of-code-2024",
+                      "advent-of-code-2024-haskell",
+                      "advent-of-code-2025",
+                      "advent-of-code-2025-haskell",
+                      "advent-of-code-cpp",
+                      "advent-of-code-haskell",
+                      "adventofcode",
+                      "aoc-2025",
+                      "aoc2022",
+                      "cpp",
+                      "functional-programming",
+                      "haskell"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2041,12 +3191,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code 2025 - my answers",
+                    "homepage": null,
                     "id": 1107504021,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2025-12-11T07:23:48Z",
+                    "open_issues": 0,
                     "owner": "ephemient",
                     "repo": "aoc2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "advent-of-code-2025-haskell",
+                      "advent-of-code-2025-python",
+                      "advent-of-code-2025-rust",
+                      "aoc-2025-in-kotlin"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -2064,12 +3226,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code solutions in Java",
+                    "homepage": null,
                     "id": 574182339,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2026-08-23T19:04:42Z",
+                    "open_issues": 0,
                     "owner": "vuryss",
                     "repo": "aoc-java",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2015",
+                      "advent-of-code-2016",
+                      "advent-of-code-2017",
+                      "advent-of-code-2018",
+                      "advent-of-code-2019",
+                      "advent-of-code-2022",
+                      "advent-of-code-2023",
+                      "advent-of-code-2025",
+                      "advent-of-code-java",
+                      "adventofcode",
+                      "aoc-java",
+                      "java"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2080,12 +3261,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 890634105,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2025-12-12T15:09:21Z",
+                    "open_issues": 0,
                     "owner": "Viinyard",
                     "repo": "adventofcode",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2096,12 +3282,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code 2025",
+                    "homepage": "https://adventofcode.com/2025",
                     "id": 1107396281,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2025-12-28T15:01:03Z",
+                    "open_issues": 0,
                     "owner": "pin2t",
                     "repo": "aoc2025",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "advent-of-code-go",
+                      "advent-of-code-java",
+                      "go",
+                      "golang",
+                      "java"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2112,12 +3311,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "solutions for adventofcode problems written in java",
+                    "homepage": "https://adventofcode.com",
                     "id": 1107993008,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2025-12-09T19:38:39Z",
+                    "open_issues": 0,
                     "owner": "nicomyerr",
                     "repo": "advent-of-code",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "advent-of-code",
+                      "java"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -2135,12 +3342,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code 2025 solutions in plain Javascript ",
+                    "homepage": null,
                     "id": 1106581428,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-12-20T18:43:11Z",
+                    "open_issues": 0,
                     "owner": "rkeytacked",
                     "repo": "adventofcode-2025",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2151,12 +3363,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code 2025 - JavaScript Edition",
+                    "homepage": "https://adventofcode.com",
                     "id": 1107947708,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2025-12-21T17:15:47Z",
+                    "open_issues": 0,
                     "owner": "EduardaSRBastos",
                     "repo": "advent-of-code-2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "advent-of-code-2025-js",
+                      "advent-of-code-javascript",
+                      "advent-of-code-js",
+                      "adventofcode"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -2174,12 +3398,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "My Advent of Code submissions in Julia. ",
+                    "homepage": null,
                     "id": 578798770,
                     "language": "Julia",
+                    "license": "MIT",
                     "last_commit": "2025-12-15T02:34:30Z",
+                    "open_issues": 0,
                     "owner": "Titas22",
                     "repo": "AdventOfCode.jl",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -2197,12 +3426,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code 2025",
+                    "homepage": null,
                     "id": 1107451808,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2026-02-10T15:05:24Z",
+                    "open_issues": 0,
                     "owner": "DmitryNekrasov",
                     "repo": "AoC-2025",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "advent-of-code-2025-in-kotlin",
+                      "advent-of-code-2025-kotlin",
+                      "advent-of-code-in-kotlin",
+                      "aoc",
+                      "aoc-2025",
+                      "aoc-2025-in-kotlin",
+                      "aoc-2025-kotlin",
+                      "aoc-in-kotlin"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2213,12 +3458,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "(24⭐) Solutions for Advent of Code 2025 in Kotlin",
+                    "homepage": null,
                     "id": 1107733201,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2026-05-14T18:02:33Z",
+                    "open_issues": 0,
                     "owner": "7rebux",
                     "repo": "advent-of-code-2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "advent-of-code",
+                      "aoc-2025-in-kotlin"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2229,12 +3482,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1096579747,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2025-12-12T15:14:11Z",
+                    "open_issues": 0,
                     "owner": "AbundantSalmon",
                     "repo": "advent-of-code-2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "kotlin"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2245,12 +3507,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code 2025 - my answers",
+                    "homepage": null,
                     "id": 1107504021,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2025-12-11T07:23:48Z",
+                    "open_issues": 0,
                     "owner": "ephemient",
                     "repo": "aoc2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "advent-of-code-2025-haskell",
+                      "advent-of-code-2025-python",
+                      "advent-of-code-2025-rust",
+                      "aoc-2025-in-kotlin"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -2268,12 +3542,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of code in pure nushell!",
+                    "homepage": null,
                     "id": 1107889071,
                     "language": "Nushell",
+                    "license": null,
                     "last_commit": "2025-12-09T09:14:56Z",
+                    "open_issues": 0,
                     "owner": "tkr-sh",
                     "repo": "advent-of-code-2025-nushell",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "advent-of-code-2025-nu",
+                      "adventofcode",
+                      "aoc",
+                      "nushell"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -2291,12 +3577,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code solutions in PHP by TBali",
+                    "homepage": "https://adventofcode.com",
                     "id": 556838117,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2026-08-22T17:37:07Z",
+                    "open_issues": 0,
                     "owner": "tbali0524",
                     "repo": "advent-of-code-solutions",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "advent-of-code",
+                      "php",
+                      "puzzle-solution"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2307,12 +3602,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1109319691,
                     "language": "PHP",
+                    "license": null,
                     "last_commit": "2025-12-15T06:59:57Z",
+                    "open_issues": 0,
                     "owner": "ancarofl",
                     "repo": "advent-of-code",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "php"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -2330,12 +3634,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code problems solved in Python.",
+                    "homepage": null,
                     "id": 443418686,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2026-08-19T22:22:26Z",
+                    "open_issues": 1,
                     "owner": "derailed-dash",
                     "repo": "advent-of-code",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2015",
+                      "advent-of-code-2016",
+                      "advent-of-code-2020",
+                      "advent-of-code-2021",
+                      "advent-of-code-2022",
+                      "advent-of-code-2023",
+                      "advent-of-code-2025",
+                      "aoc",
+                      "aoc-python",
+                      "colab-notebook",
+                      "jupyter-notebook",
+                      "python",
+                      "solutions",
+                      "walkthroughs"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2346,12 +3671,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collection of my Advent of Code repositories from 2015-2025 - 524/524 stars ⭐",
+                    "homepage": "https://adventofcode.com/",
                     "id": 502578654,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-13T09:21:34Z",
+                    "open_issues": 0,
                     "owner": "RussellDash332",
                     "repo": "advent-of-code",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2015",
+                      "advent-of-code-2016",
+                      "advent-of-code-2017",
+                      "advent-of-code-2018",
+                      "advent-of-code-2019",
+                      "advent-of-code-2020",
+                      "advent-of-code-2021",
+                      "advent-of-code-2022",
+                      "advent-of-code-2023",
+                      "advent-of-code-2024",
+                      "advent-of-code-python",
+                      "advent-of-code-python3",
+                      "adventofcode",
+                      "aoc"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2362,12 +3708,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 160752617,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2025-12-15T00:01:41Z",
+                    "open_issues": 0,
                     "owner": "DarthGandalf",
                     "repo": "advent-of-code",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": [
+                      "advent-of-code"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2378,12 +3731,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "All my Advent of Code solutions. Also a CLI tool for managing and testing Advent of Code challenges.",
+                    "homepage": null,
                     "id": 575083779,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-12-17T09:30:04Z",
+                    "open_issues": 0,
                     "owner": "jromero132",
                     "repo": "advent-of-code",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2015",
+                      "advent-of-code-2016",
+                      "advent-of-code-2017",
+                      "advent-of-code-2018",
+                      "advent-of-code-2019",
+                      "advent-of-code-2020",
+                      "advent-of-code-2021",
+                      "advent-of-code-2022",
+                      "advent-of-code-2023",
+                      "advent-of-code-2024",
+                      "advent-of-code-2025",
+                      "adventofcode",
+                      "algorithms",
+                      "algorithms-and-data-structures",
+                      "aoc",
+                      "awesome",
+                      "awesome-python",
+                      "problem-solving",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2394,12 +3773,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository contains my solutions to the Advent of code puzzles.",
+                    "homepage": null,
                     "id": 437560963,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-12-12T10:55:54Z",
+                    "open_issues": 0,
                     "owner": "TurtleSmoke",
                     "repo": "Advent-of-Code",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2410,12 +3794,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Elegant, Concise, Pythonic Solutions to Advent of Code",
+                    "homepage": null,
                     "id": 897184849,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-12-12T05:53:35Z",
+                    "open_issues": 0,
                     "owner": "Grecil",
                     "repo": "ElegantAoC",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2426,12 +3815,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python solutions to Advent of Code 2025",
+                    "homepage": null,
                     "id": 1107100440,
                     "language": "Python",
+                    "license": "WTFPL",
                     "last_commit": "2025-12-12T08:09:14Z",
+                    "open_issues": 0,
                     "owner": "nitekat1124",
                     "repo": "advent-of-code-2025",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "aoc",
+                      "aoc2025",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2442,12 +3842,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code 20XX",
+                    "homepage": null,
                     "id": 432789406,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-12-09T20:35:24Z",
+                    "open_issues": 0,
                     "owner": "0x8b",
                     "repo": "advent.of.code.each",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2024",
+                      "aoc",
+                      "aoc2024",
+                      "python",
+                      "ruby"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2458,12 +3870,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "My solutions to Advent of Code",
+                    "homepage": null,
                     "id": 581972055,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-12-12T22:24:19Z",
+                    "open_issues": 0,
                     "owner": "AbdeI1",
                     "repo": "AdventOfCode",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2474,12 +3891,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "advent-of-code solutions",
+                    "homepage": null,
                     "id": 573461507,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-01-13T12:40:38Z",
+                    "open_issues": 0,
                     "owner": "maread99",
                     "repo": "aoc",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2022",
+                      "advent-of-code-2023",
+                      "advent-of-code-2024",
+                      "advent-of-code-2025",
+                      "adventofcode"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2490,12 +3919,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 896884962,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-12-11T18:01:03Z",
+                    "open_issues": 0,
                     "owner": "prabhuomkar9",
                     "repo": "adventofcode",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2506,12 +3940,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "My solutions for Advent of Code 2025",
+                    "homepage": null,
                     "id": 1107320399,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-12-11T05:18:59Z",
+                    "open_issues": 0,
                     "owner": "Samarth-Pai",
                     "repo": "advent-of-code-2025",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "advent-of-code-2025"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2522,12 +3963,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "advent of code solutions",
+                    "homepage": null,
                     "id": 1107785713,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-12-11T08:31:38Z",
+                    "open_issues": 0,
                     "owner": "AmericanSpirit38",
                     "repo": "Advent_of_code_2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2538,12 +3984,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code 2025 - my answers",
+                    "homepage": null,
                     "id": 1107504021,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2025-12-11T07:23:48Z",
+                    "open_issues": 0,
                     "owner": "ephemient",
                     "repo": "aoc2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "advent-of-code-2025-haskell",
+                      "advent-of-code-2025-python",
+                      "advent-of-code-2025-rust",
+                      "aoc-2025-in-kotlin"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2554,12 +4012,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🎄 Advent of Code 2025 - It's the Most Wonderful Time of the Year...",
+                    "homepage": "https://adventofcode.com/2025/",
                     "id": 1107488803,
                     "language": "Rust",
+                    "license": null,
                     "last_commit": "2025-12-12T06:06:40Z",
+                    "open_issues": 0,
                     "owner": "MrRobb",
                     "repo": "advent-of-code-2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2570,12 +4033,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "My solutions for https://adventofcode.com/",
+                    "homepage": null,
                     "id": 899797929,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2026-01-26T17:30:24Z",
+                    "open_issues": 0,
                     "owner": "NicoDeGiacomo",
                     "repo": "advent-of-code",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2586,12 +4054,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python solutions of Advent of Code 2025",
+                    "homepage": null,
                     "id": 1105534608,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-26T09:51:23Z",
+                    "open_issues": 2,
                     "owner": "vil02",
                     "repo": "adv_2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "adventofcode-python",
+                      "adventofcode2025",
+                      "aoc",
+                      "aoc-python",
+                      "aoc-solutions",
+                      "aoc2025"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -2609,12 +4091,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "My solutions for the Advent of Code",
+                    "homepage": null,
                     "id": 226849989,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2025-12-05T10:41:32Z",
+                    "open_issues": 0,
                     "owner": "plannapus",
                     "repo": "Advent_of_Code",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2019",
+                      "advent-of-code-2020",
+                      "advent-of-code-2021",
+                      "advent-of-code-2022",
+                      "advent-of-code-2023",
+                      "advent-of-code-2024"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2625,12 +4120,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dépôt pour mes solutions en R du calendrier de l'avent du code",
+                    "homepage": "https://adventofcode.com",
                     "id": 725967767,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2025-12-12T07:11:01Z",
+                    "open_issues": 0,
                     "owner": "JeanDupin",
                     "repo": "AOC",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "advent-of-code",
+                      "adventofcode",
+                      "aoc",
+                      "r"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2641,12 +4146,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Calendrier de l'avent du code",
+                    "homepage": "https://adventofcode.com/",
                     "id": 322669600,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2026-01-01T14:38:41Z",
+                    "open_issues": 0,
                     "owner": "TractorTom",
                     "repo": "Advent-of-Code",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "aoc",
+                      "aoc-in-r"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -2664,12 +4177,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Blazing fast Rust solutions for every Advent of Code puzzle from 2015 to 2025, solving 524 stars in less than 1 second.",
+                    "homepage": "https://adventofcode.com",
                     "id": 584487892,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T09:13:49Z",
+                    "open_issues": 2,
                     "owner": "maneatingape",
                     "repo": "advent-of-code-rust",
-                    "stars": 541
+                    "stars": 541,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2015",
+                      "advent-of-code-2016",
+                      "advent-of-code-2017",
+                      "advent-of-code-2018",
+                      "advent-of-code-2019",
+                      "advent-of-code-2020",
+                      "advent-of-code-2021",
+                      "advent-of-code-2022",
+                      "advent-of-code-2023",
+                      "advent-of-code-2024",
+                      "advent-of-code-2025"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2680,12 +4211,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🎄 My rusty solutions to Advent of Code 2021-2025!",
+                    "homepage": null,
                     "id": 433693476,
                     "language": "Rust",
+                    "license": null,
                     "last_commit": "2025-12-12T05:55:28Z",
+                    "open_issues": 0,
                     "owner": "connorslade",
                     "repo": "advent-of-code",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2022",
+                      "advent-of-code-2023",
+                      "advent-of-code-2024",
+                      "advent-of-code-2025",
+                      "advent-of-code-2025-rust",
+                      "aoc"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2696,12 +4240,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "solutions of https://adventofcode.com/ in Rust",
+                    "homepage": null,
                     "id": 438264890,
                     "language": "Rust",
+                    "license": "Unlicense",
                     "last_commit": "2026-08-20T21:50:25Z",
+                    "open_issues": 0,
                     "owner": "rene-d",
                     "repo": "advent-of-rust",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2015",
+                      "advent-of-code-2016",
+                      "advent-of-code-2017",
+                      "advent-of-code-2018",
+                      "advent-of-code-2019",
+                      "advent-of-code-2020",
+                      "advent-of-code-2021",
+                      "advent-of-code-2022",
+                      "advent-of-code-2023",
+                      "advent-of-code-2024",
+                      "advent-of-code-2025",
+                      "advent-of-code-rust",
+                      "rust"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2712,12 +4276,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Solutions for Advent of Code in different languages.",
+                    "homepage": null,
                     "id": 450852900,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-02-09T14:04:33Z",
+                    "open_issues": 0,
                     "owner": "happycoder74",
                     "repo": "adventofcode",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2015",
+                      "advent-of-code-2020",
+                      "advent-of-code-2021",
+                      "c",
+                      "python",
+                      "python3"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2728,12 +4305,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "My solutions for Advent of Code 2025",
+                    "homepage": "https://adventofcode.com/2025",
                     "id": 1107831666,
                     "language": "Rust",
+                    "license": null,
                     "last_commit": "2025-12-19T01:44:27Z",
+                    "open_issues": 0,
                     "owner": "akaritakai",
                     "repo": "AdventOfCode2025",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "advent-of-code-2025-rust",
+                      "advent-of-code-rust",
+                      "adventofcode",
+                      "adventofcode-rust",
+                      "adventofcode2025"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2744,12 +4334,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code 2025 - my answers",
+                    "homepage": null,
                     "id": 1107504021,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2025-12-11T07:23:48Z",
+                    "open_issues": 0,
                     "owner": "ephemient",
                     "repo": "aoc2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "advent-of-code-2025-haskell",
+                      "advent-of-code-2025-python",
+                      "advent-of-code-2025-rust",
+                      "aoc-2025-in-kotlin"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2760,12 +4362,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🎄 Advent of Code 2025 - It's the Most Wonderful Time of the Year...",
+                    "homepage": "https://adventofcode.com/2025/",
                     "id": 1107488803,
                     "language": "Rust",
+                    "license": null,
                     "last_commit": "2025-12-12T06:06:40Z",
+                    "open_issues": 0,
                     "owner": "MrRobb",
                     "repo": "advent-of-code-2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2776,12 +4383,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collection of all my Advent of Code solutions.",
+                    "homepage": null,
                     "id": 762295364,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2025-12-14T23:03:28Z",
+                    "open_issues": 0,
                     "owner": "ndunnett",
                     "repo": "aoc",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2022",
+                      "advent-of-code-2023",
+                      "advent-of-code-2024",
+                      "aoc",
+                      "aoc2022",
+                      "aoc2023",
+                      "aoc2024",
+                      "mojo",
+                      "python",
+                      "rust"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2792,12 +4416,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code solutions in Rust by TBali",
+                    "homepage": null,
                     "id": 826850050,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2026-08-22T17:34:11Z",
+                    "open_issues": 0,
                     "owner": "tbali0524",
                     "repo": "advent-of-code-rust",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "advent-of-code",
+                      "puzzle-solution",
+                      "rust"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2808,12 +4441,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "my Rust solutions for Advent Of Code 2025",
+                    "homepage": null,
                     "id": 1107204595,
                     "language": "Rust",
+                    "license": null,
                     "last_commit": "2025-12-15T03:05:41Z",
+                    "open_issues": 0,
                     "owner": "zsacul",
                     "repo": "AdventOfCode2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -2831,12 +4469,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 729442234,
                     "language": "Ada",
+                    "license": null,
                     "last_commit": "2026-06-02T10:10:07Z",
+                    "open_issues": 0,
                     "owner": "a12n",
                     "repo": "advent_of_code",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2015",
+                      "advent-of-code-2017",
+                      "advent-of-code-2019",
+                      "advent-of-code-2021",
+                      "advent-of-code-2022",
+                      "advent-of-code-2023",
+                      "advent-of-code-2024",
+                      "advent-of-code-2025"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -2854,12 +4507,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Swift solutions to Advent of code 2025",
+                    "homepage": null,
                     "id": 1103542512,
                     "language": "Swift",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-08T13:59:32Z",
+                    "open_issues": 0,
                     "owner": "Abizern",
                     "repo": "aoc-swift-2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "advent-of-code",
+                      "advent-of-code-2025",
+                      "aoc"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -2877,12 +4539,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tcl/Tk solutions to AoC 2025 (Advent of Code 2025).",
+                    "homepage": null,
                     "id": 1107694625,
                     "language": "Tcl",
+                    "license": null,
                     "last_commit": "2025-12-09T09:43:58Z",
+                    "open_issues": 0,
                     "owner": "harkaitz",
                     "repo": "advent-of-code-2025-tcl",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -2900,12 +4567,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "my completed advent of code 2025 typescript solutions, written with the help of bun",
+                    "homepage": "https://kie.ac/blog/advent",
                     "id": 1107535403,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2025-12-12T15:26:18Z",
+                    "open_issues": 0,
                     "owner": "yuhckies",
                     "repo": "advent-of-code-25",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "2025",
+                      "adventofcode",
+                      "bun",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2916,12 +4593,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code",
+                    "homepage": null,
                     "id": 317678418,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2025-12-12T11:10:23Z",
+                    "open_issues": 0,
                     "owner": "smichniak",
                     "repo": "adventOfCode",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -2939,12 +4621,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advent of Code 2025 solutions written in Zig",
+                    "homepage": null,
                     "id": 1109367595,
                     "language": "Zig",
+                    "license": null,
                     "last_commit": "2025-12-07T23:40:24Z",
+                    "open_issues": 0,
                     "owner": "JacobBanta",
                     "repo": "advent-of-code-2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 },
@@ -2955,12 +4642,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1108843052,
                     "language": "Zig",
+                    "license": null,
                     "last_commit": "2026-04-23T15:08:59Z",
+                    "open_issues": 0,
                     "owner": "Totto16",
                     "repo": "AOC-2025",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:11:13.135Z"
                 }
@@ -2979,15 +4671,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:11:13.135Z",
+    "last_updated": "2026-08-29T04:22:46.641Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
+      "homepage": null,
       "id": 159918462,
       "language": "Markdown",
+      "license": null,
       "last_commit": "2026-08-24T00:22:33Z",
+      "open_issues": 0,
       "owner": "Bogdanp",
       "repo": "awesome-advent-of-code",
-      "stars": 3223
+      "stars": 3223,
+      "topics": [
+        "advent-of-code",
+        "advent-of-code-2018",
+        "advent-of-code-2019",
+        "advent-of-code-2020",
+        "advent-of-code-2021",
+        "advent-of-code-2022",
+        "advent-of-code-2023",
+        "adventofcode",
+        "awesome"
+      ]
     },
     "original_repository_sha": "fed73bf1896053cef2ead380f8e2db0a8e4beddc",
     "enhanced_repository": "enhansome/enhansome-advent-of-code",
