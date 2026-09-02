@@ -1905,8 +1905,8 @@
             "id": 315078489,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-01T08:58:36Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-02T05:31:35Z",
+            "open_issues": 7,
             "owner": "dds",
             "repo": "aoc2020",
             "stars": 11,
@@ -3231,7 +3231,7 @@
                     "id": 574182339,
                     "language": "Java",
                     "license": null,
-                    "last_commit": "2026-08-31T13:07:36Z",
+                    "last_commit": "2026-09-02T08:08:57Z",
                     "open_issues": 0,
                     "owner": "vuryss",
                     "repo": "aoc-java",
@@ -4059,7 +4059,7 @@
                     "id": 1105534608,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-09-01T03:25:28Z",
+                    "last_commit": "2026-09-02T06:38:02Z",
                     "open_issues": 5,
                     "owner": "vil02",
                     "repo": "adv_2025",
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T13:28:32.791Z",
+    "last_updated": "2026-09-02T12:44:58.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
