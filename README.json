@@ -1905,7 +1905,7 @@
             "id": 315078489,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T22:53:40Z",
+            "last_commit": "2026-09-03T12:54:41Z",
             "open_issues": 7,
             "owner": "dds",
             "repo": "aoc2020",
@@ -2570,7 +2570,7 @@
                     "id": 225597258,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-08-12T10:25:48Z",
+                    "last_commit": "2026-09-04T10:34:14Z",
                     "open_issues": 0,
                     "owner": "sehra",
                     "repo": "advent-of-code",
@@ -4182,7 +4182,7 @@
                     "id": 584487892,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-08-31T23:27:35Z",
+                    "last_commit": "2026-09-03T15:35:43Z",
                     "open_issues": 2,
                     "owner": "maneatingape",
                     "repo": "advent-of-code-rust",
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T12:48:06.164Z",
+    "last_updated": "2026-09-04T12:41:53.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
