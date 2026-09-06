@@ -4059,8 +4059,8 @@
                     "id": 1105534608,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-09-05T09:12:38Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-09-06T08:16:16Z",
+                    "open_issues": 2,
                     "owner": "vil02",
                     "repo": "adv_2025",
                     "stars": 0,
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T11:49:06.093Z",
+    "last_updated": "2026-09-06T12:07:09.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
@@ -4683,7 +4683,7 @@
       "open_issues": 0,
       "owner": "Bogdanp",
       "repo": "awesome-advent-of-code",
-      "stars": 3222,
+      "stars": 3223,
       "topics": [
         "advent-of-code",
         "advent-of-code-2018",
