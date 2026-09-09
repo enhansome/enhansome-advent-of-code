@@ -1466,7 +1466,7 @@
             "open_issues": 1,
             "owner": "J0B10",
             "repo": "aoc-badges-action",
-            "stars": 129,
+            "stars": 128,
             "topics": [
               "advent-of-code",
               "advent-of-code-2021",
@@ -1513,7 +1513,7 @@
             "id": 217520517,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-30T20:46:12Z",
+            "last_commit": "2026-09-09T11:52:56Z",
             "open_issues": 9,
             "owner": "eduherminio",
             "repo": "AoCHelper",
@@ -4059,8 +4059,8 @@
                     "id": 1105534608,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-09-08T06:27:14Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-09-09T09:28:56Z",
+                    "open_issues": 1,
                     "owner": "vil02",
                     "repo": "adv_2025",
                     "stars": 0,
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T12:50:45.561Z",
+    "last_updated": "2026-09-09T12:56:31.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
