@@ -4182,7 +4182,7 @@
                     "id": 584487892,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-10T11:20:24Z",
+                    "last_commit": "2026-09-11T11:34:46Z",
                     "open_issues": 2,
                     "owner": "maneatingape",
                     "repo": "advent-of-code-rust",
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T12:53:32.348Z",
+    "last_updated": "2026-09-11T12:47:58.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
