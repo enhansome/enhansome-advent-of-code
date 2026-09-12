@@ -1905,7 +1905,7 @@
             "id": 315078489,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T12:54:41Z",
+            "last_commit": "2026-09-11T20:43:36Z",
             "open_issues": 7,
             "owner": "dds",
             "repo": "aoc2020",
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:47:58.071Z",
+    "last_updated": "2026-09-12T12:08:39.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
