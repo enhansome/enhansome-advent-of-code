@@ -1513,7 +1513,7 @@
             "id": 217520517,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-09T11:52:56Z",
+            "last_commit": "2026-09-16T10:51:53Z",
             "open_issues": 9,
             "owner": "eduherminio",
             "repo": "AoCHelper",
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T13:29:33.330Z",
+    "last_updated": "2026-09-16T13:28:05.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
@@ -4683,7 +4683,7 @@
       "open_issues": 0,
       "owner": "Bogdanp",
       "repo": "awesome-advent-of-code",
-      "stars": 3224,
+      "stars": 3225,
       "topics": [
         "advent-of-code",
         "advent-of-code-2018",
