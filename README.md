@@ -577,7 +577,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [ephemient/aoc2025](https://github.com/ephemient/aoc2025) ⭐ 0 | 🐛 0 | 🌐 Kotlin | 📅 2025-12-11 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--11-brightgreen)
 * [MrRobb/advent-of-code-2025](https://github.com/MrRobb/advent-of-code-2025) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [NicoDeGiacomo/advent-of-code](https://github.com/NicoDeGiacomo/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-01-26 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--01--26-brightgreen)
-* [vil02/adv\_2025](https://github.com/vil02/adv_2025) ⭐ 0 | 🐛 6 | 🌐 Python | 📅 2026-09-14 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--09--09-brightgreen)
+* [vil02/adv\_2025](https://github.com/vil02/adv_2025) ⭐ 0 | 🐛 8 | 🌐 Python | 📅 2026-09-17 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--09--09-brightgreen)
 
 #### R
 
@@ -629,7 +629,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Rust.*
 
-* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 542 | 🐛 2 | 🌐 Rust | 📅 2026-09-15 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--09--11-brightgreen)
+* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 542 | 🐛 2 | 🌐 Rust | 📅 2026-09-15 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--09--15-brightgreen)
 * [connorslade/advent-of-code](https://github.com/connorslade/advent-of-code) ⭐ 38 | 🐛 0 | 🌐 Rust | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [rene-d/advent-of-rust](https://github.com/rene-d/advent-of-rust) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2026-08-20 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--08--20-brightgreen)
 * [happycoder74/adventofcode](https://github.com/happycoder74/adventofcode) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2026-02-09 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--02--09-brightgreen)
@@ -735,4 +735,4 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

@@ -4059,8 +4059,8 @@
                     "id": 1105534608,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-09-14T03:24:21Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-09-17T03:24:59Z",
+                    "open_issues": 8,
                     "owner": "vil02",
                     "repo": "adv_2025",
                     "stars": 0,
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T13:28:05.663Z",
+    "last_updated": "2026-09-17T13:24:08.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
@@ -4679,7 +4679,7 @@
       "id": 159918462,
       "language": "Markdown",
       "license": null,
-      "last_commit": "2026-09-14T00:50:48Z",
+      "last_commit": "2026-09-17T06:51:59Z",
       "open_issues": 0,
       "owner": "Bogdanp",
       "repo": "awesome-advent-of-code",
@@ -4696,7 +4696,7 @@
         "awesome"
       ]
     },
-    "original_repository_sha": "14a5789834b75848029c16b4d3c0448f9c40dd77",
+    "original_repository_sha": "1f7857c0f21defaff688a411637d9432d96bde4f",
     "enhanced_repository": "enhansome/enhansome-advent-of-code",
     "enhanced_repository_description": null,
     "title": "Awesome Advent of Code with stars"
