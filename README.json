@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "fspoettel",
             "repo": "advent-of-code-rust",
-            "stars": 831,
+            "stars": 830,
             "topics": [
               "advent-of-code",
               "boilerplate",
@@ -2375,7 +2375,7 @@
                     "open_issues": 1,
                     "owner": "encse",
                     "repo": "adventofcode",
-                    "stars": 401,
+                    "stars": 400,
                     "topics": [
                       "advent-of-code",
                       "advent-of-code-2015",
@@ -4182,8 +4182,8 @@
                     "id": 584487892,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-17T19:10:44Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-09-19T10:03:45Z",
+                    "open_issues": 3,
                     "owner": "maneatingape",
                     "repo": "advent-of-code-rust",
                     "stars": 542,
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T12:56:39.581Z",
+    "last_updated": "2026-09-19T12:28:08.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
@@ -4683,7 +4683,7 @@
       "open_issues": 0,
       "owner": "Bogdanp",
       "repo": "awesome-advent-of-code",
-      "stars": 3225,
+      "stars": 3224,
       "topics": [
         "advent-of-code",
         "advent-of-code-2018",
