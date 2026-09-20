@@ -370,7 +370,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Elixir.*
 
-* [pivoshenko/adventofcode](https://github.com/pivoshenko/adventofcode) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-09-13 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--09--13-brightgreen)
+* [pivoshenko/adventofcode](https://github.com/pivoshenko/adventofcode) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-09-20 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--09--13-brightgreen)
 
 #### Elm
 
@@ -629,7 +629,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Rust.*
 
-* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 542 | 🐛 3 | 🌐 Rust | 📅 2026-09-19 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--09--17-brightgreen)
+* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 542 | 🐛 2 | 🌐 Rust | 📅 2026-09-19 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--09--17-brightgreen)
 * [connorslade/advent-of-code](https://github.com/connorslade/advent-of-code) ⭐ 38 | 🐛 0 | 🌐 Rust | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [rene-d/advent-of-rust](https://github.com/rene-d/advent-of-rust) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2026-08-20 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--08--20-brightgreen)
 * [happycoder74/adventofcode](https://github.com/happycoder74/adventofcode) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2026-02-09 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--02--09-brightgreen)
@@ -735,4 +735,4 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
