@@ -4059,7 +4059,7 @@
                     "id": 1105534608,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-09-21T03:24:11Z",
+                    "last_commit": "2026-09-24T03:23:16Z",
                     "open_issues": 9,
                     "owner": "vil02",
                     "repo": "adv_2025",
@@ -4182,11 +4182,11 @@
                     "id": 584487892,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-23T11:51:06Z",
+                    "last_commit": "2026-09-23T17:37:28Z",
                     "open_issues": 2,
                     "owner": "maneatingape",
                     "repo": "advent-of-code-rust",
-                    "stars": 542,
+                    "stars": 543,
                     "topics": [
                       "advent-of-code",
                       "advent-of-code-2015",
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T13:36:18.623Z",
+    "last_updated": "2026-09-24T13:31:15.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
