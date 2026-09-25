@@ -528,7 +528,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in PHP.*
 
-* [tbali0524/advent-of-code-solutions](https://github.com/tbali0524/advent-of-code-solutions) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2026-08-22 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--08--22-brightgreen)
+* [tbali0524/advent-of-code-solutions](https://github.com/tbali0524/advent-of-code-solutions) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2026-09-24 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--08--22-brightgreen)
 * [ancarofl/advent-of-code](https://github.com/ancarofl/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2025-12-15 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--15-brightgreen)
 
 #### Pascal
@@ -735,4 +735,4 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
