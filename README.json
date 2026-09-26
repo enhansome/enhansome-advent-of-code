@@ -2823,7 +2823,7 @@
                     "id": 434244218,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-05-17T16:25:55Z",
+                    "last_commit": "2026-09-25T21:10:23Z",
                     "open_issues": 0,
                     "owner": "ynadji",
                     "repo": "advent",
@@ -3231,7 +3231,7 @@
                     "id": 574182339,
                     "language": "Java",
                     "license": null,
-                    "last_commit": "2026-09-21T13:24:36Z",
+                    "last_commit": "2026-09-26T11:39:21Z",
                     "open_issues": 0,
                     "owner": "vuryss",
                     "repo": "aoc-java",
@@ -4186,7 +4186,7 @@
                     "open_issues": 2,
                     "owner": "maneatingape",
                     "repo": "advent-of-code-rust",
-                    "stars": 543,
+                    "stars": 544,
                     "topics": [
                       "advent-of-code",
                       "advent-of-code-2015",
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T13:42:36.977Z",
+    "last_updated": "2026-09-26T13:02:01.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
