@@ -4182,7 +4182,7 @@
                     "id": 584487892,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-23T17:37:28Z",
+                    "last_commit": "2026-09-27T09:26:06Z",
                     "open_issues": 2,
                     "owner": "maneatingape",
                     "repo": "advent-of-code-rust",
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:02:01.416Z",
+    "last_updated": "2026-09-27T13:54:46.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
@@ -4683,7 +4683,7 @@
       "open_issues": 0,
       "owner": "Bogdanp",
       "repo": "awesome-advent-of-code",
-      "stars": 3226,
+      "stars": 3227,
       "topics": [
         "advent-of-code",
         "advent-of-code-2018",
