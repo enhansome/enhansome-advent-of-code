@@ -129,7 +129,7 @@ This is a collection of awesome resources related to the yearly
 *Templates, cookiecutters and skeletons for quickly setting up projects
 in your favourite language.*
 
-* [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) ⭐ 830 | 🐛 11 | 🌐 Rust | 📅 2025-11-26 *(Rust)*
+* [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) ⭐ 828 | 🐛 11 | 🌐 Rust | 📅 2025-11-26 *(Rust)*
 * [kotlin-hands-on/advent-of-code-kotlin-template](https://github.com/kotlin-hands-on/advent-of-code-kotlin-template) ⭐ 697 | 🐛 4 | 🌐 Kotlin | 📅 2025-11-29 *(Kotlin)*
 * [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) ⭐ 475 | 🐛 51 | 🌐 Rust | 📅 2025-05-09 *(Rust)*
 * [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) ⭐ 216 | 🐛 0 | 🌐 Elixir | 📅 2024-12-03 *(Elixir)*
@@ -577,7 +577,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [ephemient/aoc2025](https://github.com/ephemient/aoc2025) ⭐ 0 | 🐛 0 | 🌐 Kotlin | 📅 2025-12-11 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--11-brightgreen)
 * [MrRobb/advent-of-code-2025](https://github.com/MrRobb/advent-of-code-2025) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [NicoDeGiacomo/advent-of-code](https://github.com/NicoDeGiacomo/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-01-26 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--01--26-brightgreen)
-* [vil02/adv\_2025](https://github.com/vil02/adv_2025) ⭐ 0 | 🐛 9 | 🌐 Python | 📅 2026-09-24 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--09--09-brightgreen)
+* [vil02/adv\_2025](https://github.com/vil02/adv_2025) ⭐ 0 | 🐛 5 | 🌐 Python | 📅 2026-10-01 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--09--09-brightgreen)
 
 #### R
 
@@ -735,4 +735,4 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._

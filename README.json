@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "fspoettel",
             "repo": "advent-of-code-rust",
-            "stars": 830,
+            "stars": 828,
             "topics": [
               "advent-of-code",
               "boilerplate",
@@ -4059,8 +4059,8 @@
                     "id": 1105534608,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-09-24T03:23:16Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-10-01T06:57:06Z",
+                    "open_issues": 5,
                     "owner": "vil02",
                     "repo": "adv_2025",
                     "stars": 0,
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T14:53:17.702Z",
+    "last_updated": "2026-10-01T15:25:12.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
