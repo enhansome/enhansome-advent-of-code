@@ -2313,7 +2313,7 @@
                 {
                   "node_type": "item",
                   "title": "ArjArav98/AdventOfCode",
-                  "description": null,
+                  "description": "ArjArav98/AdventOfCode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2334,7 +2334,7 @@
                 {
                   "node_type": "item",
                   "title": "PaulGoldschmidt/advent-of-code-2025",
-                  "description": null,
+                  "description": "PaulGoldschmidt/advent-of-code-2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2362,7 +2362,7 @@
                 {
                   "node_type": "item",
                   "title": "encse/adventofcode",
-                  "description": null,
+                  "description": "encse/adventofcode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2397,7 +2397,7 @@
                 {
                   "node_type": "item",
                   "title": "CameronAavik/AdventOfCode",
-                  "description": null,
+                  "description": "CameronAavik/AdventOfCode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2432,7 +2432,7 @@
                 {
                   "node_type": "item",
                   "title": "viceroypenguin/adventofcode",
-                  "description": null,
+                  "description": "viceroypenguin/adventofcode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2467,7 +2467,7 @@
                 {
                   "node_type": "item",
                   "title": "andrei-ned/advent-of-code",
-                  "description": null,
+                  "description": "andrei-ned/advent-of-code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2488,7 +2488,7 @@
                 {
                   "node_type": "item",
                   "title": "ClxS/Advent-of-Code-2025",
-                  "description": null,
+                  "description": "ClxS/Advent-of-Code-2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2509,7 +2509,7 @@
                 {
                   "node_type": "item",
                   "title": "MarkusG/AoC-2025",
-                  "description": null,
+                  "description": "MarkusG/AoC-2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2534,7 +2534,7 @@
                 {
                   "node_type": "item",
                   "title": "sebastianlay/AdventOfCode2025",
-                  "description": null,
+                  "description": "sebastianlay/AdventOfCode2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2561,7 +2561,7 @@
                 {
                   "node_type": "item",
                   "title": "sehra/advent-of-code",
-                  "description": null,
+                  "description": "sehra/advent-of-code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2584,7 +2584,7 @@
                 {
                   "node_type": "item",
                   "title": "Tholdrim/Competitions",
-                  "description": null,
+                  "description": "Tholdrim/Competitions",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2614,7 +2614,7 @@
                 {
                   "node_type": "item",
                   "title": "udvlp/Advent-of-Code-2025",
-                  "description": null,
+                  "description": "udvlp/Advent-of-Code-2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2642,7 +2642,7 @@
                 {
                   "node_type": "item",
                   "title": "jromero132/advent-of-code",
-                  "description": null,
+                  "description": "jromero132/advent-of-code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2684,7 +2684,7 @@
                 {
                   "node_type": "item",
                   "title": "Aadv1k/AdventOfCpp2025",
-                  "description": null,
+                  "description": "Aadv1k/AdventOfCpp2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2710,7 +2710,7 @@
                 {
                   "node_type": "item",
                   "title": "arcogelderblom/AdventOfCode",
-                  "description": null,
+                  "description": "arcogelderblom/AdventOfCode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2744,7 +2744,7 @@
                 {
                   "node_type": "item",
                   "title": "AndriiSonsiadlo/advent-of-code-cpp",
-                  "description": null,
+                  "description": "AndriiSonsiadlo/advent-of-code-cpp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2765,7 +2765,7 @@
                 {
                   "node_type": "item",
                   "title": "bg2b/aoc25",
-                  "description": null,
+                  "description": "bg2b/aoc25",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2786,7 +2786,7 @@
                 {
                   "node_type": "item",
                   "title": "marcelweikum/advent-of-code",
-                  "description": null,
+                  "description": "marcelweikum/advent-of-code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2814,7 +2814,7 @@
                 {
                   "node_type": "item",
                   "title": "ynadji/advent",
-                  "description": null,
+                  "description": "ynadji/advent",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2823,7 +2823,7 @@
                     "id": 434244218,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-09-25T21:10:23Z",
+                    "last_commit": "2026-10-03T01:49:44Z",
                     "open_issues": 0,
                     "owner": "ynadji",
                     "repo": "advent",
@@ -2835,7 +2835,7 @@
                 {
                   "node_type": "item",
                   "title": "deril/advent-of-code",
-                  "description": null,
+                  "description": "deril/advent-of-code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2865,7 +2865,7 @@
                 {
                   "node_type": "item",
                   "title": "julemand101/AdventOfCode2025",
-                  "description": null,
+                  "description": "julemand101/AdventOfCode2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2893,7 +2893,7 @@
                 {
                   "node_type": "item",
                   "title": "pivoshenko/adventofcode",
-                  "description": null,
+                  "description": "pivoshenko/adventofcode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2929,7 +2929,7 @@
                 {
                   "node_type": "item",
                   "title": "lboshuizen/aoc25",
-                  "description": null,
+                  "description": "lboshuizen/aoc25",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2964,7 +2964,7 @@
                 {
                   "node_type": "item",
                   "title": "lboshuizen/aoc25",
-                  "description": null,
+                  "description": "lboshuizen/aoc25",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2992,7 +2992,7 @@
                 {
                   "node_type": "item",
                   "title": "kriogenia/advent_of_code",
-                  "description": null,
+                  "description": "kriogenia/advent_of_code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3020,7 +3020,7 @@
                 {
                   "node_type": "item",
                   "title": "believer/advent-of-code",
-                  "description": null,
+                  "description": "believer/advent-of-code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3062,7 +3062,7 @@
                 {
                   "node_type": "item",
                   "title": "pin2t/aoc2025",
-                  "description": null,
+                  "description": "pin2t/aoc2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3091,7 +3091,7 @@
                 {
                   "node_type": "item",
                   "title": "tiennm99/adventofcode",
-                  "description": null,
+                  "description": "tiennm99/adventofcode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3125,7 +3125,7 @@
                 {
                   "node_type": "item",
                   "title": "glguy/advent",
-                  "description": null,
+                  "description": "glguy/advent",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3146,7 +3146,7 @@
                 {
                   "node_type": "item",
                   "title": "Lorin-Lange/advent-of-code",
-                  "description": null,
+                  "description": "Lorin-Lange/advent-of-code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3187,7 +3187,7 @@
                 {
                   "node_type": "item",
                   "title": "ephemient/aoc2025",
-                  "description": null,
+                  "description": "ephemient/aoc2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3222,7 +3222,7 @@
                 {
                   "node_type": "item",
                   "title": "vuryss/aoc-java",
-                  "description": null,
+                  "description": "vuryss/aoc-java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3257,7 +3257,7 @@
                 {
                   "node_type": "item",
                   "title": "Viinyard/adventofcode",
-                  "description": null,
+                  "description": "Viinyard/adventofcode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3278,7 +3278,7 @@
                 {
                   "node_type": "item",
                   "title": "pin2t/aoc2025",
-                  "description": null,
+                  "description": "pin2t/aoc2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3307,7 +3307,7 @@
                 {
                   "node_type": "item",
                   "title": "nicomyerr/advent-of-code",
-                  "description": null,
+                  "description": "nicomyerr/advent-of-code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3338,7 +3338,7 @@
                 {
                   "node_type": "item",
                   "title": "rkeytacked/adventofcode-2025",
-                  "description": null,
+                  "description": "rkeytacked/adventofcode-2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3359,7 +3359,7 @@
                 {
                   "node_type": "item",
                   "title": "EduardaSRBastos/advent-of-code-2025",
-                  "description": null,
+                  "description": "EduardaSRBastos/advent-of-code-2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3394,7 +3394,7 @@
                 {
                   "node_type": "item",
                   "title": "Titas22/AdventOfCode.jl",
-                  "description": null,
+                  "description": "Titas22/AdventOfCode.jl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3422,7 +3422,7 @@
                 {
                   "node_type": "item",
                   "title": "DmitryNekrasov/AoC-2025",
-                  "description": null,
+                  "description": "DmitryNekrasov/AoC-2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3454,7 +3454,7 @@
                 {
                   "node_type": "item",
                   "title": "7rebux/advent-of-code-2025",
-                  "description": null,
+                  "description": "7rebux/advent-of-code-2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3478,7 +3478,7 @@
                 {
                   "node_type": "item",
                   "title": "AbundantSalmon/advent-of-code-2025",
-                  "description": null,
+                  "description": "AbundantSalmon/advent-of-code-2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3503,7 +3503,7 @@
                 {
                   "node_type": "item",
                   "title": "ephemient/aoc2025",
-                  "description": null,
+                  "description": "ephemient/aoc2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3538,7 +3538,7 @@
                 {
                   "node_type": "item",
                   "title": "tkr-sh/advent-of-code-2025-nushell",
-                  "description": null,
+                  "description": "tkr-sh/advent-of-code-2025-nushell",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3573,7 +3573,7 @@
                 {
                   "node_type": "item",
                   "title": "tbali0524/advent-of-code-solutions",
-                  "description": null,
+                  "description": "tbali0524/advent-of-code-solutions",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3598,7 +3598,7 @@
                 {
                   "node_type": "item",
                   "title": "ancarofl/advent-of-code",
-                  "description": null,
+                  "description": "ancarofl/advent-of-code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3630,7 +3630,7 @@
                 {
                   "node_type": "item",
                   "title": "derailed-dash/advent-of-code",
-                  "description": null,
+                  "description": "derailed-dash/advent-of-code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3667,7 +3667,7 @@
                 {
                   "node_type": "item",
                   "title": "RussellDash332/advent-of-code",
-                  "description": null,
+                  "description": "RussellDash332/advent-of-code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3704,7 +3704,7 @@
                 {
                   "node_type": "item",
                   "title": "DarthGandalf/advent-of-code",
-                  "description": null,
+                  "description": "DarthGandalf/advent-of-code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3727,7 +3727,7 @@
                 {
                   "node_type": "item",
                   "title": "jromero132/advent-of-code",
-                  "description": null,
+                  "description": "jromero132/advent-of-code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3769,7 +3769,7 @@
                 {
                   "node_type": "item",
                   "title": "TurtleSmoke/Advent-of-Code",
-                  "description": null,
+                  "description": "TurtleSmoke/Advent-of-Code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3790,7 +3790,7 @@
                 {
                   "node_type": "item",
                   "title": "Grecil/ElegantAoC",
-                  "description": null,
+                  "description": "Grecil/ElegantAoC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3811,7 +3811,7 @@
                 {
                   "node_type": "item",
                   "title": "nitekat1124/advent-of-code-2025",
-                  "description": null,
+                  "description": "nitekat1124/advent-of-code-2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3838,7 +3838,7 @@
                 {
                   "node_type": "item",
                   "title": "0x8b/advent.of.code.each",
-                  "description": null,
+                  "description": "0x8b/advent.of.code.each",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3866,7 +3866,7 @@
                 {
                   "node_type": "item",
                   "title": "AbdeI1/AdventOfCode",
-                  "description": null,
+                  "description": "AbdeI1/AdventOfCode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3887,7 +3887,7 @@
                 {
                   "node_type": "item",
                   "title": "maread99/aoc",
-                  "description": null,
+                  "description": "maread99/aoc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3915,7 +3915,7 @@
                 {
                   "node_type": "item",
                   "title": "prabhuomkar9/adventofcode",
-                  "description": null,
+                  "description": "prabhuomkar9/adventofcode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3936,7 +3936,7 @@
                 {
                   "node_type": "item",
                   "title": "Samarth-Pai/advent-of-code-2025",
-                  "description": null,
+                  "description": "Samarth-Pai/advent-of-code-2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3959,7 +3959,7 @@
                 {
                   "node_type": "item",
                   "title": "AmericanSpirit38/Advent_of_code_2025",
-                  "description": null,
+                  "description": "AmericanSpirit38/Advent_of_code_2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3980,7 +3980,7 @@
                 {
                   "node_type": "item",
                   "title": "ephemient/aoc2025",
-                  "description": null,
+                  "description": "ephemient/aoc2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4008,7 +4008,7 @@
                 {
                   "node_type": "item",
                   "title": "MrRobb/advent-of-code-2025",
-                  "description": null,
+                  "description": "MrRobb/advent-of-code-2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4029,7 +4029,7 @@
                 {
                   "node_type": "item",
                   "title": "NicoDeGiacomo/advent-of-code",
-                  "description": null,
+                  "description": "NicoDeGiacomo/advent-of-code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4050,7 +4050,7 @@
                 {
                   "node_type": "item",
                   "title": "vil02/adv_2025",
-                  "description": null,
+                  "description": "vil02/adv_2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4087,7 +4087,7 @@
                 {
                   "node_type": "item",
                   "title": "plannapus/Advent_of_Code",
-                  "description": null,
+                  "description": "plannapus/Advent_of_Code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4116,7 +4116,7 @@
                 {
                   "node_type": "item",
                   "title": "JeanDupin/AOC",
-                  "description": null,
+                  "description": "JeanDupin/AOC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4142,7 +4142,7 @@
                 {
                   "node_type": "item",
                   "title": "TractorTom/Advent-of-Code",
-                  "description": null,
+                  "description": "TractorTom/Advent-of-Code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4173,7 +4173,7 @@
                 {
                   "node_type": "item",
                   "title": "maneatingape/advent-of-code-rust",
-                  "description": null,
+                  "description": "maneatingape/advent-of-code-rust",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4182,7 +4182,7 @@
                     "id": 584487892,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T11:40:54Z",
+                    "last_commit": "2026-10-02T20:33:51Z",
                     "open_issues": 2,
                     "owner": "maneatingape",
                     "repo": "advent-of-code-rust",
@@ -4207,7 +4207,7 @@
                 {
                   "node_type": "item",
                   "title": "connorslade/advent-of-code",
-                  "description": null,
+                  "description": "connorslade/advent-of-code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4236,7 +4236,7 @@
                 {
                   "node_type": "item",
                   "title": "rene-d/advent-of-rust",
-                  "description": null,
+                  "description": "rene-d/advent-of-rust",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4272,7 +4272,7 @@
                 {
                   "node_type": "item",
                   "title": "happycoder74/adventofcode",
-                  "description": null,
+                  "description": "happycoder74/adventofcode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4301,7 +4301,7 @@
                 {
                   "node_type": "item",
                   "title": "akaritakai/AdventOfCode2025",
-                  "description": null,
+                  "description": "akaritakai/AdventOfCode2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4330,7 +4330,7 @@
                 {
                   "node_type": "item",
                   "title": "ephemient/aoc2025",
-                  "description": null,
+                  "description": "ephemient/aoc2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4358,7 +4358,7 @@
                 {
                   "node_type": "item",
                   "title": "MrRobb/advent-of-code-2025",
-                  "description": null,
+                  "description": "MrRobb/advent-of-code-2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4379,7 +4379,7 @@
                 {
                   "node_type": "item",
                   "title": "ndunnett/aoc",
-                  "description": null,
+                  "description": "ndunnett/aoc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4412,7 +4412,7 @@
                 {
                   "node_type": "item",
                   "title": "tbali0524/advent-of-code-rust",
-                  "description": null,
+                  "description": "tbali0524/advent-of-code-rust",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4437,7 +4437,7 @@
                 {
                   "node_type": "item",
                   "title": "zsacul/AdventOfCode2025",
-                  "description": null,
+                  "description": "zsacul/AdventOfCode2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4465,7 +4465,7 @@
                 {
                   "node_type": "item",
                   "title": "a12n/advent_of_code",
-                  "description": null,
+                  "description": "a12n/advent_of_code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4503,7 +4503,7 @@
                 {
                   "node_type": "item",
                   "title": "Abizern/aoc-swift-2025",
-                  "description": null,
+                  "description": "Abizern/aoc-swift-2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4535,7 +4535,7 @@
                 {
                   "node_type": "item",
                   "title": "harkaitz/advent-of-code-2025-tcl",
-                  "description": null,
+                  "description": "harkaitz/advent-of-code-2025-tcl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4563,7 +4563,7 @@
                 {
                   "node_type": "item",
                   "title": "yuhckies/advent-of-code-25",
-                  "description": null,
+                  "description": "yuhckies/advent-of-code-25",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4589,7 +4589,7 @@
                 {
                   "node_type": "item",
                   "title": "smichniak/adventOfCode",
-                  "description": null,
+                  "description": "smichniak/adventOfCode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4617,7 +4617,7 @@
                 {
                   "node_type": "item",
                   "title": "JacobBanta/advent-of-code-2025",
-                  "description": null,
+                  "description": "JacobBanta/advent-of-code-2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4638,7 +4638,7 @@
                 {
                   "node_type": "item",
                   "title": "Totto16/AOC-2025",
-                  "description": null,
+                  "description": "Totto16/AOC-2025",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:42:30.360Z",
+    "last_updated": "2026-10-03T04:22:05.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
