@@ -2823,7 +2823,7 @@
                     "id": 434244218,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-10-03T01:49:44Z",
+                    "last_commit": "2026-10-03T15:50:16Z",
                     "open_issues": 0,
                     "owner": "ynadji",
                     "repo": "advent",
@@ -4059,8 +4059,8 @@
                     "id": 1105534608,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-02T03:23:41Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-10-04T08:56:08Z",
+                    "open_issues": 5,
                     "owner": "vil02",
                     "repo": "adv_2025",
                     "stars": 0,
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T13:20:24.285Z",
+    "last_updated": "2026-10-04T13:55:20.149Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
@@ -4683,7 +4683,7 @@
       "open_issues": 0,
       "owner": "Bogdanp",
       "repo": "awesome-advent-of-code",
-      "stars": 3226,
+      "stars": 3227,
       "topics": [
         "advent-of-code",
         "advent-of-code-2018",
