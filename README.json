@@ -4059,8 +4059,8 @@
                     "id": 1105534608,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-04T08:56:08Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-10-05T03:24:54Z",
+                    "open_issues": 8,
                     "owner": "vil02",
                     "repo": "adv_2025",
                     "stars": 0,
@@ -4182,7 +4182,7 @@
                     "id": 584487892,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T20:33:51Z",
+                    "last_commit": "2026-10-04T16:17:57Z",
                     "open_issues": 2,
                     "owner": "maneatingape",
                     "repo": "advent-of-code-rust",
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T13:55:20.149Z",
+    "last_updated": "2026-10-05T17:06:31.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
@@ -4679,7 +4679,7 @@
       "id": 159918462,
       "language": "Markdown",
       "license": null,
-      "last_commit": "2026-09-21T00:49:29Z",
+      "last_commit": "2026-10-05T00:53:39Z",
       "open_issues": 0,
       "owner": "Bogdanp",
       "repo": "awesome-advent-of-code",
@@ -4696,7 +4696,7 @@
         "awesome"
       ]
     },
-    "original_repository_sha": "9a46f9f3b52c5e3f5c004c7dc31ad9aa4474d3e9",
+    "original_repository_sha": "6351e6515466c6ad19900fd0916300b8decfb488",
     "enhanced_repository": "enhansome/enhansome-advent-of-code",
     "enhanced_repository_description": null,
     "title": "Awesome Advent of Code with stars"
