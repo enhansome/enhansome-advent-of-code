@@ -129,7 +129,7 @@ This is a collection of awesome resources related to the yearly
 *Templates, cookiecutters and skeletons for quickly setting up projects
 in your favourite language.*
 
-* [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) ⭐ 828 | 🐛 11 | 🌐 Rust | 📅 2025-11-26 *(Rust)*
+* [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) ⭐ 827 | 🐛 11 | 🌐 Rust | 📅 2025-11-26 *(Rust)*
 * [kotlin-hands-on/advent-of-code-kotlin-template](https://github.com/kotlin-hands-on/advent-of-code-kotlin-template) ⭐ 697 | 🐛 4 | 🌐 Kotlin | 📅 2025-11-29 *(Kotlin)*
 * [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) ⭐ 475 | 🐛 51 | 🌐 Rust | 📅 2025-05-09 *(Rust)*
 * [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) ⭐ 216 | 🐛 0 | 🌐 Elixir | 📅 2024-12-03 *(Elixir)*
@@ -189,7 +189,7 @@ in your favourite language.*
 
 ## Tools and Utilities
 
-* [aoc-cli](https://github.com/scarvalhojr/aoc-cli) ⭐ 321 | 🐛 16 | 🌐 Rust | 📅 2023-12-22 -- Read puzzle descriptions, download input, and submit answers from the comfort of your terminal. *(Rust)*
+* [aoc-cli](https://github.com/scarvalhojr/aoc-cli) ⭐ 322 | 🐛 16 | 🌐 Rust | 📅 2023-12-22 -- Read puzzle descriptions, download input, and submit answers from the comfort of your terminal. *(Rust)*
 * [aocrunner](https://github.com/caderek/aocrunner) ⭐ 199 | 🐛 17 | 🌐 TypeScript | 📅 2024-12-01 -- A fast solutions runner and template generator, with simple CLI, customizable template, simple testing utility, live reload, and adventofcode.com integration. *(JavaScript, TypeScript)*
 * Browser extension ([open source](https://github.com/jeroenheijmans/advent-of-code-charts) ⭐ 146 | 🐛 20 | 🌐 JavaScript | 📅 2026-06-10) enhancing private leaderboards with a "medals/podium" chart per day, Part 1 to Part 2 overview, and several other charts for your leaderboard
   * [Chrome extension "Advent of Code Charts"](https://chrome.google.com/webstore/detail/advent-of-code-charts/ipbomkmbokofodhhjpipflmdplipblbe)
@@ -341,7 +341,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Common Lisp.*
 
-* [ynadji/advent](https://github.com/ynadji/advent) ⭐ 2 | 🐛 0 | 🌐 Common Lisp | 📅 2026-10-03 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--03-brightgreen)
+* [ynadji/advent](https://github.com/ynadji/advent) ⭐ 2 | 🐛 0 | 🌐 Common Lisp | 📅 2026-10-06 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--03-brightgreen)
 * [deril/advent-of-code](https://github.com/deril/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 Common Lisp | 📅 2025-12-07 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--07-brightgreen)
 
 #### Crystal
@@ -629,7 +629,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Rust.*
 
-* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 544 | 🐛 2 | 🌐 Rust | 📅 2026-10-04 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--04-brightgreen)
+* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 545 | 🐛 2 | 🌐 Rust | 📅 2026-10-04 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--04-brightgreen)
 * [connorslade/advent-of-code](https://github.com/connorslade/advent-of-code) ⭐ 38 | 🐛 0 | 🌐 Rust | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [rene-d/advent-of-rust](https://github.com/rene-d/advent-of-rust) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2026-08-20 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--08--20-brightgreen)
 * [happycoder74/adventofcode](https://github.com/happycoder74/adventofcode) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2026-02-09 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--02--09-brightgreen)
@@ -735,4 +735,4 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

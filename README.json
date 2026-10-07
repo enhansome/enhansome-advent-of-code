@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "fspoettel",
             "repo": "advent-of-code-rust",
-            "stars": 828,
+            "stars": 827,
             "topics": [
               "advent-of-code",
               "boilerplate",
@@ -1396,7 +1396,7 @@
             "open_issues": 16,
             "owner": "scarvalhojr",
             "repo": "aoc-cli",
-            "stars": 321,
+            "stars": 322,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
@@ -2823,7 +2823,7 @@
                     "id": 434244218,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-10-03T15:50:16Z",
+                    "last_commit": "2026-10-06T20:12:59Z",
                     "open_issues": 0,
                     "owner": "ynadji",
                     "repo": "advent",
@@ -4186,7 +4186,7 @@
                     "open_issues": 2,
                     "owner": "maneatingape",
                     "repo": "advent-of-code-rust",
-                    "stars": 544,
+                    "stars": 545,
                     "topics": [
                       "advent-of-code",
                       "advent-of-code-2015",
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T15:06:06.664Z",
+    "last_updated": "2026-10-07T15:32:51.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
