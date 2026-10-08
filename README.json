@@ -3582,7 +3582,7 @@
                     "id": 556838117,
                     "language": "PHP",
                     "license": "MIT",
-                    "last_commit": "2026-09-24T16:07:04Z",
+                    "last_commit": "2026-10-08T05:57:37Z",
                     "open_issues": 0,
                     "owner": "tbali0524",
                     "repo": "advent-of-code-solutions",
@@ -4059,8 +4059,8 @@
                     "id": 1105534608,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-06T08:20:52Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-10-08T03:24:16Z",
+                    "open_issues": 6,
                     "owner": "vil02",
                     "repo": "adv_2025",
                     "stars": 0,
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T15:32:51.379Z",
+    "last_updated": "2026-10-08T15:32:54.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
@@ -4683,7 +4683,7 @@
       "open_issues": 0,
       "owner": "Bogdanp",
       "repo": "awesome-advent-of-code",
-      "stars": 3227,
+      "stars": 3228,
       "topics": [
         "advent-of-code",
         "advent-of-code-2018",
