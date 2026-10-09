@@ -1905,7 +1905,7 @@
             "id": 315078489,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T20:43:36Z",
+            "last_commit": "2026-10-09T02:08:46Z",
             "open_issues": 7,
             "owner": "dds",
             "repo": "aoc2020",
@@ -2823,7 +2823,7 @@
                     "id": 434244218,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-10-06T20:12:59Z",
+                    "last_commit": "2026-10-08T21:38:21Z",
                     "open_issues": 0,
                     "owner": "ynadji",
                     "repo": "advent",
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T15:32:54.694Z",
+    "last_updated": "2026-10-09T15:15:20.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
@@ -4679,11 +4679,11 @@
       "id": 159918462,
       "language": "Markdown",
       "license": null,
-      "last_commit": "2026-10-05T00:53:39Z",
+      "last_commit": "2026-10-09T13:13:30Z",
       "open_issues": 0,
       "owner": "Bogdanp",
       "repo": "awesome-advent-of-code",
-      "stars": 3228,
+      "stars": 3229,
       "topics": [
         "advent-of-code",
         "advent-of-code-2018",
@@ -4696,7 +4696,7 @@
         "awesome"
       ]
     },
-    "original_repository_sha": "6351e6515466c6ad19900fd0916300b8decfb488",
+    "original_repository_sha": "0876e4f72ae100e8daa9763e0d46ca17d57462ef",
     "enhanced_repository": "enhansome/enhansome-advent-of-code",
     "enhanced_repository_description": null,
     "title": "Awesome Advent of Code with stars"
