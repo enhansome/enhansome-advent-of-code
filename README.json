@@ -1513,7 +1513,7 @@
             "id": 217520517,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-28T13:11:32Z",
+            "last_commit": "2026-10-13T09:49:25Z",
             "open_issues": 10,
             "owner": "eduherminio",
             "repo": "AoCHelper",
@@ -4182,7 +4182,7 @@
                     "id": 584487892,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-04T16:17:57Z",
+                    "last_commit": "2026-10-13T07:50:42Z",
                     "open_issues": 2,
                     "owner": "maneatingape",
                     "repo": "advent-of-code-rust",
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T17:49:57.795Z",
+    "last_updated": "2026-10-13T15:54:49.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
@@ -4683,7 +4683,7 @@
       "open_issues": 0,
       "owner": "Bogdanp",
       "repo": "awesome-advent-of-code",
-      "stars": 3229,
+      "stars": 3230,
       "topics": [
         "advent-of-code",
         "advent-of-code-2018",
