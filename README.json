@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "fspoettel",
             "repo": "advent-of-code-rust",
-            "stars": 827,
+            "stars": 828,
             "topics": [
               "advent-of-code",
               "boilerplate",
@@ -118,7 +118,7 @@
             "open_issues": 2,
             "owner": "SpexGuy",
             "repo": "Zig-AoC-Template",
-            "stars": 130,
+            "stars": 129,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
@@ -1905,7 +1905,7 @@
             "id": 315078489,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-11T09:16:16Z",
+            "last_commit": "2026-10-13T16:31:28Z",
             "open_issues": 7,
             "owner": "dds",
             "repo": "aoc2020",
@@ -2375,7 +2375,7 @@
                     "open_issues": 1,
                     "owner": "encse",
                     "repo": "adventofcode",
-                    "stars": 400,
+                    "stars": 401,
                     "topics": [
                       "advent-of-code",
                       "advent-of-code-2015",
@@ -4182,7 +4182,7 @@
                     "id": 584487892,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-13T07:50:42Z",
+                    "last_commit": "2026-10-14T11:28:56Z",
                     "open_issues": 2,
                     "owner": "maneatingape",
                     "repo": "advent-of-code-rust",
@@ -4671,7 +4671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T15:54:49.077Z",
+    "last_updated": "2026-10-14T13:40:10.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
