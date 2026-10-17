@@ -3243,6 +3243,7 @@
                       "advent-of-code-2017",
                       "advent-of-code-2018",
                       "advent-of-code-2019",
+                      "advent-of-code-2020",
                       "advent-of-code-2022",
                       "advent-of-code-2023",
                       "advent-of-code-2025",
@@ -4182,7 +4183,7 @@
                     "id": 584487892,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-15T15:30:59Z",
+                    "last_commit": "2026-10-16T15:25:14Z",
                     "open_issues": 2,
                     "owner": "maneatingape",
                     "repo": "advent-of-code-rust",
@@ -4245,7 +4246,7 @@
                     "id": 438264890,
                     "language": "Rust",
                     "license": "Unlicense",
-                    "last_commit": "2026-08-20T21:50:25Z",
+                    "last_commit": "2026-10-16T20:23:55Z",
                     "open_issues": 0,
                     "owner": "rene-d",
                     "repo": "advent-of-rust",
@@ -4671,7 +4672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T13:12:51.170Z",
+    "last_updated": "2026-10-17T12:09:05.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
