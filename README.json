@@ -1905,8 +1905,8 @@
             "id": 315078489,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T08:56:44Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-20T23:49:20Z",
+            "open_issues": 7,
             "owner": "dds",
             "repo": "aoc2020",
             "stars": 11,
@@ -4672,7 +4672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T13:32:02.053Z",
+    "last_updated": "2026-10-21T13:43:32.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
@@ -4684,7 +4684,7 @@
       "open_issues": 0,
       "owner": "Bogdanp",
       "repo": "awesome-advent-of-code",
-      "stars": 3230,
+      "stars": 3231,
       "topics": [
         "advent-of-code",
         "advent-of-code-2018",
