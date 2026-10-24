@@ -150,7 +150,7 @@ in your favourite language.*
 * [staylorwr/elixir\_aoc](https://github.com/staylorwr/elixir_aoc) ⭐ 14 | 🐛 0 | 🌐 Elixir | 📅 2022-12-01 *(Elixir)*
 * [gahjelle/template-aoc-python](https://github.com/gahjelle/template-aoc-python) ⭐ 13 | 🐛 0 | 🌐 Jinja | 📅 2024-12-28 *(Python)*
 * [arkadye/advent\_of\_code](https://github.com/arkadye/advent_of_code_framework) ⭐ 12 | 🐛 0 | 🌐 C++ | 📅 2024-11-28 *(C++)*
-* [dave-burke/advent-of-code-java-starter](https://github.com/dave-burke/advent-of-code-java-starter) ⭐ 11 | 🐛 3 | 🌐 Java | 📅 2024-11-26 *(Java)*
+* [dave-burke/advent-of-code-java-starter](https://github.com/dave-burke/advent-of-code-java-starter) ⭐ 11 | 🐛 1 | 🌐 Java | 📅 2026-10-23 *(Java)*
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode/tree/master/template) ⭐ 11 | 🐛 0 | 🌐 Go | 📅 2024-12-19 *(Go)*
 * [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-12-17 *(Python)*
 * [Reason Starter kit for Advent of Code](https://github.com/ManasJayanth/reason-aoc-starter) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2021-02-06 *(Reason and OCaml)*
@@ -166,10 +166,10 @@ in your favourite language.*
 * [devries/aoc\_template](https://github.com/devries/aoc_template) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2023-12-17 *(Go)*
 * [ismtabo/advent-of-code-deno-template](https://github.com/ismtabo/advent-of-code-deno-template) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2023-12-02 *(TypeScript / Deno)*
 * [mariotacke/template-advent-of-code](https://github.com/mariotacke/template-advent-of-code) ⭐ 4 | 🐛 1 | 🌐 Shell | 📅 2021-11-24 *(JavaScript)*
+* [JohnBjrk/adglent](https://github.com/JohnBjrk/adglent) ⭐ 3 | 🐛 1 | 🌐 Gleam | 📅 2024-11-08 *Gleam*
 * [nickyvanurk/advent-of-code-rust-template](https://github.com/nickyvanurk/advent-of-code-rust-template) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2020-12-01 *(Rust)*
 * [nnari/aoc-typescript-starter](https://github.com/nnari/aoc-typescript-starter) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2021-11-30 *(TypeScript)*
 * [viceroypenguin/adventofcode.template](https://github.com/viceroypenguin/adventofcode.template) ⭐ 3 | 🐛 1 | 🌐 C# | 📅 2025-12-01 *(C#)*
-* [JohnBjrk/adglent](https://github.com/JohnBjrk/adglent) ⭐ 2 | 🐛 1 | 🌐 Gleam | 📅 2024-11-08 *Gleam*
 * [Kaitachi/ChallengeStarter](https://github.com/Kaitachi/ChallengeStarter) ⭐ 2 | 🐛 0 | 🌐 Swift | 📅 2022-12-01 *(Swift)*
 * [advent-of-code-template](https://github.com/ridaamirini/advent-of-code-template) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2025-09-15 *(PHP)*
 * [matijaoe/advent-of-code](https://github.com/matijaoe/advent-of-code) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2023-12-16  *(TypeScript / Bun)*
@@ -577,7 +577,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [ephemient/aoc2025](https://github.com/ephemient/aoc2025) ⭐ 0 | 🐛 0 | 🌐 Kotlin | 📅 2025-12-11 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--11-brightgreen)
 * [MrRobb/advent-of-code-2025](https://github.com/MrRobb/advent-of-code-2025) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [NicoDeGiacomo/advent-of-code](https://github.com/NicoDeGiacomo/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-01-26 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--01--26-brightgreen)
-* [vil02/adv\_2025](https://github.com/vil02/adv_2025) ⭐ 0 | 🐛 6 | 🌐 Python | 📅 2026-10-18 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--18-brightgreen)
+* [vil02/adv\_2025](https://github.com/vil02/adv_2025) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-10-23 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--18-brightgreen)
 
 #### R
 
@@ -735,4 +735,4 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._

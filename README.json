@@ -538,8 +538,8 @@
             "id": 159816018,
             "language": "Java",
             "license": null,
-            "last_commit": "2024-11-26T22:12:14Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-23T14:32:53Z",
+            "open_issues": 1,
             "owner": "dave-burke",
             "repo": "advent-of-code-java-starter",
             "stars": 11,
@@ -935,6 +935,30 @@
         },
         {
           "node_type": "item",
+          "title": "JohnBjrk/adglent",
+          "description": "Gleam",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Advent of code helper - automating setup of tests, solution template and problem input",
+            "homepage": null,
+            "id": 708458533,
+            "language": "Gleam",
+            "license": "Apache-2.0",
+            "last_commit": "2024-11-08T07:39:35Z",
+            "open_issues": 1,
+            "owner": "JohnBjrk",
+            "repo": "adglent",
+            "stars": 3,
+            "topics": [
+              "advent-of-code",
+              "gleam"
+            ]
+          },
+          "first_seen": "2026-08-28T20:11:13.135Z"
+        },
+        {
+          "node_type": "item",
           "title": "nickyvanurk/advent-of-code-rust-template",
           "description": "(Rust)",
           "children": [],
@@ -993,30 +1017,6 @@
             "repo": "adventofcode.template",
             "stars": 3,
             "topics": []
-          },
-          "first_seen": "2026-08-28T20:11:13.135Z"
-        },
-        {
-          "node_type": "item",
-          "title": "JohnBjrk/adglent",
-          "description": "Gleam",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Advent of code helper - automating setup of tests, solution template and problem input",
-            "homepage": null,
-            "id": 708458533,
-            "language": "Gleam",
-            "license": "Apache-2.0",
-            "last_commit": "2024-11-08T07:39:35Z",
-            "open_issues": 1,
-            "owner": "JohnBjrk",
-            "repo": "adglent",
-            "stars": 2,
-            "topics": [
-              "advent-of-code",
-              "gleam"
-            ]
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -4060,8 +4060,8 @@
                     "id": 1105534608,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-18T10:53:31Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-10-23T14:08:38Z",
+                    "open_issues": 1,
                     "owner": "vil02",
                     "repo": "adv_2025",
                     "stars": 0,
@@ -4183,7 +4183,7 @@
                     "id": 584487892,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-23T11:24:13Z",
+                    "last_commit": "2026-10-23T21:27:57Z",
                     "open_issues": 2,
                     "owner": "maneatingape",
                     "repo": "advent-of-code-rust",
@@ -4672,7 +4672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T13:21:12.966Z",
+    "last_updated": "2026-10-24T12:38:47.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
