@@ -4672,7 +4672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:38:47.413Z",
+    "last_updated": "2026-10-25T13:09:37.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
@@ -4684,7 +4684,7 @@
       "open_issues": 0,
       "owner": "Bogdanp",
       "repo": "awesome-advent-of-code",
-      "stars": 3231,
+      "stars": 3230,
       "topics": [
         "advent-of-code",
         "advent-of-code-2018",
