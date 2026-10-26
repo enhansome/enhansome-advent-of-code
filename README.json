@@ -1513,7 +1513,7 @@
             "id": 217520517,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-14T17:20:48Z",
+            "last_commit": "2026-10-26T10:23:00Z",
             "open_issues": 9,
             "owner": "eduherminio",
             "repo": "AoCHelper",
@@ -4060,8 +4060,8 @@
                     "id": 1105534608,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-23T14:08:38Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-26T03:23:17Z",
+                    "open_issues": 4,
                     "owner": "vil02",
                     "repo": "adv_2025",
                     "stars": 0,
@@ -4183,7 +4183,7 @@
                     "id": 584487892,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-23T21:27:57Z",
+                    "last_commit": "2026-10-25T18:20:18Z",
                     "open_issues": 2,
                     "owner": "maneatingape",
                     "repo": "advent-of-code-rust",
@@ -4672,7 +4672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T13:09:37.668Z",
+    "last_updated": "2026-10-26T15:08:38.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
@@ -4680,11 +4680,11 @@
       "id": 159918462,
       "language": "Markdown",
       "license": null,
-      "last_commit": "2026-10-19T00:48:09Z",
+      "last_commit": "2026-10-26T00:46:03Z",
       "open_issues": 0,
       "owner": "Bogdanp",
       "repo": "awesome-advent-of-code",
-      "stars": 3230,
+      "stars": 3231,
       "topics": [
         "advent-of-code",
         "advent-of-code-2018",
@@ -4697,7 +4697,7 @@
         "awesome"
       ]
     },
-    "original_repository_sha": "423c2d790119bb1b348b9d8cd164b6f9f506c6cb",
+    "original_repository_sha": "0df58a72677ab1f19f6083aa04ee296a6eb14669",
     "enhanced_repository": "enhansome/enhansome-advent-of-code",
     "enhanced_repository_description": null,
     "title": "Awesome Advent of Code with stars"
