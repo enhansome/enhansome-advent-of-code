@@ -1919,27 +1919,6 @@
         },
         {
           "node_type": "item",
-          "title": "aoc-cli",
-          "description": "- Command-line utility that helps solve problems in ruby: it downloads your personal input file, creates the sample source files and benchmarks your solutions (Ruby).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "a ruby tool for playing with Advent of Code",
-            "homepage": null,
-            "id": 223748114,
-            "language": "Ruby",
-            "license": null,
-            "last_commit": "2022-12-01T08:54:33Z",
-            "open_issues": 0,
-            "owner": "Keirua",
-            "repo": "aoc-cli",
-            "stars": 11,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:11:13.135Z"
-        },
-        {
-          "node_type": "item",
           "title": "advent-of-code",
           "description": "- Command-line interface to download challenge descriptions and inputs, manage, test and automatically submit solutions. (Python)",
           "children": [],
@@ -1977,6 +1956,27 @@
               "problem-solving",
               "python"
             ]
+          },
+          "first_seen": "2026-08-28T20:11:13.135Z"
+        },
+        {
+          "node_type": "item",
+          "title": "aoc-cli",
+          "description": "- Command-line utility that helps solve problems in ruby: it downloads your personal input file, creates the sample source files and benchmarks your solutions (Ruby).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "a ruby tool for playing with Advent of Code",
+            "homepage": null,
+            "id": 223748114,
+            "language": "Ruby",
+            "license": null,
+            "last_commit": "2022-12-01T08:54:33Z",
+            "open_issues": 0,
+            "owner": "Keirua",
+            "repo": "aoc-cli",
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:13.135Z"
         },
@@ -2570,7 +2570,7 @@
                     "id": 225597258,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-10-15T16:58:41Z",
+                    "last_commit": "2026-10-27T18:16:17Z",
                     "open_issues": 0,
                     "owner": "sehra",
                     "repo": "advent-of-code",
@@ -3231,7 +3231,7 @@
                     "id": 574182339,
                     "language": "Java",
                     "license": null,
-                    "last_commit": "2026-10-27T14:18:39Z",
+                    "last_commit": "2026-10-28T13:20:12Z",
                     "open_issues": 0,
                     "owner": "vuryss",
                     "repo": "aoc-java",
@@ -4672,7 +4672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T14:24:09.351Z",
+    "last_updated": "2026-10-28T15:03:38.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
@@ -4684,7 +4684,7 @@
       "open_issues": 1,
       "owner": "Bogdanp",
       "repo": "awesome-advent-of-code",
-      "stars": 3232,
+      "stars": 3233,
       "topics": [
         "advent-of-code",
         "advent-of-code-2018",

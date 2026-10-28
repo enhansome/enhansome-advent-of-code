@@ -212,8 +212,8 @@ in your favourite language.*
 * [advent-of-code-ocr](https://github.com/bsoyka/advent-of-code-ocr) ⭐ 13 | 🐛 4 | 🌐 Python | 📅 2026-10-26 -- Python module for parsing AoC ascii art words *(Python)*
 * [esb](https://github.com/luxedo/esb) ⭐ 12 | 🐛 2 | 🌐 Python | 📅 2025-12-30 -- `esb` is a CLI tool to help us elves save Christmas for the yearly [Advent of Code](https://adventofcode.com/) events. (Thank you, [Eric! 😉](https://twitter.com/ericwastl)). This tool fetches puzzle statements and puzzle data, creates language agnostic boilerplate code, test run and submit solutions and builds dashboards. Check out an [example repo](https://github.com/luxedo/advent-of-code) ⭐ 2 | 🐛 1 | 🌐 Go | 📅 2026-02-13 created using `esb`! *(Python, Rust, Elixir, Go)*
 * [aocinput](https://github.com/dds/aoc2020/blob/main/cmd/aocinput/aocinput.go) ⭐ 11 | 🐛 7 | 🌐 Go | 📅 2026-10-23 -- CLI for getting inputs. Clipboard support. Polite to AoC. Nice help and options. *(Go)*
-* [aoc-cli](https://github.com/keirua/aoc-cli) ⭐ 11 | 🐛 0 | 🌐 Ruby | 📅 2022-12-01 -- Command-line utility that helps solve problems in ruby: it downloads your personal input file, creates the sample source files and benchmarks your solutions *(Ruby)*.
 * [advent-of-code](https://github.com/jromero132/advent-of-code) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-12-17 -- Command-line interface to download challenge descriptions and inputs, manage, test and automatically submit solutions. *(Python)*
+* [aoc-cli](https://github.com/keirua/aoc-cli) ⭐ 10 | 🐛 0 | 🌐 Ruby | 📅 2022-12-01 -- Command-line utility that helps solve problems in ruby: it downloads your personal input file, creates the sample source files and benchmarks your solutions *(Ruby)*.
 * [aoctimer](https://github.com/caderek/aoctimer) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2022-12-01 -- A language-agnostic, multiplatform tool to measure your solution time in relative units, so you can share and compare your results with others.
 * [advent-of-code-runner](https://github.com/beakerandjake/advent-of-code-runner) ⭐ 10 | 🐛 8 | 🌐 JavaScript | 📅 2025-11-30 -- Node.JS CLI solution generator and runner. Downloads inputs, submits answers, prevents duplicate submissions, measures performance, tracks progress and outputs statistics. *(JavaScript)*
 * [aoc-ranking](https://github.com/freedomofkeima/aoc-ranking) ⭐ 9 | 🐛 0 | 🌐 HTML | 📅 2023-12-25 -- Show all non-zero score AoC participants in one, global scoreboard. *(Python)*
@@ -314,7 +314,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [ClxS/Advent-of-Code-2025](https://github.com/ClxS/Advent-of-Code-2025) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2025-12-04 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--04-brightgreen)
 * [MarkusG/AoC-2025](https://github.com/MarkusG/AoC-2025) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2025-12-14 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--14-brightgreen)
 * [sebastianlay/AdventOfCode2025](https://github.com/sebastianlay/AdventOfCode2025) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2025-12-19 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--19-brightgreen)
-* [sehra/advent-of-code](https://github.com/sehra/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-10-15 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--15-brightgreen)
+* [sehra/advent-of-code](https://github.com/sehra/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-10-27 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--15-brightgreen)
 * [Tholdrim/Competitions](https://github.com/Tholdrim/Competitions) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2025-12-16 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [udvlp/Advent-of-Code-2025](https://github.com/udvlp/Advent-of-Code-2025) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2025-12-08 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--08-brightgreen)
 
@@ -454,7 +454,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Java.*
 
-* [vuryss/aoc-java](https://github.com/vuryss/aoc-java) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2026-10-27 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--09--29-brightgreen)
+* [vuryss/aoc-java](https://github.com/vuryss/aoc-java) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2026-10-28 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--09--29-brightgreen)
 * [Viinyard/adventofcode](https://github.com/Viinyard/adventofcode) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [pin2t/aoc2025](https://github.com/pin2t/aoc2025) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2025-12-28 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--28-brightgreen)
 * [nicomyerr/advent-of-code](https://github.com/nicomyerr/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2025-12-09 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--09-brightgreen)
@@ -735,4 +735,4 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
