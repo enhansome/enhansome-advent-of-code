@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "fspoettel",
             "repo": "advent-of-code-rust",
-            "stars": 827,
+            "stars": 828,
             "topics": [
               "advent-of-code",
               "boilerplate",
@@ -3231,7 +3231,7 @@
                     "id": 574182339,
                     "language": "Java",
                     "license": null,
-                    "last_commit": "2026-10-28T13:20:12Z",
+                    "last_commit": "2026-10-29T13:54:10Z",
                     "open_issues": 0,
                     "owner": "vuryss",
                     "repo": "aoc-java",
@@ -4060,8 +4060,8 @@
                     "id": 1105534608,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-26T03:23:17Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-10-28T19:58:35Z",
+                    "open_issues": 3,
                     "owner": "vil02",
                     "repo": "adv_2025",
                     "stars": 0,
@@ -4672,7 +4672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T15:03:38.375Z",
+    "last_updated": "2026-10-29T15:11:29.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
