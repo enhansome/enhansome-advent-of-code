@@ -2823,7 +2823,7 @@
                     "id": 434244218,
                     "language": "Common Lisp",
                     "license": null,
-                    "last_commit": "2026-10-08T21:38:21Z",
+                    "last_commit": "2026-10-30T16:56:46Z",
                     "open_issues": 0,
                     "owner": "ynadji",
                     "repo": "advent",
@@ -3231,7 +3231,7 @@
                     "id": 574182339,
                     "language": "Java",
                     "license": null,
-                    "last_commit": "2026-10-29T16:58:11Z",
+                    "last_commit": "2026-10-30T20:29:46Z",
                     "open_issues": 0,
                     "owner": "vuryss",
                     "repo": "aoc-java",
@@ -4672,16 +4672,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T15:00:32.025Z",
+    "last_updated": "2026-10-31T14:29:45.278Z",
     "original_repository_info": {
-      "archived": false,
+      "archived": true,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
       "homepage": null,
       "id": 159918462,
       "language": "Markdown",
       "license": null,
-      "last_commit": "2026-10-26T00:46:03Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-30T16:52:28Z",
+      "open_issues": 0,
       "owner": "Bogdanp",
       "repo": "awesome-advent-of-code",
       "stars": 3233,
@@ -4697,7 +4697,7 @@
         "awesome"
       ]
     },
-    "original_repository_sha": "0df58a72677ab1f19f6083aa04ee296a6eb14669",
+    "original_repository_sha": "7a0bb77d82288eef3ce5901cece487c87e790466",
     "enhanced_repository": "enhansome/enhansome-advent-of-code",
     "enhanced_repository_description": null,
     "title": "Awesome Advent of Code with stars"

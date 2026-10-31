@@ -252,6 +252,11 @@ in your favourite language.*
 * [Advent of CodSpeed](https://codspeed.io/advent)
 * [Raku Advent Calendar](https://raku-advent.blog/)
 * [QEMU Advent Calendar](https://www.qemu-advent-calendar.org/)
+* [AdventJS](https://adventjs.dev/)
+* [Advent of Sysadmin](https://sadservers.com/advent)
+* [Tiny Code Christmas](https://tcc.lovebyte.party/)
+* [Hanukkah of Data](https://hanukkah.bluebird.sh/)
+* [Breakpoint: coding advent calendars and yearly events](https://breakpoint.games/seasonal)
 
 ## 2025
 
@@ -341,7 +346,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Common Lisp.*
 
-* [ynadji/advent](https://github.com/ynadji/advent) ⭐ 2 | 🐛 0 | 🌐 Common Lisp | 📅 2026-10-08 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--07-brightgreen)
+* [ynadji/advent](https://github.com/ynadji/advent) ⭐ 2 | 🐛 0 | 🌐 Common Lisp | 📅 2026-10-30 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--07-brightgreen)
 * [deril/advent-of-code](https://github.com/deril/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 Common Lisp | 📅 2025-12-07 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--07-brightgreen)
 
 #### Crystal
@@ -454,7 +459,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Java.*
 
-* [vuryss/aoc-java](https://github.com/vuryss/aoc-java) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2026-10-29 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--09--29-brightgreen)
+* [vuryss/aoc-java](https://github.com/vuryss/aoc-java) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2026-10-30 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--09--29-brightgreen)
 * [Viinyard/adventofcode](https://github.com/Viinyard/adventofcode) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [pin2t/aoc2025](https://github.com/pin2t/aoc2025) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2025-12-28 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--28-brightgreen)
 * [nicomyerr/advent-of-code](https://github.com/nicomyerr/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2025-12-09 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--09-brightgreen)
@@ -735,4 +740,4 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
