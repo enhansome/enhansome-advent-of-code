@@ -129,7 +129,7 @@ This is a collection of awesome resources related to the yearly
 *Templates, cookiecutters and skeletons for quickly setting up projects
 in your favourite language.*
 
-* [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) ⭐ 828 | 🐛 11 | 🌐 Rust | 📅 2025-11-26 *(Rust)*
+* [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) ⭐ 828 | 🐛 9 | 🌐 Rust | 📅 2026-11-01 *(Rust)*
 * [kotlin-hands-on/advent-of-code-kotlin-template](https://github.com/kotlin-hands-on/advent-of-code-kotlin-template) ⭐ 697 | 🐛 4 | 🌐 Kotlin | 📅 2025-11-29 *(Kotlin)*
 * [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) ⭐ 475 | 🐛 51 | 🌐 Rust | 📅 2025-05-09 *(Rust)*
 * [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) ⭐ 216 | 🐛 0 | 🌐 Elixir | 📅 2024-12-03 *(Elixir)*
@@ -321,7 +321,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [sebastianlay/AdventOfCode2025](https://github.com/sebastianlay/AdventOfCode2025) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2025-12-19 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--19-brightgreen)
 * [sehra/advent-of-code](https://github.com/sehra/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-10-27 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--15-brightgreen)
 * [Tholdrim/Competitions](https://github.com/Tholdrim/Competitions) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2025-12-16 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
-* [udvlp/Advent-of-Code-2025](https://github.com/udvlp/Advent-of-Code-2025) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2025-12-08 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--08-brightgreen)
+* [udvlp/Advent-of-Code-2025](https://github.com/udvlp/Advent-of-Code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--08-brightgreen)
 
 #### C++
 
@@ -740,4 +740,4 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
