@@ -634,7 +634,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Rust.*
 
-* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 545 | 🐛 2 | 🌐 Rust | 📅 2026-11-02 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--25-brightgreen)
+* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 545 | 🐛 2 | 🌐 Rust | 📅 2026-11-05 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--25-brightgreen)
 * [connorslade/advent-of-code](https://github.com/connorslade/advent-of-code) ⭐ 38 | 🐛 0 | 🌐 Rust | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [rene-d/advent-of-rust](https://github.com/rene-d/advent-of-rust) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2026-10-16 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--16-brightgreen)
 * [happycoder74/adventofcode](https://github.com/happycoder74/adventofcode) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2026-02-09 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--02--09-brightgreen)
@@ -740,4 +740,4 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
