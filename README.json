@@ -1857,7 +1857,7 @@
             "id": 321119939,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T17:18:57Z",
+            "last_commit": "2026-11-09T17:08:58Z",
             "open_issues": 4,
             "owner": "bsoyka",
             "repo": "advent-of-code-ocr",
@@ -3015,16 +3015,6 @@
                     "stars": 54,
                     "topics": [
                       "advent-of-code",
-                      "advent-of-code-2015",
-                      "advent-of-code-2016",
-                      "advent-of-code-2017",
-                      "advent-of-code-2018",
-                      "advent-of-code-2019",
-                      "advent-of-code-2020",
-                      "advent-of-code-2021",
-                      "advent-of-code-2022",
-                      "advent-of-code-2023",
-                      "advent-of-code-2024",
                       "bucklescript",
                       "go",
                       "javascript",
@@ -4039,7 +4029,7 @@
                     "id": 1105534608,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-11-07T14:06:11Z",
+                    "last_commit": "2026-11-09T10:16:47Z",
                     "open_issues": 2,
                     "owner": "vil02",
                     "repo": "adv_2025",
@@ -4651,7 +4641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T15:07:13.555Z",
+    "last_updated": "2026-11-09T18:43:03.077Z",
     "original_repository_info": {
       "archived": true,
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
