@@ -129,7 +129,7 @@ This is a collection of awesome resources related to the yearly
 *Templates, cookiecutters and skeletons for quickly setting up projects
 in your favourite language.*
 
-* [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) ⭐ 828 | 🐛 9 | 🌐 Rust | 📅 2026-11-01 *(Rust)*
+* [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) ⭐ 829 | 🐛 9 | 🌐 Rust | 📅 2026-11-01 *(Rust)*
 * [kotlin-hands-on/advent-of-code-kotlin-template](https://github.com/kotlin-hands-on/advent-of-code-kotlin-template) ⭐ 697 | 🐛 4 | 🌐 Kotlin | 📅 2025-11-29 *(Kotlin)*
 * [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) ⭐ 475 | 🐛 51 | 🌐 Rust | 📅 2025-05-09 *(Rust)*
 * [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) ⭐ 216 | 🐛 0 | 🌐 Elixir | 📅 2024-12-03 *(Elixir)*
@@ -196,7 +196,7 @@ in your favourite language.*
   * [Firefox extension "Advent of Code Charts"](https://addons.mozilla.org/en-US/firefox/addon/advent-of-code-charts/)
 * [aoc-badges-action](https://github.com/J0B10/aoc-badges-action) ⭐ 128 | 🐛 1 | 🌐 Python | 📅 2024-02-10 -- A GitHub action for updating various aoc-related badges in your README *(GitHub Action, Python)*
 * [aocdl](https://github.com/GreenLightning/advent-of-code-downloader) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2025-12-04 -- Command-line utility that automatically downloads your personal input file while you read the puzzle description *(Go)*.
-* [AoCHelper](https://github.com/eduherminio/AoCHelper) ⭐ 64 | 🐛 9 | 🌐 C# | 📅 2026-10-26 -- NuGet library that simplifies puzzle solving and provides benchmarking *(.NET)*.
+* [AoCHelper](https://github.com/eduherminio/AoCHelper) ⭐ 64 | 🐛 9 | 🌐 C# | 📅 2026-11-10 -- NuGet library that simplifies puzzle solving and provides benchmarking *(.NET)*.
 * [advent-readme-stars](https://github.com/k2bd/advent-readme-stars) ⭐ 45 | 🐛 6 | 🌐 Python | 📅 2024-06-17 -- A GitHub action that adds and maintains a table of your AoC progress to your README *(GitHub Action, Python)*
 * [aoc-tiles](https://github.com/LiquidFun/aoc_tiles) ⭐ 42 | 🐛 3 | 🌐 Python | 📅 2025-12-12 -- A tool which automatically creates a fancy image with solve times for each solved day in your readme as a 5x5 grid. Works as a pre-commit hook or as a CLI *(Python)*.
 * [aocf](https://github.com/nuxeh/aocf) ⭐ 38 | 🐛 10 | 🌐 Rust | 📅 2024-12-02 -- A CLI tool (and also, optionally, crate) written in Rust, with a CLI inspired by git. Problem briefs may be displayed in a scrollable ANSI terminal (mostly) faithful to the AoC website.
@@ -312,7 +312,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in C#.*
 
-* [encse/adventofcode](https://github.com/encse/adventofcode) ⭐ 401 | 🐛 1 | 🌐 C# | 📅 2026-07-17 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--26-brightgreen)
+* [encse/adventofcode](https://github.com/encse/adventofcode) ⭐ 402 | 🐛 1 | 🌐 C# | 📅 2026-07-17 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--26-brightgreen)
 * [CameronAavik/AdventOfCode](https://github.com/CameronAavik/AdventOfCode) ⭐ 80 | 🐛 0 | 🌐 C# | 📅 2025-12-17 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--17-brightgreen)
 * [viceroypenguin/adventofcode](https://github.com/viceroypenguin/adventofcode) ⭐ 43 | 🐛 0 | 🌐 C# | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [andrei-ned/advent-of-code](https://github.com/andrei-ned/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 C++ | 📅 2026-01-03 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--01--03-brightgreen)
@@ -634,7 +634,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Rust.*
 
-* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 546 | 🐛 2 | 🌐 Rust | 📅 2026-11-06 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--25-brightgreen)
+* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 547 | 🐛 2 | 🌐 Rust | 📅 2026-11-06 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--25-brightgreen)
 * [connorslade/advent-of-code](https://github.com/connorslade/advent-of-code) ⭐ 38 | 🐛 0 | 🌐 Rust | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [rene-d/advent-of-rust](https://github.com/rene-d/advent-of-rust) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2026-10-16 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--16-brightgreen)
 * [happycoder74/adventofcode](https://github.com/happycoder74/adventofcode) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2026-02-09 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--02--09-brightgreen)
@@ -740,4 +740,4 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
