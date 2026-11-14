@@ -134,7 +134,7 @@ in your favourite language.*
 * [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) ⭐ 475 | 🐛 51 | 🌐 Rust | 📅 2025-05-09 *(Rust)*
 * [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) ⭐ 216 | 🐛 0 | 🌐 Elixir | 📅 2024-12-03 *(Elixir)*
 * [SpexGuy/Zig-AoC-Template](https://github.com/SpexGuy/Zig-AoC-Template) ⭐ 129 | 🐛 2 | 🌐 Zig | 📅 2024-11-10 *(Zig)*
-* [derailed-dash/Advent-of-Code](https://github.com/derailed-dash/Advent-of-Code) ⭐ 95 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-08-19 *(Python Jupyter Notebook)*
+* [derailed-dash/Advent-of-Code](https://github.com/derailed-dash/Advent-of-Code) ⭐ 95 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-11-13 *(Python Jupyter Notebook)*
 * [TanklesXL/gladvent](https://github.com/TanklesXL/gladvent) ⭐ 71 | 🐛 10 | 🌐 Gleam | 📅 2025-10-27 *Gleam*
 * [eduherminio/AdventOfCode.Template](https://github.com/eduherminio/AdventOfCode.Template) ⭐ 50 | 🐛 0 | 🌐 C# | 📅 2025-11-17 *(C#)*
 * [sindrekjr/AdventOfCodeBase](https://github.com/sindrekjr/AdventOfCodeBase) ⭐ 41 | 🐛 0 | 🌐 C# | 📅 2025-11-28 *(C#)*
@@ -205,7 +205,7 @@ in your favourite language.*
 * [eggnog](https://github.com/breakthatbass/eggnog) ⭐ 21 | 🐛 5 | 🌐 C | 📅 2021-12-10 -- CLI for getting input, directions (with nice colors!), and submitting answers. Caches absolutely everything. *(C)*
 * [advent\_of\_code\_utils](https://github.com/mathsaey/advent_of_code_utils) ⭐ 18 | 🐛 1 | 🌐 Elixir | 📅 2026-02-02 -- Input fetcher and boilerplate generator for those solving AoC in Elixir. *(Elixir)*
 * [Kodvent](https://github.com/DmitryNekrasov/kodvent) ⭐ 18 | 🐛 4 | 🌐 Kotlin | 📅 2026-07-17 -- a Kotlin utility library for competitive programming and Advent of Code challenges, providing efficient data structures, mathematical functions and string algorithms. *(Kotlin)*
-* [AocKt](https://github.com/Jadarma/advent-of-code-kotlin) ⭐ 16 | 🐛 0 | 🌐 Kotlin | 📅 2026-11-10 -- A testing library for creating unit tests for AoC solutions with minimal boilerplate. *(Kotlin)*
+* [AocKt](https://github.com/Jadarma/advent-of-code-kotlin) ⭐ 16 | 🐛 0 | 🌐 Kotlin | 📅 2026-11-14 -- A testing library for creating unit tests for AoC solutions with minimal boilerplate. *(Kotlin)*
 * [erikw/advent-of-code-solutions](https://github.com/erikw/advent-of-code-solutions) ⭐ 16 | 🐛 0 | 🌐 Ruby | 📅 2026-05-08 Util scripts for creating year/day folder/files from language templates, input fetching, boiler plate file generation. See `bin/solve_day.sh` and `bin/stats.sh`.
 * [advent-of-code-client](https://github.com/toblu/advent-of-code-client) ⭐ 15 | 🐛 1 | 🌐 TypeScript | 📅 2022-12-10 -- A Node.js package for fetching inputs, running puzzle challenges and submitting answers to adventofcode.com directly from your JavaScript code. Also includes some commonly used & customizable input transformation functions. *(JavaScript)*
 * [aoc\_helper](https://github.com/Starwort/aoc_helper) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-12-08 -- `aoc_helper` is a library and command line tool which can generate templates, fetch puzzle inputs, submit solutions, and even automatically detect the tests! It also comes with a huge library of utility classes, such as fluent interfaces to iterators and lists, grids which can automatically read text, and more. *(Python)*
@@ -566,7 +566,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Python.*
 
-* [derailed-dash/advent-of-code](https://github.com/derailed-dash/advent-of-code) ⭐ 95 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-08-19 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--08--19-brightgreen)
+* [derailed-dash/advent-of-code](https://github.com/derailed-dash/advent-of-code) ⭐ 95 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-11-13 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--08--19-brightgreen)
 * [RussellDash332/advent-of-code](https://github.com/RussellDash332/advent-of-code) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-07-13 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--07--13-brightgreen)
 * [DarthGandalf/advent-of-code](https://github.com/DarthGandalf/advent-of-code) ⭐ 26 | 🐛 0 | 🌐 C++ | 📅 2025-12-15 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--15-brightgreen)
 * [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-12-17 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--17-brightgreen)
@@ -582,7 +582,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [ephemient/aoc2025](https://github.com/ephemient/aoc2025) ⭐ 0 | 🐛 0 | 🌐 Kotlin | 📅 2025-12-11 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--11-brightgreen)
 * [MrRobb/advent-of-code-2025](https://github.com/MrRobb/advent-of-code-2025) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [NicoDeGiacomo/advent-of-code](https://github.com/NicoDeGiacomo/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-01-26 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--01--26-brightgreen)
-* [vil02/adv\_2025](https://github.com/vil02/adv_2025) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-11-13 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--23-brightgreen)
+* [vil02/adv\_2025](https://github.com/vil02/adv_2025) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-11-14 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--23-brightgreen)
 
 #### R
 
@@ -740,4 +740,4 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
