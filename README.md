@@ -134,7 +134,7 @@ in your favourite language.*
 * [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) ⭐ 475 | 🐛 51 | 🌐 Rust | 📅 2025-05-09 *(Rust)*
 * [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) ⭐ 216 | 🐛 0 | 🌐 Elixir | 📅 2024-12-03 *(Elixir)*
 * [SpexGuy/Zig-AoC-Template](https://github.com/SpexGuy/Zig-AoC-Template) ⭐ 129 | 🐛 2 | 🌐 Zig | 📅 2024-11-10 *(Zig)*
-* [derailed-dash/Advent-of-Code](https://github.com/derailed-dash/Advent-of-Code) ⭐ 95 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-11-13 *(Python Jupyter Notebook)*
+* [derailed-dash/Advent-of-Code](https://github.com/derailed-dash/Advent-of-Code) ⭐ 95 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-11-15 *(Python Jupyter Notebook)*
 * [TanklesXL/gladvent](https://github.com/TanklesXL/gladvent) ⭐ 71 | 🐛 10 | 🌐 Gleam | 📅 2025-10-27 *Gleam*
 * [eduherminio/AdventOfCode.Template](https://github.com/eduherminio/AdventOfCode.Template) ⭐ 50 | 🐛 0 | 🌐 C# | 📅 2025-11-17 *(C#)*
 * [sindrekjr/AdventOfCodeBase](https://github.com/sindrekjr/AdventOfCodeBase) ⭐ 41 | 🐛 0 | 🌐 C# | 📅 2025-11-28 *(C#)*
@@ -319,7 +319,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [ClxS/Advent-of-Code-2025](https://github.com/ClxS/Advent-of-Code-2025) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2025-12-04 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--04-brightgreen)
 * [MarkusG/AoC-2025](https://github.com/MarkusG/AoC-2025) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2025-12-14 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--14-brightgreen)
 * [sebastianlay/AdventOfCode2025](https://github.com/sebastianlay/AdventOfCode2025) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2025-12-19 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--19-brightgreen)
-* [sehra/advent-of-code](https://github.com/sehra/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-11-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--15-brightgreen)
+* [sehra/advent-of-code](https://github.com/sehra/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-11-15 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--15-brightgreen)
 * [Tholdrim/Competitions](https://github.com/Tholdrim/Competitions) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2025-12-16 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [udvlp/Advent-of-Code-2025](https://github.com/udvlp/Advent-of-Code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--08-brightgreen)
 
@@ -485,8 +485,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Kotlin.*
 
+* [7rebux/advent-of-code-2025](https://github.com/7rebux/advent-of-code-2025) ⭐ 1 | 🐛 0 | 🌐 Kotlin | 📅 2026-05-14 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--05--14-brightgreen)
 * [DmitryNekrasov/AoC-2025](https://github.com/DmitryNekrasov/AoC-2025) ⭐ 1 | 🐛 0 | 🌐 Kotlin | 📅 2026-02-10 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--02--10-brightgreen)
-* [7rebux/advent-of-code-2025](https://github.com/7rebux/advent-of-code-2025) ⭐ 0 | 🐛 0 | 🌐 Kotlin | 📅 2026-05-14 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--05--14-brightgreen)
 * [AbundantSalmon/advent-of-code-2025](https://github.com/AbundantSalmon/advent-of-code-2025) ⭐ 0 | 🐛 0 | 🌐 Kotlin | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [ephemient/aoc2025](https://github.com/ephemient/aoc2025) ⭐ 0 | 🐛 0 | 🌐 Kotlin | 📅 2025-12-11 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--11-brightgreen)
 
@@ -566,7 +566,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Python.*
 
-* [derailed-dash/advent-of-code](https://github.com/derailed-dash/advent-of-code) ⭐ 95 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-11-13 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--08--19-brightgreen)
+* [derailed-dash/advent-of-code](https://github.com/derailed-dash/advent-of-code) ⭐ 95 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-11-15 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--08--19-brightgreen)
 * [RussellDash332/advent-of-code](https://github.com/RussellDash332/advent-of-code) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-07-13 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--07--13-brightgreen)
 * [DarthGandalf/advent-of-code](https://github.com/DarthGandalf/advent-of-code) ⭐ 26 | 🐛 0 | 🌐 C++ | 📅 2025-12-15 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--15-brightgreen)
 * [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-12-17 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--17-brightgreen)
@@ -634,7 +634,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Rust.*
 
-* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 548 | 🐛 2 | 🌐 Rust | 📅 2026-11-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--25-brightgreen)
+* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 549 | 🐛 2 | 🌐 Rust | 📅 2026-11-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--25-brightgreen)
 * [connorslade/advent-of-code](https://github.com/connorslade/advent-of-code) ⭐ 38 | 🐛 0 | 🌐 Rust | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [rene-d/advent-of-rust](https://github.com/rene-d/advent-of-rust) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2026-10-16 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--16-brightgreen)
 * [happycoder74/adventofcode](https://github.com/happycoder74/adventofcode) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2026-02-09 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--02--09-brightgreen)
@@ -740,4 +740,4 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
