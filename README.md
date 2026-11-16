@@ -189,7 +189,7 @@ in your favourite language.*
 
 ## Tools and Utilities
 
-* [aoc-cli](https://github.com/scarvalhojr/aoc-cli) ⭐ 323 | 🐛 16 | 🌐 Rust | 📅 2023-12-22 -- Read puzzle descriptions, download input, and submit answers from the comfort of your terminal. *(Rust)*
+* [aoc-cli](https://github.com/scarvalhojr/aoc-cli) ⭐ 324 | 🐛 16 | 🌐 Rust | 📅 2023-12-22 -- Read puzzle descriptions, download input, and submit answers from the comfort of your terminal. *(Rust)*
 * [aocrunner](https://github.com/caderek/aocrunner) ⭐ 199 | 🐛 17 | 🌐 TypeScript | 📅 2024-12-01 -- A fast solutions runner and template generator, with simple CLI, customizable template, simple testing utility, live reload, and adventofcode.com integration. *(JavaScript, TypeScript)*
 * Browser extension ([open source](https://github.com/jeroenheijmans/advent-of-code-charts) ⭐ 146 | 🐛 20 | 🌐 JavaScript | 📅 2026-06-10) enhancing private leaderboards with a "medals/podium" chart per day, Part 1 to Part 2 overview, and several other charts for your leaderboard
   * [Chrome extension "Advent of Code Charts"](https://chrome.google.com/webstore/detail/advent-of-code-charts/ipbomkmbokofodhhjpipflmdplipblbe)
@@ -209,7 +209,7 @@ in your favourite language.*
 * [erikw/advent-of-code-solutions](https://github.com/erikw/advent-of-code-solutions) ⭐ 16 | 🐛 0 | 🌐 Ruby | 📅 2026-05-08 Util scripts for creating year/day folder/files from language templates, input fetching, boiler plate file generation. See `bin/solve_day.sh` and `bin/stats.sh`.
 * [advent-of-code-client](https://github.com/toblu/advent-of-code-client) ⭐ 15 | 🐛 1 | 🌐 TypeScript | 📅 2022-12-10 -- A Node.js package for fetching inputs, running puzzle challenges and submitting answers to adventofcode.com directly from your JavaScript code. Also includes some commonly used & customizable input transformation functions. *(JavaScript)*
 * [aoc\_helper](https://github.com/Starwort/aoc_helper) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-12-08 -- `aoc_helper` is a library and command line tool which can generate templates, fetch puzzle inputs, submit solutions, and even automatically detect the tests! It also comes with a huge library of utility classes, such as fluent interfaces to iterators and lists, grids which can automatically read text, and more. *(Python)*
-* [advent-of-code-ocr](https://github.com/bsoyka/advent-of-code-ocr) ⭐ 13 | 🐛 4 | 🌐 Python | 📅 2026-11-09 -- Python module for parsing AoC ascii art words *(Python)*
+* [advent-of-code-ocr](https://github.com/bsoyka/advent-of-code-ocr) ⭐ 13 | 🐛 4 | 🌐 Python | 📅 2026-11-16 -- Python module for parsing AoC ascii art words *(Python)*
 * [esb](https://github.com/luxedo/esb) ⭐ 12 | 🐛 2 | 🌐 Python | 📅 2025-12-30 -- `esb` is a CLI tool to help us elves save Christmas for the yearly [Advent of Code](https://adventofcode.com/) events. (Thank you, [Eric! 😉](https://twitter.com/ericwastl)). This tool fetches puzzle statements and puzzle data, creates language agnostic boilerplate code, test run and submit solutions and builds dashboards. Check out an [example repo](https://github.com/luxedo/advent-of-code) ⭐ 2 | 🐛 1 | 🌐 Go | 📅 2026-02-13 created using `esb`! *(Python, Rust, Elixir, Go)*
 * [aocinput](https://github.com/dds/aoc2020/blob/main/cmd/aocinput/aocinput.go) ⭐ 11 | 🐛 7 | 🌐 Go | 📅 2026-11-11 -- CLI for getting inputs. Clipboard support. Polite to AoC. Nice help and options. *(Go)*
 * [advent-of-code](https://github.com/jromero132/advent-of-code) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-12-17 -- Command-line interface to download challenge descriptions and inputs, manage, test and automatically submit solutions. *(Python)*
@@ -582,7 +582,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [ephemient/aoc2025](https://github.com/ephemient/aoc2025) ⭐ 0 | 🐛 0 | 🌐 Kotlin | 📅 2025-12-11 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--11-brightgreen)
 * [MrRobb/advent-of-code-2025](https://github.com/MrRobb/advent-of-code-2025) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [NicoDeGiacomo/advent-of-code](https://github.com/NicoDeGiacomo/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-01-26 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--01--26-brightgreen)
-* [vil02/adv\_2025](https://github.com/vil02/adv_2025) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-11-14 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--23-brightgreen)
+* [vil02/adv\_2025](https://github.com/vil02/adv_2025) ⭐ 0 | 🐛 4 | 🌐 Python | 📅 2026-11-16 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--23-brightgreen)
 
 #### R
 
@@ -634,7 +634,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Rust.*
 
-* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 549 | 🐛 2 | 🌐 Rust | 📅 2026-11-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--25-brightgreen)
+* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 549 | 🐛 2 | 🌐 Rust | 📅 2026-11-16 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--25-brightgreen)
 * [connorslade/advent-of-code](https://github.com/connorslade/advent-of-code) ⭐ 38 | 🐛 0 | 🌐 Rust | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [rene-d/advent-of-rust](https://github.com/rene-d/advent-of-rust) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2026-10-16 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--16-brightgreen)
 * [happycoder74/adventofcode](https://github.com/happycoder74/adventofcode) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2026-02-09 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--02--09-brightgreen)
@@ -740,4 +740,4 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
