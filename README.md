@@ -129,7 +129,7 @@ This is a collection of awesome resources related to the yearly
 *Templates, cookiecutters and skeletons for quickly setting up projects
 in your favourite language.*
 
-* [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) ⭐ 828 | 🐛 9 | 🌐 Rust | 📅 2026-11-01 *(Rust)*
+* [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) ⭐ 828 | 🐛 9 | 🌐 Rust | 📅 2026-11-20 *(Rust)*
 * [kotlin-hands-on/advent-of-code-kotlin-template](https://github.com/kotlin-hands-on/advent-of-code-kotlin-template) ⭐ 697 | 🐛 4 | 🌐 Kotlin | 📅 2025-11-29 *(Kotlin)*
 * [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) ⭐ 475 | 🐛 51 | 🌐 Rust | 📅 2025-05-09 *(Rust)*
 * [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) ⭐ 216 | 🐛 0 | 🌐 Elixir | 📅 2024-12-03 *(Elixir)*
@@ -191,7 +191,7 @@ in your favourite language.*
 
 * [aoc-cli](https://github.com/scarvalhojr/aoc-cli) ⭐ 322 | 🐛 16 | 🌐 Rust | 📅 2023-12-22 -- Read puzzle descriptions, download input, and submit answers from the comfort of your terminal. *(Rust)*
 * [aocrunner](https://github.com/caderek/aocrunner) ⭐ 199 | 🐛 17 | 🌐 TypeScript | 📅 2024-12-01 -- A fast solutions runner and template generator, with simple CLI, customizable template, simple testing utility, live reload, and adventofcode.com integration. *(JavaScript, TypeScript)*
-* Browser extension ([open source](https://github.com/jeroenheijmans/advent-of-code-charts) ⭐ 146 | 🐛 20 | 🌐 JavaScript | 📅 2026-06-10) enhancing private leaderboards with a "medals/podium" chart per day, Part 1 to Part 2 overview, and several other charts for your leaderboard
+* Browser extension ([open source](https://github.com/jeroenheijmans/advent-of-code-charts) ⭐ 146 | 🐛 21 | 🌐 JavaScript | 📅 2026-11-21) enhancing private leaderboards with a "medals/podium" chart per day, Part 1 to Part 2 overview, and several other charts for your leaderboard
   * [Chrome extension "Advent of Code Charts"](https://chrome.google.com/webstore/detail/advent-of-code-charts/ipbomkmbokofodhhjpipflmdplipblbe)
   * [Firefox extension "Advent of Code Charts"](https://addons.mozilla.org/en-US/firefox/addon/advent-of-code-charts/)
 * [aoc-badges-action](https://github.com/J0B10/aoc-badges-action) ⭐ 128 | 🐛 1 | 🌐 Python | 📅 2024-02-10 -- A GitHub action for updating various aoc-related badges in your README *(GitHub Action, Python)*
@@ -204,7 +204,7 @@ in your favourite language.*
 * [adventofcode-badge](https://github.com/stackcats/adventofcode-badge) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2025-08-14 -- An interface over Shields.io to facilitate the creation of badges from Advent of Code.
 * [eggnog](https://github.com/breakthatbass/eggnog) ⭐ 21 | 🐛 5 | 🌐 C | 📅 2021-12-10 -- CLI for getting input, directions (with nice colors!), and submitting answers. Caches absolutely everything. *(C)*
 * [advent\_of\_code\_utils](https://github.com/mathsaey/advent_of_code_utils) ⭐ 18 | 🐛 1 | 🌐 Elixir | 📅 2026-02-02 -- Input fetcher and boilerplate generator for those solving AoC in Elixir. *(Elixir)*
-* [Kodvent](https://github.com/DmitryNekrasov/kodvent) ⭐ 18 | 🐛 4 | 🌐 Kotlin | 📅 2026-07-17 -- a Kotlin utility library for competitive programming and Advent of Code challenges, providing efficient data structures, mathematical functions and string algorithms. *(Kotlin)*
+* [Kodvent](https://github.com/DmitryNekrasov/kodvent) ⭐ 18 | 🐛 5 | 🌐 Kotlin | 📅 2026-11-21 -- a Kotlin utility library for competitive programming and Advent of Code challenges, providing efficient data structures, mathematical functions and string algorithms. *(Kotlin)*
 * [AocKt](https://github.com/Jadarma/advent-of-code-kotlin) ⭐ 16 | 🐛 0 | 🌐 Kotlin | 📅 2026-11-19 -- A testing library for creating unit tests for AoC solutions with minimal boilerplate. *(Kotlin)*
 * [erikw/advent-of-code-solutions](https://github.com/erikw/advent-of-code-solutions) ⭐ 16 | 🐛 0 | 🌐 Ruby | 📅 2026-05-08 Util scripts for creating year/day folder/files from language templates, input fetching, boiler plate file generation. See `bin/solve_day.sh` and `bin/stats.sh`.
 * [advent-of-code-client](https://github.com/toblu/advent-of-code-client) ⭐ 15 | 🐛 1 | 🌐 TypeScript | 📅 2022-12-10 -- A Node.js package for fetching inputs, running puzzle challenges and submitting answers to adventofcode.com directly from your JavaScript code. Also includes some commonly used & customizable input transformation functions. *(JavaScript)*
@@ -319,7 +319,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [ClxS/Advent-of-Code-2025](https://github.com/ClxS/Advent-of-Code-2025) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2025-12-04 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--04-brightgreen)
 * [MarkusG/AoC-2025](https://github.com/MarkusG/AoC-2025) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2025-12-14 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--14-brightgreen)
 * [sebastianlay/AdventOfCode2025](https://github.com/sebastianlay/AdventOfCode2025) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2025-12-19 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--19-brightgreen)
-* [sehra/advent-of-code](https://github.com/sehra/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-11-19 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--15-brightgreen)
+* [sehra/advent-of-code](https://github.com/sehra/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-11-21 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--15-brightgreen)
 * [Tholdrim/Competitions](https://github.com/Tholdrim/Competitions) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2025-12-16 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [udvlp/Advent-of-Code-2025](https://github.com/udvlp/Advent-of-Code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--08-brightgreen)
 
@@ -740,4 +740,4 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
