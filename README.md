@@ -130,12 +130,12 @@ This is a collection of awesome resources related to the yearly
 in your favourite language.*
 
 * [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) ⭐ 830 | 🐛 9 | 🌐 Rust | 📅 2026-11-20 *(Rust)*
-* [kotlin-hands-on/advent-of-code-kotlin-template](https://github.com/kotlin-hands-on/advent-of-code-kotlin-template) ⭐ 699 | 🐛 5 | 🌐 Kotlin | 📅 2025-11-29 *(Kotlin)*
+* [kotlin-hands-on/advent-of-code-kotlin-template](https://github.com/kotlin-hands-on/advent-of-code-kotlin-template) ⭐ 699 | 🐛 6 | 🌐 Kotlin | 📅 2025-11-29 *(Kotlin)*
 * [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) ⭐ 476 | 🐛 51 | 🌐 Rust | 📅 2025-05-09 *(Rust)*
 * [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) ⭐ 216 | 🐛 0 | 🌐 Elixir | 📅 2024-12-03 *(Elixir)*
 * [SpexGuy/Zig-AoC-Template](https://github.com/SpexGuy/Zig-AoC-Template) ⭐ 130 | 🐛 2 | 🌐 Zig | 📅 2024-11-10 *(Zig)*
 * [derailed-dash/Advent-of-Code](https://github.com/derailed-dash/Advent-of-Code) ⭐ 95 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-26 *(Python Jupyter Notebook)*
-* [TanklesXL/gladvent](https://github.com/TanklesXL/gladvent) ⭐ 71 | 🐛 10 | 🌐 Gleam | 📅 2025-10-27 *Gleam*
+* [TanklesXL/gladvent](https://github.com/TanklesXL/gladvent) ⭐ 72 | 🐛 8 | 🌐 Gleam | 📅 2026-11-27 *Gleam*
 * [eduherminio/AdventOfCode.Template](https://github.com/eduherminio/AdventOfCode.Template) ⭐ 50 | 🐛 0 | 🌐 C# | 📅 2026-11-27 *(C#)*
 * [sindrekjr/AdventOfCodeBase](https://github.com/sindrekjr/AdventOfCodeBase) ⭐ 41 | 🐛 0 | 🌐 C# | 📅 2025-11-28 *(C#)*
 * [S-ecki/AdventOfCode-Starter-Dart](https://github.com/S-ecki/AdventOfCode-Starter-Dart) ⭐ 35 | 🐛 10 | 🌐 Dart | 📅 2024-11-29 *(Dart)*
@@ -191,7 +191,7 @@ in your favourite language.*
 
 * [aoc-cli](https://github.com/scarvalhojr/aoc-cli) ⭐ 322 | 🐛 16 | 🌐 Rust | 📅 2023-12-22 -- Read puzzle descriptions, download input, and submit answers from the comfort of your terminal. *(Rust)*
 * [aocrunner](https://github.com/caderek/aocrunner) ⭐ 200 | 🐛 17 | 🌐 TypeScript | 📅 2024-12-01 -- A fast solutions runner and template generator, with simple CLI, customizable template, simple testing utility, live reload, and adventofcode.com integration. *(JavaScript, TypeScript)*
-* Browser extension ([open source](https://github.com/jeroenheijmans/advent-of-code-charts) ⭐ 147 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-21) enhancing private leaderboards with a "medals/podium" chart per day, Part 1 to Part 2 overview, and several other charts for your leaderboard
+* Browser extension ([open source](https://github.com/jeroenheijmans/advent-of-code-charts) ⭐ 148 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-21) enhancing private leaderboards with a "medals/podium" chart per day, Part 1 to Part 2 overview, and several other charts for your leaderboard
   * [Chrome extension "Advent of Code Charts"](https://chrome.google.com/webstore/detail/advent-of-code-charts/ipbomkmbokofodhhjpipflmdplipblbe)
   * [Firefox extension "Advent of Code Charts"](https://addons.mozilla.org/en-US/firefox/addon/advent-of-code-charts/)
 * [aoc-badges-action](https://github.com/J0B10/aoc-badges-action) ⭐ 128 | 🐛 1 | 🌐 Python | 📅 2024-02-10 -- A GitHub action for updating various aoc-related badges in your README *(GitHub Action, Python)*
@@ -346,7 +346,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Common Lisp.*
 
-* [ynadji/advent](https://github.com/ynadji/advent) ⭐ 2 | 🐛 0 | 🌐 Common Lisp | 📅 2026-11-19 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--07-brightgreen)
+* [ynadji/advent](https://github.com/ynadji/advent) ⭐ 2 | 🐛 0 | 🌐 Common Lisp | 📅 2026-11-28 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--07-brightgreen)
 * [deril/advent-of-code](https://github.com/deril/advent-of-code) ⭐ 0 | 🐛 0 | 🌐 Common Lisp | 📅 2025-12-07 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--07-brightgreen)
 
 #### Crystal
@@ -432,7 +432,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Haskell.*
 
 * [glguy/advent](https://github.com/glguy/advent) ⭐ 48 | 🐛 1 | 🌐 Haskell | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
-* [Lorin-Lange/advent-of-code](https://github.com/Lorin-Lange/advent-of-code) ⭐ 2 | 🐛 0 | 🌐 Haskell | 📅 2026-08-05 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--08--05-brightgreen)
+* [Lorin-Lange/advent-of-code](https://github.com/Lorin-Lange/advent-of-code) ⭐ 1 | 🐛 0 | 🌐 Haskell | 📅 2026-08-05 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--08--05-brightgreen)
 * [ephemient/aoc2025](https://github.com/ephemient/aoc2025) ⭐ 0 | 🐛 0 | 🌐 Kotlin | 📅 2025-12-11 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--11-brightgreen)
 
 #### Haxe
@@ -634,7 +634,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Rust.*
 
-* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 545 | 🐛 2 | 🌐 Rust | 📅 2026-11-27 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--25-brightgreen)
+* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ⭐ 546 | 🐛 2 | 🌐 Rust | 📅 2026-11-28 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--25-brightgreen)
 * [connorslade/advent-of-code](https://github.com/connorslade/advent-of-code) ⭐ 38 | 🐛 0 | 🌐 Rust | 📅 2025-12-12 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [rene-d/advent-of-rust](https://github.com/rene-d/advent-of-rust) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2026-10-16 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--10--16-brightgreen)
 * [happycoder74/adventofcode](https://github.com/happycoder74/adventofcode) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2026-02-09 ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2026--02--09-brightgreen)
@@ -740,4 +740,4 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
